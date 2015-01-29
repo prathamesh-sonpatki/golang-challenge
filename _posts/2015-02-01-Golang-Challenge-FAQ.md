@@ -56,7 +56,6 @@ After a winner wins the monthly challenge, he/she would be interviewed here.
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of winners. 
 * No prize substitution is permitted. 
-* Winner(s) may be required to verify their entry.
 
 **Challenge Example**
 
