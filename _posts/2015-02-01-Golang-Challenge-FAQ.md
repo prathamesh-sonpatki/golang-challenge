@@ -4,7 +4,7 @@ title: Golang Challenge FAQ
 tags: [golang challenge, golang]
 ---
 
-**What is the Golang Programming Challenge ?**
+**What is the Golang Challenge ?**
 
 * The Golang Challenge is a monthly programming challenge for Go programmers (newbies included).
 * **The Golang Challenge is free and registration is not required**.
