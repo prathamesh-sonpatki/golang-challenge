@@ -6,7 +6,12 @@ tags: [golang challenge, golang]
 
 **What is the Golang Programming Challenge for Newbies ?**
 
-The Golang Challenge is a monthly programming challenge for Go Programming Newbies. A new Golang Challenge will be posted on the Golang Challenge blog on the first of the month starting March 2015. The contest is open to individuals only and you are invited to post your queries / doubts as comments to the respective blog post. On the 15th of that month, all the solutions will be thrown open for everyone to see, comment upon and cast your vote. On the 1st of the next month, the cycle begins again. The Go working solution(s) should be clear-cut, follow Go conventions and still be easy to understand.
+* The Golang Challenge is a monthly programming challenge for Go Programming Newbies. 
+* A new Golang Challenge will be posted on the Golang Challenge blog on the first of the month starting March 2015. 
+* The challenge is open to individuals only. You are invited to email your queries / doubts to satish [at] joshsoftware.com
+* On the 16th of that month, all the solutions will be thrown open for everyone to see, comment upon and cast your vote. 
+* The Go working solution(s) should be clear-cut, follow Go conventions and still be easy to understand.
+* On the 1st of the next month, the cycle begins again.
 
 **How does the Golang Challenge benefit you ?**
 
@@ -22,9 +27,4 @@ Welcome newbies!
 
 Read the **Challenge Rules** located at the bottom of this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
 
-**The Golang Challenge is free and registration is not required**. You can enter the challenge by posting as a comment to the Golang challenge blog post that will appear every month, the following:
-
-* Your name
-* Your GitHub id
-* Brief description of what you do
-* Country of Residence
+**The Golang Challenge is free and registration is not required**. You can enter the challenge by posting your solution details only on 14th or 15th of the same month [here](https://github.com/IndianGuru/Golang-Challenge-1).
