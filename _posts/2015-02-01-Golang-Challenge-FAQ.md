@@ -8,9 +8,8 @@ tags: [golang challenge, golang]
 
 * The Golang Challenge is a monthly programming challenge for Go Programming Newbies.
 * **The Golang Challenge is free and registration is not required**.
-* A new Golang Challenge will be posted here on the first of the month starting March 2015. 
+* A new Golang Challenge will be posted here on the first of each month starting March 2015. 
 * The challenge is open to individuals only. You are invited to email your queries / doubts to satish [at] joshsoftware.com
-* On the 1st of the next month, the cycle begins again.
 
 **How does the Golang Challenge benefit you ?**
 
