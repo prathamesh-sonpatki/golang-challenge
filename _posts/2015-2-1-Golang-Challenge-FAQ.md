@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Golang Challenge FAQ
+tags: [golang challenge, golang]
 ---
 
 **What Is The Golang Programming Challenge For Newbies ?**
