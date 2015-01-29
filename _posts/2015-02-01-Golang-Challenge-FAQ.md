@@ -7,7 +7,7 @@ tags: [golang challenge, golang]
 **What is the Golang Programming Challenge for Newbies ?**
 
 * The Golang Challenge is a monthly programming challenge for Go Programming Newbies. 
-* A new Golang Challenge will be posted on the Golang Challenge blog on the first of the month starting March 2015. 
+* A new Golang Challenge will be posted here on the first of the month starting March 2015. 
 * The challenge is open to individuals only. You are invited to email your queries / doubts to satish [at] joshsoftware.com
 * On the 16th of that month, all the solutions will be thrown open for everyone to see, comment upon and cast your vote. 
 * The Go working solution(s) should be clear-cut, follow Go conventions and still be easy to understand.
