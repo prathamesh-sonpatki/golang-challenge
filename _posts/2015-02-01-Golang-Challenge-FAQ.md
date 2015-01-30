@@ -4,8 +4,6 @@ title: Golang Challenge FAQ
 tags: [golang challenge, golang]
 ---
 
-![gopher]({{ site.baseurl }}/images/gopher.png)
-
 **What is the Golang Challenge ?**
 
 * The Golang Challenge is a monthly programming challenge for Go programmers (newbies included).
