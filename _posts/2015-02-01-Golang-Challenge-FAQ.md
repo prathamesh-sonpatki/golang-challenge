@@ -11,7 +11,8 @@ tags: [golang challenge, golang]
 * The Golang Challenge is a monthly programming challenge for Go programmers (newbies included).
 * **The Golang Challenge is free and registration is not required**.
 * A new Golang Challenge will be posted here on the **first day of each month** starting March 2015. 
-* The challenge is open to individuals only. You are invited to email your queries / doubts to satish [at] joshsoftware.com
+* The challenge is open to individuals only. 
+* You are invited to email your queries / doubts to satish [at] joshsoftware.com
 
 **How does the Golang Challenge benefit you ?**
 
@@ -30,7 +31,7 @@ The Golang Challenge:
 
 **Best Solution**
 
-The author of the Golang Challenge for the particular month will decide the best solution, with some help from a panel from the Go community. This panel shall have the sole authority and discretion to select the award recipient(s). 
+The author of the Golang Challenge for the particular month will decide the best solution, with some help from the Go community. This author shall have the sole authority and discretion to select the award recipient(s). 
 
 **Notification**
 
@@ -52,7 +53,7 @@ After a winner wins the monthly challenge, he/she would be interviewed here.
 
 * To participate in the Golang Challenge, you must be at least 18 years old. 
 * The Challenge is open to individuals.
-* Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and the blog) harmless from any third party claims arising from or related to that entrant’s participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
+* Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant’s participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of winners. 
 * No prize substitution is permitted. 
