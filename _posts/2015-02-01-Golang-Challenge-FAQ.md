@@ -10,7 +10,7 @@ tags: [go challenge, golang]
 * **The Go Challenge is free and registration is not required**.
 * A new Go Challenge will be posted here on the **first day of each month** starting March 2015. 
 * The challenge is open to individuals only. 
-* You are invited to email your queries / doubts to satish [at] joshsoftware.com
+* You are invited to post your queries / doubts on our [forum](https://groups.google.com/d/forum/go-challenge).
 
 **How does the Go Challenge benefit you ?**
 
