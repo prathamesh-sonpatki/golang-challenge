@@ -63,4 +63,4 @@ Chris Strom had set up a [Ruby challenge](http://rubylearning.com/blog/2015/01/2
 
 **Credit**
 
-The Gopher character credit to Renée French.
+The Gopher character is based on the Go mascot designed by Renée French and copyrighted under the Creative Commons Attribution 3.0 license.
