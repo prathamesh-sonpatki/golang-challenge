@@ -24,7 +24,7 @@ The Go Challenge:
 
 * Read the **Challenge Rules** located at the bottom of this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
 * You can enter the challenge by posting your solution details only on 14th or 15th of the month **[here](https://github.com/IndianGuru/Golang-Challenge-1)**. No new solutions will be accepted after that.
-* The Go working solution(s) should be clear-cut, follow Go conventions and still be easy to understand. Refer to [Effective Go](https://golang.org/doc/effective_go.html) and [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments).
+* The Go working solution(s) should be complete, follow Go conventions and showcase Go's strengths. Refer to [Effective Go](https://golang.org/doc/effective_go.html) and [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments).
 * On the 16th of the month, all the solutions will be thrown open for [everyone to see, comment upon and cast votes](https://groups.google.com/d/forum/go-challenge). 
 
 **Best Solution**
@@ -51,6 +51,7 @@ After a winner wins the monthly challenge, he/she would be interviewed here.
 
 * You may participate in the Challenge only if you are 13 years of age or older.
 * The Challenge is open to individuals.
+* You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge.
 * Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant’s participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of winners. 
