@@ -61,6 +61,12 @@ After a winner wins the monthly challenge, he/she would be interviewed here.
 
 Chris Strom had set up a [Ruby challenge](http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight-2-reprint/) way back in 2009. We would have similar challenges for Go.
 
+**First Challenge**
+
+The First Go Challenge is being set by Matt Aimonetti.
+<img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg">
+Matt Aimonetti is [Splice CTO & Co-Founder](https://splice.com/), an experienced technologist, entrepreneur, technical writer and active open-source contributor based in Santa Monica, CA. Prior to Splice, Matt worked as a Tech manager/R&D developer at LivingSocial, on video game development at Sony PlayStation, as a sound engineer and on many other things.
+
 **Credit**
 
 The Gopher character is based on the Go mascot designed by Renée French and copyrighted under the Creative Commons Attribution 3.0 license.
