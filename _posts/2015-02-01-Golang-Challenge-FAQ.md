@@ -61,3 +61,6 @@ After a winner wins the monthly challenge, he/she would be interviewed here.
 
 Chris Strom had set up a [Ruby challenge](http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight-2-reprint/) way back in 2009. We would have similar challenges for Go.
 
+**Credit**
+
+The Gopher character credit to Renée French.
