@@ -64,7 +64,7 @@ Chris Strom had set up a [Ruby challenge](http://rubylearning.com/blog/2015/01/2
 **First Challenge**
 
 The First Go Challenge is being set by Matt Aimonetti.
-<img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg">
+<img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg" height="150" width="150">
 Matt is [Splice CTO & Co-Founder](https://splice.com/), an experienced technologist, entrepreneur, technical writer and active open-source contributor based in Santa Monica, CA. Prior to Splice, Matt worked as a Tech manager/R&D developer at LivingSocial, on video game development at Sony PlayStation, as a sound engineer and on many other things.
 
 **Credit**
