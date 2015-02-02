@@ -43,7 +43,7 @@ There will normally be two prizes (though we reserve the right to change this fo
 
 Any individual or companies interested in sponsoring the monthly event are welcome. Please contact Satish Talim at satish [at] joshsoftware.com
 
-So far, JoshSoftware Pvt. Ltd., Pune and Qwinix Technologies, Denver have agreed to support the challenge. More to follow soon.
+So far, [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) and [Qwinix Technologies](http://www.qwinixtech.com/) have agreed to support the challenge. More to follow soon.
 
 **Winner Interviews**
 
@@ -74,6 +74,7 @@ Matt is [Splice CTO & Co-Founder](https://splice.com/), an experienced technolog
 So far, the following Gophers have agreed to set up the challenge for:
 
 * May 2015 - [Sau Sheong Chang](https://www.linkedin.com/in/sausheong)
+* Aug. 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
 
 **Credit**
 
