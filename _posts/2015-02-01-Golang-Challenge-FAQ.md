@@ -49,16 +49,20 @@ Here are some great prizes provided by our sponsors for the event.
 
 _Winner (selected by the author)_:
 
-* [Cube Root Software](http://cuberoot.in/) - A book [Go-The Standard Library](https://leanpub.com/go-thestdlib)
-* [Packt Publishing](https://www.packtpub.com/)
-* [RainingClouds](http://rainingclouds.com/#!/) - A book [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
+* [Cube Root Software](http://cuberoot.in/) - An eBook [Go-The Standard Library](https://leanpub.com/go-thestdlib)
+* [Packt Publishing](https://www.packtpub.com/) - A print book [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
+* [RainingClouds](http://rainingclouds.com/#!/) - An eBook [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
 
 _Winner (selected by the Go community)_:
 
-* [Packt Publishing](https://www.packtpub.com/)
-* [RainingClouds](http://rainingclouds.com/#!/) - A book [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
+* [Packt Publishing](https://www.packtpub.com/) - An eBook [Building Your First Application with Go-Video](https://www.packtpub.com/application-development/building-your-first-application-go-video)
+* [RainingClouds](http://rainingclouds.com/#!/) - An eBook [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
  
-All participants will get 20% off on the price of a print and / or eBook from [Packt Publishing](https://www.packtpub.com/).
+_All_ participants will get 20% off on the price of the following print and / or eBooks from [Packt Publishing](https://www.packtpub.com/):
+
+* [Building Your First Application with Go-Video](https://www.packtpub.com/application-development/building-your-first-application-go-video)
+* [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
+* [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)
 
 **Winner Interviews**
 
