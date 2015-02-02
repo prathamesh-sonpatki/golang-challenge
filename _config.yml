@@ -43,7 +43,7 @@ url: http://golang-challenge.com
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/golang-challenge"
+# baseurl: "/golang-challenge"
 
 #
 # Specific to Golang Challenge
