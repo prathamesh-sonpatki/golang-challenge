@@ -4,6 +4,10 @@ title: Go Challenge FAQ
 tags: [go challenge, golang]
 ---
 
+**Preamble**
+
+[JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) is India's leading company in building innovative web applications working exclusively in Ruby On Rails since 2007. Josh have been dabbling with Go diligently and using it in some our their Web applications along side Rails (especially for some heavy lifting). Back in 2009, Josh had been actively involved in organizing Ruby programming challenges and decided that Go too needs such challenges. Hence the monthly Go Challenge.
+
 **What is the Go Challenge ?**
 
 * The Go Challenge is a monthly programming challenge for Go programmers (newbies included).
