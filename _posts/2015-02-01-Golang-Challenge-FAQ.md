@@ -75,6 +75,7 @@ So far, the following Gophers have agreed to set up the challenge for:
 
 * May 2015 - [Sau Sheong Chang](https://www.linkedin.com/in/sausheong)
 * June 2015 - [Andrew Gerrand](https://plus.google.com/+AndrewGerrand/about)
+* July 2015 - [Jessica Frazelle](https://github.com/jfrazelle)
 * August 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
 
 **Credit**
