@@ -49,6 +49,7 @@ Here are some great prizes provided by our sponsors for the event.
 
 _Winner (selected by the author)_:
 
+* [Cube Root Software](http://cuberoot.in/) - A book [ The Standard Library](https://leanpub.com/go-thestdlib)
 * [RainingClouds](http://rainingclouds.com/#!/) - A book [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
 
 _Winner (selected by the Go community)_:
