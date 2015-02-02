@@ -51,7 +51,6 @@ After a winner wins the monthly challenge, he/she would be interviewed here.
 
 **Challenge Rules**
 
-* You may participate in the Challenge only if you are 13 years of age or older.
 * The Challenge is open to individuals.
 * You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge.
 * Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant’s participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
