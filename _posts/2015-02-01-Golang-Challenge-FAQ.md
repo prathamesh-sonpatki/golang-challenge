@@ -35,15 +35,25 @@ The author of the Go Challenge for the particular month will decide the best sol
 
 The winning entries will be announced here. The winners will be sent their prizes by email.
 
-**Prizes**
-
-There will normally be two prizes (though we reserve the right to change this for each challenge). One prize will be awarded for the best solution selected by the author and a panel and the other will be for the best popular voted solution by the community. Prizes can range from small cash rewards to free PDFs, Screencasts – whatever the sponsors of the challenge have offered.
-
 **Sponsors**
 
 Any individual or companies interested in sponsoring the monthly event are welcome. Please contact Satish Talim at satish [at] joshsoftware.com
 
 So far, [Cube Root Software](http://cuberoot.in/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Qwinix Technologies](http://www.qwinixtech.com/) and [RainingClouds](http://rainingclouds.com/#!/) have agreed to support the challenge. More to follow soon.
+
+**Prizes**
+
+There will normally be two prizes (though we reserve the right to change this for each challenge). One prize will be awarded for the best solution selected by the author and a panel and the other will be for the best popular voted solution by the community. Prizes can range from small cash rewards to free PDFs, Screencasts – whatever the sponsors of the challenge have offered.
+
+Here are some great prizes provided by our sponsors for the event.
+
+_Winner (selected by the author)_:
+
+* [RainingClouds](http://rainingclouds.com/#!/) - A book [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
+
+_Winner (selected by the Go community)_:
+
+* [RainingClouds](http://rainingclouds.com/#!/) - A book [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
 
 **Winner Interviews**
 
