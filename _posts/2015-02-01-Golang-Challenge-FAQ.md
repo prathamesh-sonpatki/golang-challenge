@@ -43,7 +43,7 @@ There will normally be two prizes (though we reserve the right to change this fo
 
 Any individual or companies interested in sponsoring the monthly event are welcome. Please contact Satish Talim at satish [at] joshsoftware.com
 
-So far, [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) and [Qwinix Technologies](http://www.qwinixtech.com/) have agreed to support the challenge. More to follow soon.
+So far, [Cube Root Software](http://cuberoot.in/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Qwinix Technologies](http://www.qwinixtech.com/) and [RainingClouds](http://rainingclouds.com/#!/) have agreed to support the challenge. More to follow soon.
 
 **Winner Interviews**
 
