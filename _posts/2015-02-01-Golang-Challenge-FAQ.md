@@ -74,7 +74,8 @@ Matt is [Splice CTO & Co-Founder](https://splice.com/), an experienced technolog
 So far, the following Gophers have agreed to set up the challenge for:
 
 * May 2015 - [Sau Sheong Chang](https://www.linkedin.com/in/sausheong)
-* Aug. 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
+* June 2015 - [Andrew Gerrand](https://plus.google.com/+AndrewGerrand/about)
+* August 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
 
 **Credit**
 
