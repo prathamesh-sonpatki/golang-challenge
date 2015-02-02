@@ -6,11 +6,10 @@ tags: [go challenge, golang]
 
 **Preamble**
 
+<img align="right" src="http://rubylearning.com/images/go-challenge.png" alt="Go Challenge" title="http://golang-challenge.com/" />
 [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) is India's leading company in building innovative web applications working exclusively in Ruby On Rails since 2007. Josh have been dabbling with Go diligently and using it in some of their Web applications along side Rails (especially for some heavy lifting). Back in 2009, Josh had been actively involved in organizing Ruby programming challenges and decided that Go too needs such challenges. Hence the monthly Go Challenge.
 
 **What is the Go Challenge ?**
-
-<img align="right" src="http://rubylearning.com/images/go-challenge.png" alt="Go Challenge" title="http://golang-challenge.com/" />
 
 * The Go Challenge is a monthly programming challenge for Go programmers (newbies included).
 * **The Go Challenge is free and registration is not required**.
