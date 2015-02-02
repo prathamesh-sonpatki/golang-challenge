@@ -55,6 +55,7 @@ Here are some great prizes provided by our sponsors for the event.
 _Winner (selected by the author)_:
 
 * [Cube Root Software](http://cuberoot.in/) - An eBook [Go-The Standard Library](https://leanpub.com/go-thestdlib)
+* [O'Reilly](http://www.oreilly.com/) - An eBook [Go:Up and Running](http://shop.oreilly.com/product/0636920030638.do)
 * [Packt Publishing](https://www.packtpub.com/) - A print book [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
 * [RainingClouds](http://rainingclouds.com/#!/) - An eBook [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
 
