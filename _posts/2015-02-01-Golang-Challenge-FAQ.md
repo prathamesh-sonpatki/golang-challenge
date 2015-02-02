@@ -97,6 +97,7 @@ Matt is [Splice CTO & Co-Founder](https://splice.com/), an experienced technolog
 
 So far, the following Gophers have agreed to set up the challenge for:
 
+* April 2015 - [William Kennedy](http://ardanlabs.com/)
 * May 2015 - [Sau Sheong Chang](https://www.linkedin.com/in/sausheong)
 * June 2015 - [Andrew Gerrand](https://plus.google.com/+AndrewGerrand/about)
 * July 2015 - [Jessica Frazelle](https://github.com/jfrazelle)
