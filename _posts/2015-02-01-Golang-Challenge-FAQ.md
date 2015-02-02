@@ -11,6 +11,7 @@ tags: [go challenge, golang]
 **What is the Go Challenge ?**
 
 <img align="right" src="http://rubylearning.com/images/go-challenge.png" alt="Go Challenge" title="http://golang-challenge.com/" />
+
 * The Go Challenge is a monthly programming challenge for Go programmers (newbies included).
 * **The Go Challenge is free and registration is not required**.
 * A new Go Challenge will be posted here on the **first day of each month** starting March 2015. 
