@@ -34,7 +34,7 @@ The Go Challenge:
 
 **Evaluators**
 
-So far, [Niket Patel](https://twitter.com/nexneo) and [Piyush Verma](https://twitter.com/meson10) have agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
+So far, [Jiahua Chen](http://about.me/unknwon), [Niket Patel](https://twitter.com/nexneo), [Piyush Verma](https://twitter.com/meson10) and [Pravin Mishra](https://twitter.com/pravinmishra88) have agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
 
 **Best Solution**
 
