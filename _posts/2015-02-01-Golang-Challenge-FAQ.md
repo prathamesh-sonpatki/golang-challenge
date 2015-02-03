@@ -32,6 +32,10 @@ The Go Challenge:
 * The Go working solution(s) should be complete, follow Go conventions and showcase Go's strengths. Refer to [Effective Go](https://golang.org/doc/effective_go.html) and [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments).
 * On the 16th of the month, all the solutions will be thrown open for [everyone to see, comment upon and cast votes](https://groups.google.com/d/forum/go-challenge). 
 
+**Evaluators**
+
+So far, [Niket Patel](https://twitter.com/nexneo) and [Piyush Verma](https://twitter.com/meson10) have agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
+
 **Best Solution**
 
 The author of the Go Challenge for the particular month will decide the best solution, with some help from the Go community. This author shall have the sole authority and discretion to select the award recipient(s). 
