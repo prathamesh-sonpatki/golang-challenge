@@ -48,7 +48,7 @@ The winning entries will be announced here. The winners will be sent their prize
 
 Any individual or companies interested in sponsoring the monthly event are welcome. Please contact Satish Talim at satish [at] joshsoftware.com
 
-So far, [Cube Root Software](http://cuberoot.in/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/) and [RainingClouds](http://rainingclouds.com/#!/) have agreed to support the challenge. More to follow soon.
+So far, [Cube Root Software](http://cuberoot.in/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/) and [RainingClouds](http://rainingclouds.com/#!/) have agreed to support the challenge. More to follow soon.
 
 **Prizes**
 
@@ -59,12 +59,14 @@ Here are some great prizes provided by our sponsors for the event.
 _Winner (selected by the author)_:
 
 * [Cube Root Software](http://cuberoot.in/) - An eBook [Go-The Standard Library](https://leanpub.com/go-thestdlib)
+* [Helpshift](http://www.helpshift.com/) - An eBook [A Go Developer's Notebook](https://leanpub.com/GoNotebook)
 * [O'Reilly](http://www.oreilly.com/) - An eBook [Go:Up and Running](http://shop.oreilly.com/product/0636920030638.do)
 * [Packt Publishing](https://www.packtpub.com/) - A print book [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
 * [RainingClouds](http://rainingclouds.com/#!/) - An eBook [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
 
 _Winner (selected by the Go community)_:
 
+* [Helpshift](http://www.helpshift.com/) - An eBook [A Go Developer's Notebook](https://leanpub.com/GoNotebook)
 * [Packt Publishing](https://www.packtpub.com/) - An eBook [Building Your First Application with Go-Video](https://www.packtpub.com/application-development/building-your-first-application-go-video)
 * [RainingClouds](http://rainingclouds.com/#!/) - An eBook [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
  
