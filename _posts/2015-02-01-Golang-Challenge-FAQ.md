@@ -111,6 +111,8 @@ So far, the following Gophers have agreed to set up the challenge for:
 * July 2015 - [Jessica Frazelle](https://github.com/jfrazelle)
 * August 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
 
+Other interested Gophers: Blake Mizerany, Francesc Campoy Flores, Jeremy Saenz, Matthew Holt, Mike Gehard, Niket Patel, Piyush Verma, Steve Francia and Verónica López.
+
 **Credit**
 
 * The Gopher character is based on the Go mascot designed by Renée French and copyrighted under the Creative Commons Attribution 3.0 license.
