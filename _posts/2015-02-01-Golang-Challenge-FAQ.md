@@ -48,7 +48,7 @@ The winning entries will be announced here. The winners will be sent their prize
 
 Any individual or companies interested in sponsoring the monthly event are welcome. Please contact Satish Talim at satish [at] joshsoftware.com
 
-So far, [Cube Root Software](http://cuberoot.in/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/) and [RainingClouds](http://rainingclouds.com/#!/) have agreed to support the challenge. More to follow soon.
+So far, [Apcera](https://www.apcera.com/), [Cube Root Software](http://cuberoot.in/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/) and [RainingClouds](http://rainingclouds.com/#!/) have agreed to support the challenge. More to follow soon.
 
 **Prizes**
 
