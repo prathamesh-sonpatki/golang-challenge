@@ -30,7 +30,7 @@ The Go Challenge:
 * Read the **Challenge Rules** located at the bottom of this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
 * You can enter the challenge by posting your solution details only on 14th or 15th of the month **[here](https://github.com/IndianGuru/Golang-Challenge-1)**. No new solutions will be accepted after that.
 * The Go working solution(s) should be complete, follow Go conventions and showcase Go's strengths. Refer to [Effective Go](https://golang.org/doc/effective_go.html) and [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments).
-* On the 16th of the month, all the solutions will be thrown open for [everyone to see, comment upon and cast votes](https://groups.google.com/d/forum/go-challenge). 
+* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see, comment upon and cast votes](https://groups.google.com/d/forum/go-challenge). 
 
 **Evaluators**
 
