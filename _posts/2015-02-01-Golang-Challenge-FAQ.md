@@ -113,8 +113,9 @@ So far, the following Gophers have agreed to set up the challenge for:
 * July 2015 - [Jessica Frazelle](https://github.com/jfrazelle)
 * August 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
 * September 2015 - [Steve Francia](https://www.linkedin.com/in/stevefrancia)
+* October 2015 - [Francesc Campoy Flores](https://www.linkedin.com/in/campoy)
 
-Other interested Gophers: Blake Mizerany, Francesc Campoy Flores, Jeremy Saenz, Matthew Holt, Mike Gehard, Niket Patel, Piyush Verma and Verónica López.
+Other interested Gophers: Blake Mizerany, Jeremy Saenz, Matthew Holt, Mike Gehard, Niket Patel, Piyush Verma and Verónica López.
 
 **Credit**
 
