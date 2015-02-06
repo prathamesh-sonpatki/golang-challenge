@@ -84,9 +84,9 @@ _Winner (selected by the Go community)_:
  
 _All_ participants will get 20% off on the price of the following print and / or eBooks from [Packt Publishing](https://www.packtpub.com/):
 
-* [Building Your First Application with Go-Video](https://www.packtpub.com/application-development/building-your-first-application-go-video)
-* [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
-* [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)
+* [Building Your First Application with Go-Video](https://www.packtpub.com/application-development/building-your-first-application-go-video) - Use discount code: **20%byfag20**
+* [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go) - Use discount code: **20%mcig20**
+* [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints) - Use discount code: **20%gpbs20**
 
 **Winner Interviews**
 
