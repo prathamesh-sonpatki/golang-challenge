@@ -95,7 +95,7 @@ Also, anyone can a get 20% off on the price of the following print and / or eBoo
 
 **Winner Interviews**
 
-After a winner wins the monthly challenge, he/she would be interviewed here.
+After a winner wins the monthly challenge, he/she would be interviewed by [Sourcegraph](https://sourcegraph.com/) and the interview will be published on their [blog](https://sourcegraph.com/blog).
 
 **Challenge Rules**
 
