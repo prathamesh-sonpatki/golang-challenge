@@ -46,6 +46,12 @@ So far, the following Gophers have agreed to set up the challenge for:
 
 Other interested Gophers: Blake Mizerany, Matthew Holt, Mike Gehard, Niket Patel, Piyush Verma and Verónica López.
 
+**Sponsors**
+
+Any individual or companies interested in sponsoring the monthly event are welcome. Please contact Satish Talim at satish [at] joshsoftware.com
+
+So far, [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/) and [Sourcegraph](https://sourcegraph.com/) have agreed to support the challenge. More to follow soon.
+
 **How to Enter the Go Challenge ?**
 
 * Read the **Challenge Rules** located at the bottom of this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
@@ -73,12 +79,6 @@ The author of the Go Challenge for the particular month will decide the best sol
 **Notification**
 
 The winning entries will be announced here. The winners will be sent their prizes by email.
-
-**Sponsors**
-
-Any individual or companies interested in sponsoring the monthly event are welcome. Please contact Satish Talim at satish [at] joshsoftware.com
-
-So far, [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/) and [Sourcegraph](https://sourcegraph.com/) have agreed to support the challenge. More to follow soon.
 
 **Prizes**
 
