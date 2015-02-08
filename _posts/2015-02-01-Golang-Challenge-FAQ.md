@@ -11,7 +11,7 @@ tags: [go challenge, golang]
 
 **What is the Go Challenge ?**
 
-* The Go Challenge is a monthly programming challenge for Go programmers (newbies included).
+* The Go Challenge is the world's first monthly programming challenge for Go programmers (newbies included).
 * **The Go Challenge is free and registration is not required**.
 * A new Go Challenge will be posted here on the **first day of each month** starting March 2015. 
 * The challenge is open to individuals only. 
