@@ -6,10 +6,8 @@ published: false
 
 #### The world's first monthly Go Challenge for developers (newbies included) is now live!
 
-**About the Author: Matt Aimonetti**
-
-<img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg" height="125" width="125" alt="Matt Aimonetti" title="Matt Aimonetti" />
-[Matt Aimonetti](http://matt.aimonetti.net/) is the CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators which streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. Long before Splice, Matt was a former sound engineer who tried his hand as an artist before transitioning to full time programming working for companies such as Sony PlayStation and LivingSocial. Matt has been active in the Open Source community for many years developing or contributing to many projects (Merb, Rails, MacRuby and many more), he also wrote a [free book about Go](http://www.golangbootcamp.com/) and is a published tech author for O'Reilly. Matt is based in Santa Monica, California.
+<img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg" height="200" width="200" alt="Matt Aimonetti" title="Matt Aimonetti" />
+The first Go Challenge's author is [Matt Aimonetti](http://matt.aimonetti.net/) who is the CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators which streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. Long before Splice, Matt was a former sound engineer who tried his hand as an artist before transitioning to full time programming working for companies such as Sony PlayStation and LivingSocial. Matt has been active in the Open Source community for many years developing or contributing to many projects (Merb, Rails, MacRuby and many more), he also wrote a [free book about Go](http://www.golangbootcamp.com/) and is a published tech author for O'Reilly. Matt is based in Santa Monica, California.
 
 Matt has this to say about the challenge:
 
@@ -71,7 +69,7 @@ Tempo: 999
 (2) HiHat	|x-x-|x-x-|x-x-|x-x-|
 ```
 
-**I need your help to reverse engineer the binary format used by my drum machine and write a decoder so I will be able to implement a new drum machine, using Go this time!**
+I need your help to reverse engineer the binary format used by my drum machine and write a decoder so I will be able to implement a new drum machine, using Go this time!
 
 You will find [attached 5 files](http://rubylearning.com/data/patterns.zip) with a pattern per file.
 
