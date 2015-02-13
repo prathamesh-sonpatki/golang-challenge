@@ -4,7 +4,7 @@ title: Go Challenge 1
 published: false
 ---
 
-**The world's first monthly programming challenge for Go developers (newbies included) is now live!**
+# The world's first monthly programming challenge for Go developers (newbies included) is now live!
 
 **About the Author: Matt Aimonetti**
 
@@ -71,6 +71,11 @@ Tempo: 999
 (2) HiHat	|x-x-|x-x-|x-x-|x-x-|
 ```
 
+**I need your help to reverse engineer the binary format used by my drum machine and write a decoder so I will be able to implement a new drum machine, using Go this time!**
+
+You will find [attached 5 files](http://rubylearning.com/data/patterns.zip) with a pattern per file.
+
+## Some information about my legacy drum machine
 
 **How to Enter the Go Challenge ?**
 
