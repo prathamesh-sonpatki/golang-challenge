@@ -13,11 +13,64 @@ published: false
 
 Matt has this to say about the challenge:
 
-> Blah
+> Very often developers just need an excuse to learn a new language or develop their own skills. The Go challenge is a great opportunity to work on a low-pressure, isolated, fun challenge and hopefully learn a lot. Getting out of the day to day programmer routine is an awesome way to challenge your brain and become a better developer.
 
 **The Go Challenge 1**
 
-Blah
+This morning I took my daughter Giana to my secret lab to show her the various inventions I built over the years. That's when I realized that the awesome drum machine prototype I designed in the 90s had disappeared!!! The only related things I could find were printouts of the patterns I had created on the device as well as backups saved on floppy disks. Here are the printed patterns:
+
+```
+pattern_1.splice
+Saved with HW Version: 0.808-alpha
+Tempo: 120
+(0) kick     |x---|x---|x---|x---|
+(1) snare    |----|x---|----|x---|
+(2) clap     |----|x-x-|----|----|
+(3) hh-open  |--x-|--x-|x-x-|--x-|
+(4) hh-close |x---|x---|----|x--x|
+(5) cowbell  |----|----|--x-|----|
+```
+
+```
+pattern_2.splice
+Saved with HW Version: 0.808-alpha
+Tempo: 98.4
+(0) kick    |x---|----|x---|----|
+(1) snare   |----|x---|----|x---|
+(3) hh-open |--x-|--x-|x-x-|--x-|
+(5) cowbell |----|----|x---|----|
+```
+
+```
+pattern_3.splice
+Saved with HW Version: 0.808-alpha
+Tempo: 118
+(40) kick    |x---|----|x---|----|
+(1) clap     |----|x---|----|x---|
+(3) hh-open  |--x-|--x-|x-x-|--x-|
+(5) low-tom  |----|---x|----|----|
+(12) mid-tom |----|----|x---|----|
+(9) hi-tom   |----|----|-x--|----|
+```
+
+```
+pattern_4.splice
+Saved with HW Version: 0.909
+Tempo: 240
+(0) SubKick	      |----|----|----|----|
+(1) Kick	      |x---|----|x---|----|
+(99) Maracas	  |x-x-|x-x-|x-x-|x-x-|
+(255) Low Conga	  |----|x---|----|x---|
+```
+
+```
+pattern_5.splice
+Saved with HW Version: 0.708-alpha
+Tempo: 999
+(1) Kick	|x---|----|x---|----|
+(2) HiHat	|x-x-|x-x-|x-x-|x-x-|
+```
+
 
 **How to Enter the Go Challenge ?**
 
