@@ -79,6 +79,7 @@ You will find [attached 5 files](http://rubylearning.com/data/patterns.zip) with
 
 My drum machine loads an audio sample per track allowing the programmer to schedule the playback of the sound. The scheduling of the playback is done using the concept of steps. A step is one of the parts of the measure that is being programmed (the programmed measure is known as a pattern). The measure (also called a bar) is divided in steps.
 
+![measure.jpg](http://rubylearning.com/data/measure.jpg)
 
 **How to Enter the Go Challenge ?**
 
