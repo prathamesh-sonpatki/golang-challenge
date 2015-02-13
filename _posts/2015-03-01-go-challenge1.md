@@ -4,7 +4,7 @@ title: Go Challenge 1
 published: false
 ---
 
-## The world's first monthly Go Challenge for developers (newbies included) is now live!
+### The world's first monthly Go Challenge for developers (newbies included) is now live!
 
 **About the Author: Matt Aimonetti**
 
@@ -75,7 +75,10 @@ Tempo: 999
 
 You will find [attached 5 files](http://rubylearning.com/data/patterns.zip) with a pattern per file.
 
-## Some information about my legacy drum machine
+### Some information about my legacy drum machine
+
+My drum machine loads an audio sample per track allowing the programmer to schedule the playback of the sound. The scheduling of the playback is done using the concept of steps. A step is one of the parts of the measure that is being programmed (the programmed measure is known as a pattern). The measure (also called a bar) is divided in steps.
+
 
 **How to Enter the Go Challenge ?**
 
