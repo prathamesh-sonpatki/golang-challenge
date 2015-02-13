@@ -4,7 +4,7 @@ title: Go Challenge 1
 published: false
 ---
 
-# The world's first monthly programming challenge for Go developers (newbies included) is now live!
+## The world's first monthly Go Challenge for developers (newbies included) is now live!
 
 **About the Author: Matt Aimonetti**
 
