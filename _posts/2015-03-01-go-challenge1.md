@@ -129,7 +129,7 @@ Add more cowbell, reading the binary format is one thing, being able to generate
 #### How to Enter the Go Challenge ?
 
 * Read the **Challenge Rules** located next on this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
-* Create a [secret gist](https://gist.github.com/) of your code (using language Go) and **share the link with satish [at] joshsoftware.com before the 16th of the month**. No new solutions will be accepted after that. Also send **your photo, country of residence, twitter id and any explanation if needed**.
+* Create a [secret gist](https://gist.github.com/) of your code (using language Go) and **share the link with satish [at] joshsoftware.com before the 16th of the month**. No new solutions will be accepted after that. Also send **your photo, country of residence, twitter id and any explanation of your code (if needed)**. We will copy your solution and give it to the evaluation team therefore please ensure that it's your final solution.
 * On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see, comment upon and cast votes](https://groups.google.com/d/forum/go-challenge). 
 
 #### Challenge Rules
