@@ -13,7 +13,9 @@ Matt has this to say about the challenge:
 
 > Very often developers just need an excuse to learn a new language or develop their own skills. The Go challenge is a great opportunity to work on a low-pressure, isolated, fun challenge and hopefully learn a lot. Getting out of the day to day programmer routine is an awesome way to challenge your brain and become a better developer.
 
-**The Go Challenge 1**
+--- 
+
+#### The Go Challenge 1
 
 This morning I took my daughter Giana to my secret lab to show her the various inventions I built over the years. That's when I realized that the awesome drum machine prototype I designed in the 90s had disappeared!!! The only related things I could find were printouts of the patterns I had created on the device as well as backups saved on floppy disks. Here are the printed patterns:
 
@@ -122,7 +124,9 @@ extracts/prints the data.
 
 Add more cowbell, reading the binary format is one thing, being able to generate/modify the data is even more fun. Take a pattern of your choosing and add more cowbell!
 
-**How to Enter the Go Challenge ?**
+---
+
+#### How to Enter the Go Challenge ?
 
 * Read the **Challenge Rules** located at the bottom of this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
 * You can enter the challenge by posting your solution details only on 14th or 15th of the month **[here](https://github.com/IndianGuru/Golang-Challenge-1)**. No new solutions will be accepted after that.
