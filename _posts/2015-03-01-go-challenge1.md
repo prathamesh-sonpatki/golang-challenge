@@ -81,6 +81,49 @@ My drum machine loads an audio sample per track allowing the programmer to sched
 
 ![measure.png](http://rubylearning.com/data/measure.png)
 
+My drum machine only supports 16 step measure patterns played in 4/4 time. The measure is comprised of 4 quarter notes, each quarter notes comprised of 4 sixteenth notes and each sixteenth note corresponds to a step.
+If all these music terms are confusing, don't worry, just know that the drum machine uses grid of 16 parts to let you trigger a sound. We have one sound per track and each track can be programmed independently. Each part is called a step. The speed of the playback is based on the tempo AKA bpm.
+
+Taking an example from the printouts above:
+```
+(40) kick |x---|----|x---|----|
+```
+
+means that we have a track called "kick" (id 40) with the sound output being triggered on the first and ninth steps.
+
+### Goal
+
+The goal of this challenge is to write a binary decoder that given a binary backup, outputs the same printouts as shown above.
+
+### Requirements
+
+* Only use standard libraries
+
+### Hints
+
+* Look around to see how data is usually serialized/encoded.
+* Become familiar with encoding/binary package.
+* ```hex.Dump()``` is very useful when debugging binary data.
+* Think about the various permutations of data, imagine what other patterns could look like.
+
+### I don't know where to start :(
+
+The first step is to reverse engineer the binary file format. Look at the hex value to see if you can detect patterns. Binary data usually contains some sort of headers, then the encoded data. You should expect to find the data described in the printouts:
+
+* version
+* tempo
+* track with each track containing
+  * id
+  * name
+  * 16 steps
+
+Then you need to write a decoder that takes one of the provided binary files and
+extracts/prints the data.
+
+### Go further (optional, not evaluated for the challenge)
+
+Add more cowbell, reading the binary format is one thing, being able to generate/modify the data is even more fun. Take a pattern of your choosing and add more cowbell!
+
 **How to Enter the Go Challenge ?**
 
 * Read the **Challenge Rules** located at the bottom of this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
