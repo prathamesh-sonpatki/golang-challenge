@@ -4,7 +4,7 @@ title: Go Challenge 1
 published: false
 ---
 
-### The world's first monthly Go Challenge for developers (newbies included) is now live!
+#### The world's first monthly Go Challenge for developers (newbies included) is now live!
 
 **About the Author: Matt Aimonetti**
 
@@ -75,7 +75,7 @@ Tempo: 999
 
 You will find [attached 5 files](http://rubylearning.com/data/patterns.zip) with a pattern per file.
 
-### Some information about my legacy drum machine
+#### Some information about my legacy drum machine
 
 My drum machine loads an audio sample per track allowing the programmer to schedule the playback of the sound. The scheduling of the playback is done using the concept of steps. A step is one of the parts of the measure that is being programmed (the programmed measure is known as a pattern). The measure (also called a bar) is divided in steps.
 
@@ -91,22 +91,22 @@ Taking an example from the printouts above:
 
 means that we have a track called "kick" (id 40) with the sound output being triggered on the first and ninth steps.
 
-### Goal
+#### Goal
 
 The goal of this challenge is to write a binary decoder that given a binary backup, outputs the same printouts as shown above.
 
-### Requirements
+#### Requirements
 
 * Only use standard libraries
 
-### Hints
+#### Hints
 
 * Look around to see how data is usually serialized/encoded.
 * Become familiar with encoding/binary package.
 * ```hex.Dump()``` is very useful when debugging binary data.
 * Think about the various permutations of data, imagine what other patterns could look like.
 
-### I don't know where to start :(
+#### I don't know where to start :(
 
 The first step is to reverse engineer the binary file format. Look at the hex value to see if you can detect patterns. Binary data usually contains some sort of headers, then the encoded data. You should expect to find the data described in the printouts:
 
@@ -120,7 +120,7 @@ The first step is to reverse engineer the binary file format. Look at the hex va
 Then you need to write a decoder that takes one of the provided binary files and
 extracts/prints the data.
 
-### Go further (optional, not evaluated for the challenge)
+#### Go further (optional, not evaluated for the challenge)
 
 Add more cowbell, reading the binary format is one thing, being able to generate/modify the data is even more fun. Take a pattern of your choosing and add more cowbell!
 
