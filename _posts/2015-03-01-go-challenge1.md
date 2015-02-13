@@ -9,7 +9,7 @@ published: false
 **About the Author: Matt Aimonetti**
 
 <img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg" height="125" width="125" alt="Matt Aimonetti" title="Matt Aimonetti" />
-Matt is [Splice CTO & Co-Founder](https://splice.com/), an experienced technologist, entrepreneur, technical writer and active open-source contributor based in Santa Monica, CA. Prior to Splice, Matt worked as a Tech manager/R&D developer at LivingSocial, on video game development at Sony PlayStation, as a sound engineer and on many other things.
+[Matt Aimonetti](http://matt.aimonetti.net/) is the CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators which streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. Long before Splice, Matt was a former sound engineer who tried his hand as an artist before transitioning to full time programming working for companies such as Sony PlayStation and LivingSocial. Matt has been active in the Open Source community for many years developing or contributing to many projects (Merb, Rails, MacRuby and many more), he also wrote a [free book about Go](http://www.golangbootcamp.com/) and is a published tech author for O'Reilly. Matt is based in Santa Monica, California.
 
 Matt has this to say about the challenge:
 
