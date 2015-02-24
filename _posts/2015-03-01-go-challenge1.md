@@ -105,6 +105,7 @@ The goal of this challenge is to write a binary decoder that given a binary back
 * Become familiar with encoding/binary package.
 * ```hex.Dump()``` is very useful when debugging binary data.
 * Think about the various permutations of data, imagine what other patterns could look like.
+* Ensure that your code passes `go fmt/vet/lint`
 
 #### I don't know where to start :(
 
