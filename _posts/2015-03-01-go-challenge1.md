@@ -136,6 +136,7 @@ Add more cowbell, reading the binary format is one thing, being able to generate
 
 * The Challenge is open to individuals.
 * You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge.
+* Evaluators cannot enter the challenge.
 * Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant’s participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of winners. 
