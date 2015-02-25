@@ -149,7 +149,7 @@ If you have any doubts / questions about this challenge, please post them in our
 
 #### Evaluators
 
-[Nathan Youngman](http://www.gophercon.in/blog/2014/11/06/nathan/) has agreed to set guidelines for evaluation. [Akshay Deo](https://twitter.com/akshay_deo), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](http://about.me/unknwon), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10), [Pravin Mishra](https://twitter.com/pravinmishra88) and [Sanat Gersappa](https://twitter.com/sanatgersappa) have all agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
+[Nathan Youngman](http://www.gophercon.in/blog/2014/11/06/nathan/) has agreed to set guidelines for evaluation. [Akshay Deo](https://twitter.com/akshay_deo), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](http://about.me/unknwon), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10), [Pravin Mishra](https://twitter.com/pravinmishra88), [Sanat Gersappa](https://twitter.com/sanatgersappa) and [Søren Mathiasen](https://twitter.com/sorenmat) have all agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
 
 #### Best Solution
 
