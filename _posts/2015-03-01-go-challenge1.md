@@ -75,7 +75,7 @@ Tempo: 999
 
 I need your help to reverse engineer the binary format used by my drum machine and write a decoder so I will be able to implement a new drum machine, using Go this time!
 
-You will find [attached files](http://rubylearning.com/data/patterns.zip) with a pattern per file.
+You will find [attached files](https://github.com/joshsoftware/golang-challenge/tree/gh-pages/data/ch1/patterns.zip) with a pattern per file.
 
 #### Some information about my legacy drum machine
 
