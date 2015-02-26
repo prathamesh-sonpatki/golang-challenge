@@ -171,7 +171,7 @@ _Winner (selected by the author)_:
 * [Apcera](https://www.apcera.com/) - [Go Gopher Messenger Bag](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [CoreOS](https://coreos.com/) - Company T-Shirt and stickers
 * [Cube Root Software](http://cuberoot.in/) - An eBook [Go-The Standard Library](https://leanpub.com/go-thestdlib)
-* [DigitalOcean](https://www.digitalocean.com/) - Amex Gift Card
+* [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
 * [Helpshift](http://www.helpshift.com/) - An eBook [A Go Developer's Notebook](https://leanpub.com/GoNotebook)
 * [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
 * [John Sonmez](https://twitter.com/jsonmez) - An eBook [Soft Skills: The software developer's life manual](http://www.amazon.com/gp/product/1617292397/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1617292397&linkCode=as2&tag=satishtalimsw-20&linkId=WGSAUMHIF2SVWJ7D)
@@ -188,7 +188,7 @@ _Winner (selected by the Go community)_:
 * [Anand D N](https://twitter.com/Wanderer140) - [Essential-Go screencast](https://www.kajabinext.com/marketplace/courses/1-essential-go)
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [CoreOS](https://coreos.com/) - Company T-Shirt and stickers
-* [DigitalOcean](https://www.digitalocean.com/) - Amex Gift Card
+* [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
 * [Docker](https://www.docker.com/) - A ticket to [DockerCon 2015](http://www.dockercon.com/) in SFO, USA OR to DockerCon Europe (to be announced but probably in Dec. 2015).
 * [Helpshift](http://www.helpshift.com/) - An eBook [A Go Developer's Notebook](https://leanpub.com/GoNotebook)
 * [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
