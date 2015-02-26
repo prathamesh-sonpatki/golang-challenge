@@ -7,11 +7,13 @@ published: false
 #### The world's first monthly Go Challenge for developers (newbies included) is now live!
 
 <img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg" height="200" width="200" alt="Matt Aimonetti" title="Matt Aimonetti" />
-The first Go Challenge's author is [Matt Aimonetti](http://matt.aimonetti.net/) who is the CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators which streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. Long before Splice, Matt was a former sound engineer who tried his hand as an artist before transitioning to full time programming working for companies such as Sony PlayStation and LivingSocial. Matt has been active in the Open Source community for many years developing or contributing to many projects (Merb, Rails, MacRuby and many more), he also wrote a [free book about Go](http://www.golangbootcamp.com/) and is a published tech author for O'Reilly. Matt is based in Santa Monica, California.
+The first Go Challenge's author is [Matt Aimonetti](http://matt.aimonetti.net/), CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators. Splice streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. 
+
+Long before Splice, Matt was a former sound engineer who tried his hand as an artist before transitioning to full time programming, working for companies such as Sony PlayStation and LivingSocial. Matt has been active in the Open Source community for many years, developing or contributing to many projects (Merb, Rails, MacRuby and many more). He also wrote a [free book about Go](http://www.golangbootcamp.com/) and is a published tech author for O'Reilly. Matt is based in Santa Monica, California.
 
 Matt has this to say about the challenge:
 
-> Very often developers just need an excuse to learn a new language or develop their own skills. The Go challenge is a great opportunity to work on a low-pressure, isolated, fun challenge and hopefully learn a lot. Getting out of the day to day programmer routine is an awesome way to challenge your brain and become a better developer.
+> "Very often developers just need an excuse to learn a new language or develop their own skills. The Go challenge is a great opportunity to work on a low-pressure, isolated, fun challenge and hopefully learn a lot. Getting out of the day to day programmer routine is an awesome way to challenge your brain and become a better developer."
 
 --- 
 
@@ -73,16 +75,16 @@ Tempo: 999
 
 I need your help to reverse engineer the binary format used by my drum machine and write a decoder so I will be able to implement a new drum machine, using Go this time!
 
-You will find [attached 5 files](http://rubylearning.com/data/patterns.zip) with a pattern per file.
+You will find [attached files](http://rubylearning.com/data/drummachine.zip) with a pattern per file.
 
 #### Some information about my legacy drum machine
 
-My drum machine loads an audio sample per track allowing the programmer to schedule the playback of the sound. The scheduling of the playback is done using the concept of steps. A step is one of the parts of the measure that is being programmed (the programmed measure is known as a pattern). The measure (also called a bar) is divided in steps.
+My drum machine loads an audio sample per track, allowing the programmer to schedule the playback of the sound. The scheduling of the playback is done using the concept of steps. A step is one of the parts of the measure that is being programmed (the programmed measure is known as a pattern). The measure (also called a bar) is divided in steps.
 
 ![measure.png](http://rubylearning.com/data/measure.png)
 
-My drum machine only supports 16 step measure patterns played in 4/4 time. The measure is comprised of 4 quarter notes, each quarter notes comprised of 4 sixteenth notes and each sixteenth note corresponds to a step.
-If all these music terms are confusing, don't worry, just know that the drum machine uses grid of 16 parts to let you trigger a sound. We have one sound per track and each track can be programmed independently. Each part is called a step. The speed of the playback is based on the tempo AKA bpm.
+My drum machine only supports 16 step measure patterns played in 4/4 time. The measure is comprised of 4 quarter notes, each quarter note is comprised of 4 sixteenth notes and each sixteenth note corresponds to a step.
+If all these music terms are confusing, don't worry, just know that the drum machine uses grid of 16 parts to let you trigger a sound. We have one sound per track and each track can be programmed independently. Each part is called a step. The speed of the playback is based on the tempo (aka bpm).
 
 Taking an example from the printouts above:
 ```
@@ -97,7 +99,7 @@ The goal of this challenge is to write a binary decoder that given a binary back
 
 #### Requirements
 
-* Only use standard libraries
+* Only use Go standard library. No third-party libraries may be imported.
 
 #### Hints
 
@@ -105,11 +107,10 @@ The goal of this challenge is to write a binary decoder that given a binary back
 * Become familiar with encoding/binary package.
 * ```hex.Dump()``` is very useful when debugging binary data.
 * Think about the various permutations of data, imagine what other patterns could look like.
-* Ensure that your code passes `go fmt/vet/lint`
 
 #### I don't know where to start :(
 
-The first step is to reverse engineer the binary file format. Look at the hex value to see if you can detect patterns. Binary data usually contains some sort of headers, then the encoded data. You should expect to find the data described in the printouts:
+The first step is to reverse engineer the binary file format. Look at the hex values to see if you can detect patterns. Binary data usually contains some sort of headers, then the encoded data. You should expect to find the data described in the printouts:
 
 * version
 * tempo
@@ -118,8 +119,7 @@ The first step is to reverse engineer the binary file format. Look at the hex va
   * name
   * 16 steps
 
-Then you need to write a decoder that takes one of the provided binary files and
-extracts/prints the data.
+Then you need to write a decoder that takes one of the provided binary files and extracts/prints the data.
 
 #### Go further (optional, not evaluated for the challenge)
 
@@ -127,11 +127,22 @@ Add more cowbell, reading the binary format is one thing, being able to generate
 
 ---
 
-#### How to Enter the Go Challenge ?
+#### How to enter the Go Challenge?
 
-* Read the **Challenge Rules** located next on this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
+* Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
 * Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com before the 16th of the month**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter id and any explanation of your code (if needed)**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
 * On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see, comment upon and cast votes](https://groups.google.com/d/forum/go-challenge). 
+
+#### How will the challenge be evaluated?
+
+Entries will be anonymized and evaluated by the challenge author and a team of evaluators.
+
+* Functioning code and a test suite that passes.
+* Code hygiene. Use [gofmt](https://golang.org/cmd/gofmt/), [vet](https://godoc.org/golang.org/x/tools/cmd/vet) and [lint](https://github.com/golang/lint). Review [CodeReviewComments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments).
+* Readability. How easy is it for another programmer to grasp what your entry is doing?
+* Code structure. Do types and files have good names?
+* Reliability. Are errors handled?
+* Appropriate consideration given to memory and performance (nothing is unnecessarily expensive).
 
 #### Challenge Rules
 
