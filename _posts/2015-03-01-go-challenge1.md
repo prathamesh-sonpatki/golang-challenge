@@ -130,8 +130,8 @@ Add more cowbell, reading the binary format is one thing, being able to generate
 #### How to enter the Go Challenge?
 
 * Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
-* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com before the 12th of the month**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
-* On the 13th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see and comment upon](https://groups.google.com/d/forum/go-challenge). 
+* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com before the 15th of the month**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
+* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see and comment upon](https://groups.google.com/d/forum/go-challenge). 
 
 #### How will the challenge be evaluated?
 
