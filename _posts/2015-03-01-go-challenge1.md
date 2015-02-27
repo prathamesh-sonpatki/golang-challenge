@@ -130,8 +130,8 @@ Add more cowbell, reading the binary format is one thing, being able to generate
 #### How to enter the Go Challenge?
 
 * Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
-* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com before the 16th of the month**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
-* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see, comment upon and cast votes](https://groups.google.com/d/forum/go-challenge). 
+* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com before the 12th of the month**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
+* On the 13th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see, comment upon](https://groups.google.com/d/forum/go-challenge). 
 
 #### How will the challenge be evaluated?
 
@@ -160,11 +160,11 @@ If you have any doubts / questions about this challenge, please post them in our
 
 #### Evaluators
 
-[Nathan Youngman](http://www.gophercon.in/blog/2014/11/06/nathan/) has agreed to set guidelines for evaluation. [Akshay Deo](https://twitter.com/akshay_deo), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](http://about.me/unknwon), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10), [Pravin Mishra](https://twitter.com/pravinmishra88), [Sanat Gersappa](https://twitter.com/sanatgersappa) and [Søren Mathiasen](https://twitter.com/sorenmat) have all agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
+[Nathan Youngman](http://www.gophercon.in/blog/2014/11/06/nathan/) has agreed to set guidelines for evaluation. [Akshay Deo](https://twitter.com/akshay_deo), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](http://about.me/unknwon), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10), [Pravin Mishra](https://twitter.com/pravinmishra88), [Sanat Gersappa](https://twitter.com/sanatgersappa) and [Søren Mathiasen](https://twitter.com/sorenmat) have all agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. One prize would be given to the participant with the most votes. More evaluators are welcome.
 
 #### Best Solution
 
-The author of the Go Challenge for the particular month will decide the best solution, with help from the evaluators. This author shall have the sole authority and discretion to select the award recipient(s). 
+The author of the Go Challenge for the particular month will decide the best solution, with help from the evaluators. This author shall have the sole authority and discretion to select the award recipient. 
 
 #### Notification
 
