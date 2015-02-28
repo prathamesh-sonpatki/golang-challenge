@@ -7,9 +7,9 @@ published: false
 #### The world's first monthly Go Challenge for developers (newbies included) is now live!
 
 <img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg" height="200" width="200" alt="Matt Aimonetti" title="Matt Aimonetti" />
-The first Go Challenge's author is [Matt Aimonetti](http://matt.aimonetti.net/), CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators. Splice streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. 
+The first Go Challenge author is [Matt Aimonetti](http://matt.aimonetti.net/), CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators. Splice streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. 
 
-Long before Splice, Matt was a former sound engineer who tried his hand as an artist before transitioning to full time programming, working for companies such as Sony PlayStation and LivingSocial. Matt has been active in the Open Source community for many years, developing or contributing to many projects (Merb, Rails, MacRuby and many more). He also wrote a [free book about Go](http://www.golangbootcamp.com/) and is a published tech author for O'Reilly. Matt is based in Santa Monica, California.
+Long before Splice, Matt was a former sound engineer who tried his hand as an artist before transitioning to full time programming, working for companies such as Sony PlayStation and LivingSocial. Matt has been active in the Open Source community for many years, developing or contributing to many projects (Merb, Rails, MacRuby and many more). He also wrote a [free book about Go](http://www.golangbootcamp.com/) and is a [published tech author](http://www.oreilly.com/pub/au/4385) for O'Reilly. Matt is based in Santa Monica, California.
 
 Matt has this to say about the challenge:
 
@@ -114,7 +114,7 @@ The first step is to reverse engineer the binary file format. Look at the hex va
 
 * version
 * tempo
-* track with each track containing
+* tracks with each track containing
   * id
   * name
   * 16 steps
@@ -131,7 +131,7 @@ Add more cowbell, reading the binary format is one thing, being able to generate
 
 * Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
 * Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com before the 15th of the month**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
-* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see and comment upon](https://groups.google.com/d/forum/go-challenge). 
+* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be open for [the community to see and comment on](https://groups.google.com/d/forum/go-challenge). 
 
 #### How will the challenge be evaluated?
 
@@ -141,7 +141,7 @@ Entries will be anonymized and evaluated by the challenge author and a team of e
 * Code hygiene. Use [gofmt](https://golang.org/cmd/gofmt/), [vet](https://godoc.org/golang.org/x/tools/cmd/vet) and [lint](https://github.com/golang/lint). Review [CodeReviewComments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments).
 * Readability. How easy is it for another programmer to grasp what your entry is doing?
 * Code structure. Do types and files have good names?
-* Reliability. Are errors handled?
+* Reliability. Are errors properly handled?
 * Appropriate consideration given to memory and performance (nothing is unnecessarily expensive).
 
 #### Challenge Rules
@@ -149,7 +149,7 @@ Entries will be anonymized and evaluated by the challenge author and a team of e
 * The Challenge is open to individuals.
 * You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge.
 * Evaluators cannot enter the challenge.
-* Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant’s participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
+* Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant's participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of winners. 
 * No prize substitution is permitted. 
@@ -160,11 +160,11 @@ If you have any doubts / questions about this challenge, please post them in our
 
 #### Evaluators
 
-[Nathan Youngman](http://www.gophercon.in/blog/2014/11/06/nathan/) has agreed to set guidelines for evaluation. [Akshay Deo](https://twitter.com/akshay_deo), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](http://about.me/unknwon), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10), [Pravin Mishra](https://twitter.com/pravinmishra88), [Sanat Gersappa](https://twitter.com/sanatgersappa) and [Søren Mathiasen](https://twitter.com/sorenmat) have all agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. One prize would be given to the participant with the most votes. More evaluators are welcome.
+[Nathan Youngman](https://twitter.com/nathany) has agreed to set guidelines for evaluation. [Akshay Deo](https://twitter.com/akshay_deo), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](https://twitter.com/joe2010xtmf), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10), [Pravin Mishra](https://twitter.com/pravinmishra88), [Sanat Gersappa](https://twitter.com/sanatgersappa) and [Søren Mathiasen](https://twitter.com/sorenmat) have agreed to go through all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
 
 #### Best Solution
 
-The author of the Go Challenge for the particular month will decide the best solution, with help from the evaluators. This author shall have the sole authority and discretion to select the award recipient. 
+The author of the Go Challenge will decide the best solution, with help from the evaluators. The author shall have the sole authority and discretion to select the award recipient. 
 
 #### Notification
 
