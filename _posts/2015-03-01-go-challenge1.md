@@ -131,7 +131,7 @@ Add more cowbell, reading the binary format is one thing, being able to generate
 
 * Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
 * Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com before the 15th of the month**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
-* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be open for [the community to see and comment on](https://groups.google.com/d/forum/go-challenge). 
+* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be open for [the community to see and comment upon](https://groups.google.com/d/forum/go-challenge). 
 
 #### How will the challenge be evaluated?
 
@@ -164,7 +164,7 @@ If you have any doubts / questions about this challenge, please post them in our
 
 #### Best Solution
 
-The author of the Go Challenge will decide the best solution, with help from the evaluators. The author shall have the sole authority and discretion to select the award recipient. 
+The author of the Go Challenge will decide the best two solutions. The author shall have the sole authority and discretion to select the award recipients. 
 
 #### Notification
 
@@ -172,11 +172,11 @@ The winning entries will be announced here on this blog. The winners will be sen
 
 #### Prizes
 
-One prize will be awarded for the best solution selected by the author and a panel and the other will be for the best popular voted solution by the community.
+Two prizes will be awarded for the best solution selected by the author.
 
 Here are some great prizes provided by our sponsors for the event.
 
-_Winner (selected by the author)_:
+_Winner 1_:
 
 * [Anand D N](https://twitter.com/Wanderer140) - [Essential-Go screencast](https://www.kajabinext.com/marketplace/courses/1-essential-go)
 * [Apcera](https://www.apcera.com/) - [Go Gopher Messenger Bag](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
@@ -195,7 +195,7 @@ _Winner (selected by the author)_:
 * [RainingClouds](http://rainingclouds.com/#!/) - An eBook [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
 * [Sourcegraph](https://sourcegraph.com/) - [Interview with the winner on their blog and will get their shirt, stickers](https://sourcegraph.com/blog)
 
-_Winner (selected by the Go community)_:
+_Winner 2_:
 
 * [Anand D N](https://twitter.com/Wanderer140) - [Essential-Go screencast](https://www.kajabinext.com/marketplace/courses/1-essential-go)
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
