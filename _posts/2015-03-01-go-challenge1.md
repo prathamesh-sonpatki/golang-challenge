@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Go Challenge 1
+tags: [go challenge, golang]
 ---
 
 #### The world's first monthly Go Challenge for developers (newbies included) is now live!
