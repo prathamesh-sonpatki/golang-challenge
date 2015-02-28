@@ -77,7 +77,9 @@ I need your help to reverse engineer the binary format used by my drum machine a
 
 #### To get started
 
-You will find [attached files](https://github.com/joshsoftware/golang-challenge/tree/gh-pages/data/ch1/golang-challenge-1-drum_machine.zip) with a pattern per file.
+You will find [attached a zip file](https://github.com/joshsoftware/golang-challenge/tree/gh-pages/data/ch1/golang-challenge-1-drum_machine.zip) containing the starting point for this challenge.
+Your goal is to implement the `drum` package and make it pass the
+provided tests.
 
 #### Some information about my legacy drum machine
 
@@ -97,7 +99,31 @@ means that we have a track called "kick" (id 40) with the sound output being tri
 
 #### Goal
 
-The goal of this challenge is to write a binary decoder that given a binary backup, outputs the same printouts as shown above.
+The goal of this challenge is to write a binary decoder that given a binary backup, outputs the same printouts as shown above. To do that you need to implement the `DecodeFile(path string) (*Pattern, error)` function inside the drum package. Note that `*Pattern` needs to be printable so it can be compared to the printouts. To help you, a test is provided. To run the test suite, use your terminal to navigate to the location of the unzip file and run `go test -v`. You should see an output similar to this:
+
+```
+go test -v
+=== RUN TestDecodeFile
+--- FAIL: TestDecodeFile (0.00s)
+	decoder_test.go:69: decoded:
+		"&{}"
+	decoder_test.go:70: expected:
+		"Saved with HW Version: 0.808-alpha\nTempo: 120\n(0) kick\t|x---|x---|x---|x---|\n(1) snare\t|----|x---|----|x---|\n(2) clap\t|----|x-x-|----|----|\n(3) hh-open\t|--x-|--x-|x-x-|--x-|\n(4) hh-close\t|x---|x---|----|x--x|\n(5) cowbell\t|----|----|--x-|----|\n"
+	decoder_test.go:72: pattern_1.splice wasn't decoded as expect.
+		Got:
+		&{}
+		Expected:
+		Saved with HW Version: 0.808-alpha
+		Tempo: 120
+		(0) kick	|x---|x---|x---|x---|
+		(1) snare	|----|x---|----|x---|
+		(2) clap	|----|x-x-|----|----|
+		(3) hh-open	|--x-|--x-|x-x-|--x-|
+		(4) hh-close	|x---|x---|----|x--x|
+		(5) cowbell	|----|----|--x-|----|
+FAIL
+exit status 1
+```
 
 #### Requirements
 
@@ -128,6 +154,8 @@ Then you need to write a decoder that takes one of the provided binary files and
 
 #### Go further (optional, not evaluated for the challenge)
 
+This is probably too hard for most of you, but just in case you were
+about to complain about how easy this challenge was, here is some more!
 Add more cowbell, reading the binary format is one thing, being able to generate/modify the data is even more fun. Take a pattern of your choosing and add more cowbell!
 
 ---
