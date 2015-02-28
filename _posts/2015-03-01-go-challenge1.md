@@ -75,6 +75,8 @@ Tempo: 999
 
 I need your help to reverse engineer the binary format used by my drum machine and write a decoder so I will be able to implement a new drum machine, using Go this time!
 
+#### To get started
+
 You will find [attached files](https://github.com/joshsoftware/golang-challenge/tree/gh-pages/data/ch1/patterns.zip) with a pattern per file.
 
 #### Some information about my legacy drum machine
@@ -100,12 +102,13 @@ The goal of this challenge is to write a binary decoder that given a binary back
 #### Requirements
 
 * Only use Go standard library. No third-party libraries may be imported.
+* You are welcome to modify (improve) the included test suite or move the binaries, but the `DecodeFile` API must remain and the original test suite must still pass.
 
 #### Hints
 
 * Look around to see how data is usually serialized/encoded.
 * Become familiar with encoding/binary package.
-* ```hex.Dump()``` is very useful when debugging binary data.
+* [hex.Dump()](http://golang.org/pkg/encoding/hex/#Dump) is very useful when debugging binary data.
 * Think about the various permutations of data, imagine what other patterns could look like.
 
 #### I don't know where to start :(
