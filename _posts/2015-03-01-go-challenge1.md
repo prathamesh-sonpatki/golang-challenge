@@ -135,8 +135,7 @@ Add more cowbell, reading the binary format is one thing, being able to generate
 #### How to enter the Go Challenge?
 
 * Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
-* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com before the 15th of the month**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
-* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be open for [the community to see and comment upon](https://groups.google.com/d/forum/go-challenge). 
+* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com by the 15th of the month (midnight IST, 11:30 AM PDT)**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
 
 #### How will the challenge be evaluated?
 
@@ -161,7 +160,7 @@ Entries will be anonymized and evaluated by the challenge author and a team of e
 
 #### Questions?
 
-If you have any doubts / questions about this challenge, please post them in our **[forum](https://groups.google.com/forum/#!forum/go-challenge)** and the author will reply asap.
+If you have any questions about this challenge, please post them in our **[forum](https://groups.google.com/forum/#!forum/go-challenge)** and the author will reply asap.
 
 #### Evaluators
 
@@ -177,7 +176,7 @@ The winning entries will be announced here on this blog. The winners will be sen
 
 #### Prizes
 
-Two prizes will be awarded for the best solution selected by the author.
+Two prizes will be awarded for the best solution as selected by the author.
 
 Here are some great prizes provided by our sponsors for the event.
 
