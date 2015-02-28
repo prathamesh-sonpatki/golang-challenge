@@ -132,10 +132,9 @@ exit status 1
 
 #### Hints
 
-* Look around to see how data is usually serialized/encoded.
-* Become familiar with encoding/binary package.
-* [hex.Dump()](http://golang.org/pkg/encoding/hex/#Dump) is very useful when debugging binary data.
-* Think about the various permutations of data, imagine what other patterns could look like.
+* Look around to see how data is usually [serialized/encoded](http://golang.org/pkg/encoding/json/).
+* Become familiar with [encoding/binary package](http://golang.org/pkg/encoding/binary/), especially [binary.Read](http://golang.org/pkg/encoding/binary/#Read).
+* [hex.Dump](http://golang.org/pkg/encoding/hex/#Dump) can very useful when debugging binary data (read more about [hex dump](http://en.wikipedia.org/wiki/Hex_dump))
 
 #### I don't know where to start :(
 
@@ -154,9 +153,34 @@ Then you need to write a decoder that takes one of the provided binary files and
 
 #### Go further (optional, not evaluated for the challenge)
 
-This is probably too hard for most of you, but just in case you were
-about to complain about how easy this challenge was, here is some more!
-Add more cowbell, reading the binary format is one thing, being able to generate/modify the data is even more fun. Take a pattern of your choosing and add more cowbell!
+This advanced section is not for the faint of heart,in case you were
+about to complain about how easy this challenge was, or if you just want to push things further, here is some more!
+How bout editing the cowbell track to add more steps? Reading the binary format is one thing, being able to generate/modify the data is even more fun. Take a pattern of your choosing and add more cowbell! For instance convert `pattern_2.splice` from:
+
+```
+pattern_2.splice
+Saved with HW Version: 0.808-alpha
+Tempo: 98.4
+(0) kick    |x---|----|x---|----|
+(1) snare   |----|x---|----|x---|
+(3) hh-open |--x-|--x-|x-x-|--x-|
+(5) cowbell |----|----|x---|----|
+```
+
+to:
+
+```
+pattern_2-morebells.splice
+Saved with HW Version: 0.808-alpha
+Tempo: 98.4
+(0) kick    |x---|----|x---|----|
+(1) snare   |----|x---|----|x---|
+(3) hh-open |--x-|--x-|x-x-|--x-|
+(5) cowbell |x---|x-x-|x---|x-x-|
+```
+
+Still not enough? Why not implementing the playback of the patterns
+using something like [portaudio](https://godoc.org/code.google.com/p/portaudio-go/portaudio)?
 
 ---
 
