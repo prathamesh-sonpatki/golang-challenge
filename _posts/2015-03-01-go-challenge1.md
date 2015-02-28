@@ -77,7 +77,7 @@ I need your help to reverse engineer the binary format used by my drum machine a
 
 #### To get started
 
-You will find [attached files](https://github.com/joshsoftware/golang-challenge/tree/gh-pages/data/ch1/patterns.zip) with a pattern per file.
+You will find [attached files](https://github.com/joshsoftware/golang-challenge/tree/gh-pages/data/ch1/golang-challenge-1-drum_machine.zip) with a pattern per file.
 
 #### Some information about my legacy drum machine
 
