@@ -110,6 +110,8 @@ The goal of this challenge is to write a binary decoder that given a binary back
 
 #### I don't know where to start :(
 
+<a href="/images/hex.png"><img src="/images/hex.png" width="627" alt="Hex Viewer" title="Hex Viewer" border=0></a>
+
 The first step is to reverse engineer the binary file format. Look at the hex values to see if you can detect patterns. Binary data usually contains some sort of headers, then the encoded data. You should expect to find the data described in the printouts:
 
 * version
