@@ -70,7 +70,7 @@ So far, [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcer
 
 **Evaluators**
 
-[Nathan Youngman](http://www.gophercon.in/blog/2014/11/06/nathan/) has agreed to set guidelines for evaluation. [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](http://about.me/unknwon), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10) and [Pravin Mishra](https://twitter.com/pravinmishra88) have all agreed to go thro' all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
+[Nathan Youngman](https://twitter.com/nathany) has agreed to set guidelines for evaluation. [Akshay Deo](https://twitter.com/akshay_deo), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](https://twitter.com/joe2010xtmf), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10), [Pravin Mishra](https://twitter.com/pravinmishra88), [Sanat Gersappa](https://twitter.com/sanatgersappa) and [Søren Mathiasen](https://twitter.com/sorenmat) have agreed to go through all the submitted solutions of a challenge. They will comment and rank these solutions. More evaluators are welcome.
 
 **Best Solution**
 
