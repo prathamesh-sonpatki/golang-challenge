@@ -132,10 +132,9 @@ exit status 1
 
 #### Hints
 
-* Look around to see how data is usually serialized/encoded.
-* Become familiar with encoding/binary package, especially ```binary.Read```.
+* Look around to see how data is usually [serialized/encoded](http://golang.org/pkg/encoding/json/).
+* Become familiar with [encoding/binary package](http://golang.org/pkg/encoding/binary/), especially [binary.Read](http://golang.org/pkg/encoding/binary/#Read).
 * [hex.Dump](http://golang.org/pkg/encoding/hex/#Dump) can very useful when debugging binary data (read more about [hex dump](http://en.wikipedia.org/wiki/Hex_dump))
-* Think about the various permutations of data, imagine what other patterns could look like.
 
 #### I don't know where to start :(
 
