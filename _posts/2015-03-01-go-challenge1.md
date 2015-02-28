@@ -212,7 +212,7 @@ Entries will be anonymized and evaluated by the challenge author and a team of e
 
 #### Questions?
 
-If you have any questions about this challenge, please post them in our **[forum](https://groups.google.com/forum/#!forum/go-challenge)** and the author will reply asap.
+If you have any questions about this challenge, please post them in our **[forum](https://groups.google.com/forum/#!forum/go-challenge)** and the author will reply asap. You can also join the [golang-challenge channel on slack](http://t.co/n6EesY9Mmv) which is a room for people who are going to participate in the Go Challenge.
 
 #### Evaluators
 
