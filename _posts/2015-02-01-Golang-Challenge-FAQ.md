@@ -52,18 +52,28 @@ Any individual or companies interested in sponsoring the monthly event are welco
 
 So far, [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [CoreOS](https://coreos.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/) and [Sourcegraph](https://sourcegraph.com/) have agreed to support the challenge. More to follow soon.
 
-**How to Enter the Go Challenge ?**
+**How to enter the Go Challenge?**
 
-* Read the **Challenge Rules** located at the bottom of this page. By participating in this challenge, you agree to be bound by these Challenge Rules.
-* You can enter the challenge by posting your solution details only on 14th or 15th of the month **[here](https://github.com/IndianGuru/Golang-Challenge-1)**. No new solutions will be accepted after that.
-* The Go working solution(s) should be complete, follow Go conventions and showcase Go's strengths. Refer to [Effective Go](https://golang.org/doc/effective_go.html) and [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments).
-* On the 16th of the month at [6 am IST](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=3&d=16&h=6&mn=0), all the solutions will be thrown open for [everyone to see, comment upon and cast votes](https://groups.google.com/d/forum/go-challenge). 
+* Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
+* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com by the 15th of the month (midnight IST, 11:30 AM PDT)**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
+
+**How will the challenge be evaluated?**
+
+Entries will be anonymized and evaluated by the challenge author and a team of evaluators.
+
+* Functioning code and a test suite that passes.
+* Code hygiene. Use [gofmt](https://golang.org/cmd/gofmt/), [vet](https://godoc.org/golang.org/x/tools/cmd/vet) and [lint](https://github.com/golang/lint). Review [CodeReviewComments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments).
+* Readability. How easy is it for another programmer to grasp what your entry is doing?
+* Code structure. Do types and files have good names?
+* Reliability. Are errors properly handled?
+* Appropriate consideration given to memory and performance (nothing is unnecessarily expensive).
 
 **Challenge Rules**
 
 * The Challenge is open to individuals.
 * You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge.
-* Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant’s participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
+* Evaluators cannot enter the challenge.
+* Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant's participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of winners. 
 * No prize substitution is permitted. 
@@ -78,11 +88,11 @@ The author of the Go Challenge for the particular month will decide the best sol
 
 **Notification**
 
-The winning entries will be announced here. The winners will be sent their prizes by email.
+The winning entries will be announced here. The winners will be sent their prizes by email/postal mail.
 
 **Prizes**
 
-There will normally be two prizes (though we reserve the right to change this for each challenge). One prize will be awarded for the best solution selected by the author and a panel and the other will be for the best popular voted solution by the community. Prizes can range from small cash rewards to free PDFs, Screencasts – whatever the sponsors of the challenge have offered.
+There will normally be two prizes (though we reserve the right to change this for each challenge). One prize will be awarded for the best solution selected by the author and the other (in later chalenges) will be for the best popular voted solution by the community. Prizes can range from small cash rewards to free PDFs, Screencasts – whatever the sponsors of the challenge have offered.
 
 Here are some great prizes provided by our sponsors for the event.
 
