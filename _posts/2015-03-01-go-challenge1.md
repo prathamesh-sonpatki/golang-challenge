@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Go Challenge 1
-published: false
 ---
 
 #### The world's first monthly Go Challenge for developers (newbies included) is now live!
