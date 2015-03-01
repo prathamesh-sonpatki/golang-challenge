@@ -187,7 +187,7 @@ using something like [portaudio](https://godoc.org/code.google.com/p/portaudio-g
 #### How to enter the Go Challenge?
 
 * Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
-* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com by the 15th of the month (midnight IST, 11:30 AM PDT)**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id**. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
+* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com by the 15th of March 2015 (midnight IST, 11:30 AM PDT)**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id (if any)**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
 
 #### How will the challenge be evaluated?
 
