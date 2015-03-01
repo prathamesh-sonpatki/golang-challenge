@@ -288,15 +288,39 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 There are two categories of participants. Most are just participating in the challenge and some are also adding more steps to the cowbell track.
 
-#####Just participating
+#####Participating
+
+**Australia**
+
+* Michael Alexander
+
+**Denmark**
+
+* Bjørn Friese
+* Brian Stengaard
+
+**Germany**
+
+* Tobias Schoknecht
+
+**United Arab Emirates**
+
+* Asad Jibran Ahmed
 
 **USA**
 
+* Andrew Gutekanst
 * Bryan Burke
+* Igor Canadi
 * Jason Raede
+* John Adams
 * Linh-Nam Vu
 * Luke Champine
+* Matt Kovars
+* Michael Fraenkel
 * Nathan VanBenschoten
+* Stephen Gutekanst
+* Uwe Hoffmann
 
 #####Participating and adding more steps
 
