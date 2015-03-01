@@ -296,6 +296,7 @@ There are two categories of participants. Most are just participating in the cha
 * Jason Raede
 * Linh-Nam Vu
 * Luke Champine
+* Nathan VanBenschoten
 
 #####Participating and adding more steps
 
