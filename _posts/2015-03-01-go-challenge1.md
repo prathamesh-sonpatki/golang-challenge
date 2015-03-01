@@ -153,8 +153,8 @@ Then you need to write a decoder that takes one of the provided binary files and
 
 #### Go further (optional, not evaluated for the challenge)
 
-This advanced section is not for the faint of heart,in case you were
-about to complain about how easy this challenge was, or if you just want to push things further, here is some more!
+This advanced section is not for the faint of heart, in case you were about to complain about how easy this challenge was, or if you just want to push things further, here is some more!
+
 How bout editing the cowbell track to add more steps? Reading the binary format is one thing, being able to generate/modify the data is even more fun. Take a pattern of your choosing and add more cowbell! For instance convert `pattern_2.splice` from:
 
 ```
@@ -283,6 +283,24 @@ Also, anyone can a get 25% off on the price (valid till 31st March 2015) of the 
 #### Winner Interviews
 
 After a winner wins the monthly challenge, he/she would be interviewed by [Sourcegraph](https://sourcegraph.com/) and the interview will be published on their [blog](https://sourcegraph.com/blog).
+
+#### The Participants, so far
+
+There are two categories of participants. Most are just participating in the challenge and some are also adding more steps to the cowbell track.
+
+#####Just participating
+
+**USA**
+
+* Jason Raede
+* Linh-Nam Vu
+* Luke Champine
+
+#####Participating and adding more steps
+
+**USA**
+
+* Jeremy Jay
 
 #### Sponsors
 
