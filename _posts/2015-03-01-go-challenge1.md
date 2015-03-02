@@ -321,7 +321,7 @@ There are two categories of participants. Most are just participating in the cha
 
 * Corey Powell
 
-** Slovenia**
+**Slovenia**
 
 * Damjan Cvetko
 
