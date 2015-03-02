@@ -314,11 +314,13 @@ There are two categories of participants. Most are just participating in the cha
 * Igor Canadi
 * Jason Raede
 * John Adams
+* Larry Price
 * Linh-Nam Vu
 * Luke Champine
 * Matt Kovars
 * Michael Fraenkel
 * Nathan VanBenschoten
+* Paul Schuster
 * Stephen Gutekanst
 * Uwe Hoffmann
 
