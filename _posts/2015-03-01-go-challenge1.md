@@ -284,7 +284,7 @@ Also, anyone can a get 25% off on the price (valid till 31st March 2015) of the 
 
 After a winner wins the monthly challenge, he/she would be interviewed by [Sourcegraph](https://sourcegraph.com/) and the interview will be published on their [blog](https://sourcegraph.com/blog).
 
-#### The Participants, so far
+#### The Participants so far
 
 There are two categories of participants. Most are just participating in the challenge and some are also adding more steps to the cowbell track.
 
