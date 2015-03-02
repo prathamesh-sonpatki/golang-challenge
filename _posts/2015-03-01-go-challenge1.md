@@ -216,7 +216,7 @@ If you have any questions about this challenge, please post them in our **[forum
 
 #### Evaluators
 
-[Nathan Youngman](https://twitter.com/nathany) has agreed to set guidelines for evaluation. [Akshay Deo](https://twitter.com/akshay_deo), [Dominik Honnef](http://dominik.honnef.co/), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](https://twitter.com/joe2010xtmf), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Niket Patel](https://twitter.com/nexneo), [Nishant Modak](https://www.linkedin.com/in/modak), [Piyush Verma](https://twitter.com/meson10), [Pravin Mishra](https://twitter.com/pravinmishra88), [Sanat Gersappa](https://twitter.com/sanatgersappa) and [Søren Mathiasen](https://twitter.com/sorenmat) have agreed to go through all the submitted solutions of a challenge. They will comment and rank these solutions.
+[Nathan Youngman](https://twitter.com/nathany) has agreed to set guidelines for evaluation. [Dominik Honnef](http://dominik.honnef.co/), [Jacques Fuentes](https://twitter.com/jpfuentes2), [Jiahua Chen](https://twitter.com/joe2010xtmf), [Niket Patel](https://twitter.com/nexneo), [Pravin Mishra](https://twitter.com/pravinmishra88) and [Sanat Gersappa](https://twitter.com/sanatgersappa) have agreed to go through all the submitted solutions of a challenge. They will comment and rank these solutions.
 
 #### Best Solution
 
@@ -292,12 +292,18 @@ There are two categories of participants. Most are just participating in the cha
 
 **Australia**
 
+* Jaime Pillora
 * Michael Alexander
+* Mike Hughes
 
 **Denmark**
 
 * Bjørn Friese
 * Brian Stengaard
+
+**France**
+
+* Thibault Normand
 
 **Germany**
 
@@ -306,6 +312,22 @@ There are two categories of participants. Most are just participating in the cha
 **India**
 
 * Krishna Sundarram
+
+**Indonesia**
+
+* Christoper
+
+**Jamaica**
+
+* Corey Powell
+
+** Slovenia**
+
+* Damjan Cvetko
+
+**Switzerland**
+
+* Matt T. Proud
 
 **United Arab Emirates**
 
