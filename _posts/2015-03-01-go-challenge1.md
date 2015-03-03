@@ -284,7 +284,7 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 #### The Participants so far
 
-There are two categories of participants. Most are just participating in the challenge and some are also adding more steps to the cowbell track.
+There are three categories of participants. Most are just participating in the challenge; some are also adding more steps to the cowbell track and some are participating "Just for Fun".
 
 #####Participating
 
@@ -327,10 +327,6 @@ There are two categories of participants. Most are just participating in the cha
 
 * Damjan Cvetko
 
-**Switzerland**
-
-* Matt T. Proud
-
 **United Arab Emirates**
 
 * Asad Jibran Ahmed
@@ -358,6 +354,16 @@ There are two categories of participants. Most are just participating in the cha
 **USA**
 
 * Jeremy Jay
+
+#####Just for Fun
+
+**Switzerland**
+
+* Matt T. Proud
+
+**USA**
+
+* Francisco Campoy Flores
 
 #### Sponsors
 
