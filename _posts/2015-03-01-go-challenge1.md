@@ -334,7 +334,6 @@ There are three categories of participants. Most are just participating in the c
 
 **USA**
 
-* Anant Narayanan
 * Andrew Gutekanst
 * Bryan Burke
 * Gautam Dey
@@ -356,6 +355,7 @@ There are three categories of participants. Most are just participating in the c
 
 **USA**
 
+* Anant Narayanan
 * Jeremy Jay
 * Roger Peppe
 
