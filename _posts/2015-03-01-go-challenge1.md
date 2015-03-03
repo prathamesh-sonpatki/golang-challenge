@@ -359,7 +359,7 @@ There are three categories of participants. Most are just participating in the c
 **USA**
 
 * Anant Narayanan
-* Jeremy Jay
+* [Jeremy Jay](https://github.com/pbnjay)
 * Roger Peppe
 
 #####Just for Fun
