@@ -189,7 +189,7 @@ using something like [portaudio](https://godoc.org/code.google.com/p/portaudio-g
 By participating in this challenge, you agree to be bound by the Challenge Rules below:
 
 * The Challenge is open to individuals.
-* You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge. On 16th March we will display all the participant's code in a public GitHub repo. If you don't want your code to be public, do email us about the same.
+* You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge.
 * Evaluators cannot enter the challenge.
 * Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant's participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
 * Odds of winning depend on the number and quality of entries received. 
