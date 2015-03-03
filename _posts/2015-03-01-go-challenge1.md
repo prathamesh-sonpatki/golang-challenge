@@ -347,7 +347,6 @@ There are three categories of participants. Most are just participating in the c
 * Michael Fraenkel
 * Nathan VanBenschoten
 * Paul Schuster
-* Roger Peppe
 * Stephen Gutekanst
 * Uwe Hoffmann
 
@@ -356,6 +355,7 @@ There are three categories of participants. Most are just participating in the c
 **USA**
 
 * Jeremy Jay
+* Roger Peppe
 
 #####Just for Fun
 
