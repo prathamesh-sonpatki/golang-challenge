@@ -184,10 +184,18 @@ using something like [portaudio](https://godoc.org/code.google.com/p/portaudio-g
 
 ---
 
-#### How to enter the Go Challenge?
+#### Challenge Rules and how to enter the Go Challenge?
 
-* Read the **Challenge Rules** below. By participating in this challenge, you agree to be bound by the Challenge Rules.
-* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com by the 15th of March 2015 (midnight IST, 11:30 AM PDT)**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id (if any)**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
+By participating in this challenge, you agree to be bound by the Challenge Rules below:
+
+* The Challenge is open to individuals.
+* You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge. On 16th March we will display all the participant's code in a public GitHub repo. If you don't want your code to be public, do email us about the same.
+* Evaluators cannot enter the challenge.
+* Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant's participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
+* Odds of winning depend on the number and quality of entries received. 
+* All taxes, including income taxes, are the sole responsibility of winners. 
+* No prize substitution is permitted. 
+* Create a zip of your Go source code and send the zip file to **gochallenge [at] joshsoftware.com by the 15th of March 2015 (midnight IST, 11:30 AM PDT)**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, and twitter id (if any)**. We shall be publishing on this blog, a list of participant names. If you don't want you name to appear kindly mention the same in your email. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. We will give your zip file to the evaluation team. **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
 
 #### How will the challenge be evaluated?
 
@@ -199,16 +207,6 @@ Entries will be anonymized and evaluated by the challenge author and a team of e
 * Code structure. Do types and files have good names?
 * Reliability. Are errors properly handled?
 * Appropriate consideration given to memory and performance (nothing is unnecessarily expensive).
-
-#### Challenge Rules
-
-* The Challenge is open to individuals.
-* You maintain ownership of all code you submit and can release it under an open source license or keep it private after the challenge.
-* Evaluators cannot enter the challenge.
-* Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant's participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
-* Odds of winning depend on the number and quality of entries received. 
-* All taxes, including income taxes, are the sole responsibility of winners. 
-* No prize substitution is permitted. 
 
 #### Questions?
 
