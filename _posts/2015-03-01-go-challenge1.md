@@ -349,7 +349,6 @@ There are three categories of participants. Most are just participating in the c
 * Nathan VanBenschoten
 * Paul Schuster
 * Stephen Gutekanst
-* Uwe Hoffmann
 
 #####Participating and adding more steps
 
@@ -368,6 +367,7 @@ There are three categories of participants. Most are just participating in the c
 **USA**
 
 * Francisco Campoy Flores
+* Uwe Hoffmann
 
 #### Sponsors
 
