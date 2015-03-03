@@ -338,6 +338,7 @@ There are three categories of participants. Most are just participating in the c
 * Gautam Dey
 * Igor Canadi
 * Jason Raede
+* Jason Rodney Hansen
 * John Adams
 * Larry Price
 * Linh-Nam Vu
