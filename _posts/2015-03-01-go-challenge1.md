@@ -296,6 +296,10 @@ There are two categories of participants. Most are just participating in the cha
 * Michael Alexander
 * Mike Hughes
 
+**Brasil**
+
+* Matheus Cunha
+
 **Denmark**
 
 * Bjørn Friese
@@ -337,6 +341,7 @@ There are two categories of participants. Most are just participating in the cha
 
 * Andrew Gutekanst
 * Bryan Burke
+* Gautam Dey
 * Igor Canadi
 * Jason Raede
 * John Adams
