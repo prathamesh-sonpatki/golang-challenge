@@ -328,6 +328,10 @@ There are three categories of participants. Most are just participating in the c
 
 * Damjan Cvetko
 
+**Switzerland**
+
+* Matt T. Proud
+
 **United Arab Emirates**
 
 * Asad Jibran Ahmed
@@ -359,10 +363,6 @@ There are three categories of participants. Most are just participating in the c
 * Roger Peppe
 
 #####Just for Fun
-
-**Switzerland**
-
-* Matt T. Proud
 
 **USA**
 
