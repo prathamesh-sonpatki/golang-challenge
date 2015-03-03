@@ -310,10 +310,13 @@ There are three categories of participants. Most are just participating in the c
 
 **Germany**
 
+* Seong-Min Kang
 * Tobias Schoknecht
 
 **India**
 
+* Dharampal H S
+* Karan Misra
 * Krishna Sundarram
 
 **Indonesia**
@@ -329,9 +332,17 @@ There are three categories of participants. Most are just participating in the c
 
 * Damjan Cvetko
 
+**Sweden**
+
+* Anton Erholt
+
 **Switzerland**
 
 * Matt T. Proud
+
+**UK**
+
+* Roger Peppe
 
 **United Arab Emirates**
 
@@ -341,14 +352,18 @@ There are three categories of participants. Most are just participating in the c
 
 * Andrew Gutekanst
 * Bryan Burke
+* Craig Swank
 * Gautam Dey
 * Igor Canadi
 * Jason Raede
 * Jason Rodney Hansen
 * John Adams
+* Joshua Marsh
+* Kyle Baker
 * Larry Price
 * Linh-Nam Vu
 * Luke Champine
+* Masayoshi Sekimura
 * Matt Kovars
 * Michael Fraenkel
 * Nathan VanBenschoten
@@ -361,7 +376,6 @@ There are three categories of participants. Most are just participating in the c
 
 * Anant Narayanan
 * [Jeremy Jay](https://github.com/pbnjay)
-* Roger Peppe
 
 #####Just for Fun
 
