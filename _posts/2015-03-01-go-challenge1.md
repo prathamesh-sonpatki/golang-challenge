@@ -297,6 +297,7 @@ There are three categories of participants. Most are just participating in the c
 **Brasil**
 
 * Matheus Cunha
+* Rafael Barbosa de Oliveira Costa
 
 **Denmark**
 
