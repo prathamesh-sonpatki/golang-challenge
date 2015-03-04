@@ -361,6 +361,7 @@ There are three categories of participants. Most are just participating in the c
 * Bryan Burke
 * Craig Swank
 * Doug Cichon
+* Doug Clark
 * Gautam Dey
 * Igor Canadi
 * Jason Raede
