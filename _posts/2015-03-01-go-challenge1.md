@@ -328,6 +328,10 @@ There are three categories of participants. Most are just participating in the c
 
 * Corey Powell
 
+**Norway**
+
+* Rune Botten
+
 **Slovenia**
 
 * Damjan Cvetko
