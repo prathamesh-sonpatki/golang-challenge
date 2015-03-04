@@ -342,6 +342,7 @@ There are three categories of participants. Most are just participating in the c
 
 **UK**
 
+* Jacob Fenton
 * Roger Peppe
 
 **United Arab Emirates**
