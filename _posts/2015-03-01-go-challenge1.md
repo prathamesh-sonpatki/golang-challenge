@@ -383,6 +383,7 @@ There are three categories of participants. Most are just participating in the c
 * Michael Fraenkel
 * Nathan VanBenschoten
 * Paul Schuster
+* Peggy Li
 * Stephen Gutekanst
 
 #####Participating and adding more steps
