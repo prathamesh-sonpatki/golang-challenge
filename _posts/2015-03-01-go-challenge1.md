@@ -391,6 +391,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Anant Narayanan
 * [Jeremy Jay](https://github.com/pbnjay)
+* Michael Smith
 
 #####Just for Fun
 
