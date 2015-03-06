@@ -302,10 +302,16 @@ There are three categories of participants. Most are just participating in the c
 * Michael Alexander
 * Mike Hughes
 
-**Brasil**
+**Brazil**
 
+* Crístian Deives dos Santos Viana
 * Matheus Cunha
 * Rafael Barbosa de Oliveira Costa
+
+**Canada**
+
+* Chris Saunders
+* Marc Hoekema
 
 **Denmark**
 
@@ -321,6 +327,10 @@ There are three categories of participants. Most are just participating in the c
 
 * Seong-Min Kang
 * Tobias Schoknecht
+
+**Greece**
+
+* Apostolos Matsagkas
 
 **India**
 
@@ -400,6 +410,7 @@ There are three categories of participants. Most are just participating in the c
 * Paul Schuster
 * Peggy Li
 * Stephen Gutekanst
+* Wisdom Omuya
 
 #####Participating and adding more steps
 
