@@ -214,7 +214,7 @@ If you have any questions about this challenge, please post them in our **[forum
 
 #### Evaluators
 
-[Nathan Youngman](https://twitter.com/nathany) has agreed to set guidelines for evaluation. [Dominik Honnef](http://dominik.honnef.co/), [Jiahua Chen](https://twitter.com/joe2010xtmf), [Niket Patel](https://twitter.com/nexneo), [Pravin Mishra](https://twitter.com/pravinmishra88) and [Sanat Gersappa](https://twitter.com/sanatgersappa) have agreed to go through all the submitted solutions of a challenge. They will comment and rank these solutions.
+[Nathan Youngman](https://twitter.com/nathany) has agreed to set the guidelines for evaluation. [Dominik Honnef](http://dominik.honnef.co/), [Guillaume J. Charmes](https://twitter.com/charme_g), [Jiahua Chen](https://twitter.com/joe2010xtmf), [Niket Patel](https://twitter.com/nexneo), [Pravin Mishra](https://twitter.com/pravinmishra88) and [Sanat Gersappa](https://twitter.com/sanatgersappa) have agreed to go through all the submitted solutions of a challenge. They will comment and rank these solutions.
 
 #### Best Solution
 
