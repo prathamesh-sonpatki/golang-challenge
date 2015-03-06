@@ -375,6 +375,7 @@ There are three categories of participants. Most are just participating in the c
 
 **USA**
 
+* Adam Veldhousen
 * Andrew Gutekanst
 * Bryan Burke
 * Craig Swank
