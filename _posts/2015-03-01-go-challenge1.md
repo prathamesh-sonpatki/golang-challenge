@@ -332,9 +332,17 @@ There are three categories of participants. Most are just participating in the c
 * Christoper
 * William Shallum
 
+**Ireland**
+
+* Gerard Cahill
+
 **Jamaica**
 
 * Corey Powell
+
+**Netherlands**
+
+* Sander Isendoorn
 
 **Norway**
 
@@ -360,6 +368,10 @@ There are three categories of participants. Most are just participating in the c
 **United Arab Emirates**
 
 * Asad Jibran Ahmed
+
+**Ukraine**
+
+* Eduard Pelesh
 
 **USA**
 
