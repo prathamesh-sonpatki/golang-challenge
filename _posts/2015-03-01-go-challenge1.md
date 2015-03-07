@@ -418,6 +418,7 @@ There are three categories of participants. Most are just participating in the c
 * Peggy Li
 * Stephen Gutekanst
 * Wisdom Omuya
+* Zac Bergquist
 
 #####Participating and adding more steps
 
