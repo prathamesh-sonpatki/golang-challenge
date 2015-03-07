@@ -322,6 +322,7 @@ There are three categories of participants. Most are just participating in the c
 **France**
 
 * Alexandre Grison
+* David Le Corfec
 * Ladeveze Quentin
 * Thibault Normand
 
