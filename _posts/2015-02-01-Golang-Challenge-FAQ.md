@@ -2,6 +2,7 @@
 layout: post
 title: Go Challenge
 tags: [go challenge, golang]
+published: false
 ---
 
 **Preamble**
