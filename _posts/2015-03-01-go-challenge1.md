@@ -424,6 +424,10 @@ There are three categories of participants. Most are just participating in the c
 
 #####Participating and adding more steps
 
+**Canada**
+
+* Scott Brooks
+
 **USA**
 
 * Anant Narayanan
