@@ -388,6 +388,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Adam Veldhousen
 * Andrew Gutekanst
+* Andrew Smith
 * Bill Hathaway
 * Bryan Burke
 * Craig Swank
