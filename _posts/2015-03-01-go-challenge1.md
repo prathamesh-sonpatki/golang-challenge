@@ -337,7 +337,6 @@ There are three categories of participants. Most are just participating in the c
 
 * Aamir Khan
 * Dharampal H S
-* Karan Misra
 * Krishna Sundarram
 
 **Indonesia**
@@ -424,6 +423,10 @@ There are three categories of participants. Most are just participating in the c
 * Michael Smith
 
 #####Just for Fun
+
+**India**
+
+* Karan Misra
 
 **USA**
 
