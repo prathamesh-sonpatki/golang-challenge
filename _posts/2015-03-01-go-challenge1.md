@@ -335,6 +335,7 @@ There are three categories of participants. Most are just participating in the c
 
 **India**
 
+* Aamir Khan
 * Dharampal H S
 * Karan Misra
 * Krishna Sundarram
