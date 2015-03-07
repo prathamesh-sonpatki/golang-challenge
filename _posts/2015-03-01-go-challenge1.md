@@ -322,6 +322,7 @@ There are three categories of participants. Most are just participating in the c
 **France**
 
 * Alexandre Grison
+* Ladeveze Quentin
 * Thibault Normand
 
 **Germany**
@@ -359,6 +360,10 @@ There are three categories of participants. Most are just participating in the c
 **Norway**
 
 * Rune Botten
+
+**Slovakia**
+
+* Juraj Bubniak
 
 **Slovenia**
 
