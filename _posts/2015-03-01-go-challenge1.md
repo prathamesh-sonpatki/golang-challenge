@@ -314,6 +314,10 @@ There are three categories of participants. Most are just participating in the c
 * Chris Saunders
 * Marc Hoekema
 
+**Costa Rica**
+
+* Marcelo Magallon
+
 **Denmark**
 
 * Bjørn Friese
