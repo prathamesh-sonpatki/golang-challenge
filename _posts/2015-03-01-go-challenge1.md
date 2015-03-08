@@ -405,20 +405,20 @@ There are three categories of participants. Most are just participating in the c
 * Bryan Burke
 * Craig Swank
 * Doug Cichon
-* Doug Clark
+* [Doug Clark](https://github.com/dlclark)
 * Gautam Dey
 * Igor Canadi
 * [Jason Raede](https://github.com/jraede)
 * Jason Rodney Hansen
 * John Adams
 * Joshua Marsh
-* Kyle Baker
+* [Kyle Baker](https://github.com/kylethebaker)
 * Larry Price
 * Linh-Nam Vu
 * Luke Champine
 * [Masayoshi Sekimura](https://github.com/sekimura)
 * Matt Kovars
-* Michael Fraenkel
+* [Michael Fraenkel](https://github.com/fraenkel)
 * [Nathan VanBenschoten](https://github.com/nvanbenschoten)
 * Paul Schuster
 * Peggy Li
