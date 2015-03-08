@@ -356,7 +356,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Jamaica**
 
-* Corey Powell
+* [Corey Powell](https://github.com/IceDragon200)
 
 **Netherlands**
 
