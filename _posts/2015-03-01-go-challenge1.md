@@ -307,7 +307,7 @@ There are three categories of participants. Most are just participating in the c
 **Brazil**
 
 * [Crístian Deives dos Santos Viana](https://github.com/cd1)
-* Matheus Cunha
+* [Matheus Cunha](https://github.com/mathcunha/)
 * Rafael Barbosa de Oliveira Costa
 
 **Canada**
