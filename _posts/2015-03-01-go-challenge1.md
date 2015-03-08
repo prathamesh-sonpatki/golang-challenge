@@ -316,7 +316,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Costa Rica**
 
-* Marcelo Magallon
+* [Marcelo Magallon](https://github.com/mem)
 
 **Denmark**
 
