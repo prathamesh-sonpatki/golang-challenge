@@ -322,7 +322,7 @@ There are three categories of participants. Most are just participating in the c
 **Denmark**
 
 * [Bjørn Friese](http://frieze.dk/)
-* Brian Stengaard
+* [Brian Stengaard](https://github.com/stengaard)
 
 **France**
 
@@ -344,7 +344,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Aamir Khan
 * Chandra Sekar S.
-* Dharampal H S
+* [Dharampal H S](https://github.com/CodeMangler)
 * [Krishna Sundarram](https://github.com/nindalf)
 
 **Indonesia**
@@ -406,7 +406,7 @@ There are three categories of participants. Most are just participating in the c
 * Bill Hathaway
 * Bryan Burke
 * Chase Colman
-* Craig Swank
+* [Craig Swank](https://github.com/cswank)
 * Doug Cichon
 * [Doug Clark](https://github.com/dlclark)
 * Gautam Dey
