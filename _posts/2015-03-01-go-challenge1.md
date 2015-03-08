@@ -446,7 +446,7 @@ There are three categories of participants. Most are just participating in the c
 
 **USA**
 
-* Francesc Campoy Flores
+* [Francesc Campoy Flores](https://github.com/campoy)
 * Uwe Hoffmann
 
 #### Challenge Solutions
