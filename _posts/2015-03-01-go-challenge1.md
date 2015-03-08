@@ -335,6 +335,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Seong-Min Kang
 * [Tobias Schoknecht](https://twitter.com/tobischo)
+* Tomasz Elendt
 
 **Greece**
 
