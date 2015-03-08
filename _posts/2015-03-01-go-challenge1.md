@@ -334,6 +334,7 @@ There are three categories of participants. Most are just participating in the c
 **Germany**
 
 * Seong-Min Kang
+* Simon Kern
 * [Tobias Schoknecht](https://twitter.com/tobischo)
 * Tomasz Elendt
 
