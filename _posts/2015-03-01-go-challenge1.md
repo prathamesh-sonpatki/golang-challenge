@@ -305,7 +305,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Brazil**
 
-* Crístian Deives dos Santos Viana
+* [Crístian Deives dos Santos Viana](https://github.com/cd1)
 * Matheus Cunha
 * Rafael Barbosa de Oliveira Costa
 
@@ -419,7 +419,7 @@ There are three categories of participants. Most are just participating in the c
 * [Masayoshi Sekimura](https://github.com/sekimura)
 * Matt Kovars
 * Michael Fraenkel
-* Nathan VanBenschoten
+* [Nathan VanBenschoten](https://github.com/nvanbenschoten)
 * Paul Schuster
 * Peggy Li
 * Stephen Gutekanst
