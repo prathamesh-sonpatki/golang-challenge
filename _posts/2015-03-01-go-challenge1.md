@@ -422,7 +422,7 @@ There are three categories of participants. Most are just participating in the c
 * [Nathan VanBenschoten](https://github.com/nvanbenschoten)
 * Paul Schuster
 * Peggy Li
-* Stephen Gutekanst
+* [Stephen Gutekanst](https://github.com/slimsag)
 * Wisdom Omuya
 * Zac Bergquist
 
