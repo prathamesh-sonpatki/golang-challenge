@@ -333,7 +333,7 @@ There are three categories of participants. Most are just participating in the c
 **Germany**
 
 * Seong-Min Kang
-* Tobias Schoknecht
+* [Tobias Schoknecht](https://twitter.com/tobischo)
 
 **Greece**
 
@@ -408,7 +408,7 @@ There are three categories of participants. Most are just participating in the c
 * Doug Clark
 * Gautam Dey
 * Igor Canadi
-* Jason Raede
+* [Jason Raede](https://github.com/jraede)
 * Jason Rodney Hansen
 * John Adams
 * Joshua Marsh
@@ -416,7 +416,7 @@ There are three categories of participants. Most are just participating in the c
 * Larry Price
 * Linh-Nam Vu
 * Luke Champine
-* Masayoshi Sekimura
+* [Masayoshi Sekimura](https://github.com/sekimura)
 * Matt Kovars
 * Michael Fraenkel
 * Nathan VanBenschoten
