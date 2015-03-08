@@ -381,7 +381,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Switzerland**
 
-* Matt T. Proud
+* [Matt T. Proud](http://www.matttproud.com/index.html)
 
 **UK**
 
