@@ -405,6 +405,7 @@ There are three categories of participants. Most are just participating in the c
 * Andrew Smith
 * Bill Hathaway
 * Bryan Burke
+* Chase Colman
 * Craig Swank
 * Doug Cichon
 * [Doug Clark](https://github.com/dlclark)
