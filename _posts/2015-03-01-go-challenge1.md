@@ -439,6 +439,10 @@ There are three categories of participants. Most are just participating in the c
 * Wisdom Omuya
 * Zac Bergquist
 
+**Vietnam**
+
+* [Ivan Kirichenko](https://twitter.com/ivashkenguru)
+
 #####Participating and adding more steps
 
 **Canada**
