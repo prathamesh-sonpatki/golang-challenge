@@ -354,6 +354,7 @@ There are three categories of participants. Most are just participating in the c
 * Aamir Khan
 * Chandra Sekar S.
 * [Dharampal H S](https://github.com/CodeMangler)
+* [Jijesh Mohan](https://github.com/jijeshmohan)
 * [Krishna Sundarram](https://github.com/nindalf)
 
 **Indonesia**
