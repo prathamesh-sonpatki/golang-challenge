@@ -299,6 +299,7 @@ There are three categories of participants. Most are just participating in the c
 **Australia**
 
 * Jaime Pillora
+* Jonathan Pentecost
 * Michael Alexander
 * Mike Hughes
 * [Oleg Ivanov](http://speakmy.name/)
