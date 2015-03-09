@@ -384,7 +384,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Sweden**
 
-* Anton Erholt
+* [Anton Erholt](https://github.com/antonaut)
 
 **Switzerland**
 
