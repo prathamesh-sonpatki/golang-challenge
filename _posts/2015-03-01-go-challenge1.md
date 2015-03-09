@@ -384,10 +384,6 @@ There are three categories of participants. Most are just participating in the c
 * Challenger
 * Stefan Goga
 
-**Slovenia**
-
-* Damjan Cvetko
-
 **Sweden**
 
 * [Anton Erholt](https://github.com/antonaut)
@@ -429,7 +425,7 @@ There are three categories of participants. Most are just participating in the c
 * Jason Rodney Hansen
 * [Joey Geiger](https://github.com/jgeiger)
 * John Adams
-* Joshua Marsh
+* [Joshua Marsh](https://github.com/icub3d)
 * [Kyle Baker](https://github.com/kylethebaker)
 * Larry Price
 * Linh-Nam Vu
@@ -443,7 +439,7 @@ There are three categories of participants. Most are just participating in the c
 * Robert Bieber
 * [Stephen Gutekanst](https://github.com/slimsag)
 * Wisdom Omuya
-* Zac Bergquist
+* [Zac Bergquist](https://github.com/zmb3)
 
 **Vietnam**
 
@@ -458,6 +454,10 @@ There are three categories of participants. Most are just participating in the c
 **India**
 
 * [Jijesh Mohan](https://github.com/jijeshmohan)
+
+**Slovenia**
+
+* [Damjan Cvetko](https://github.com/zobo)
 
 **USA**
 
