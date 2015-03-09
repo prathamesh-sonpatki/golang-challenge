@@ -301,7 +301,7 @@ There are three categories of participants. Most are just participating in the c
 * Jaime Pillora
 * Michael Alexander
 * Mike Hughes
-* Oleg Ivanov
+* [Oleg Ivanov](http://speakmy.name/)
 * Peter Stace
 
 **Brazil**
