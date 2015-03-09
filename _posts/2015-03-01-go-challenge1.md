@@ -313,6 +313,7 @@ There are three categories of participants. Most are just participating in the c
 **Canada**
 
 * Chris Saunders
+* Ian Dawes
 * Marc Hoekema
 
 **Costa Rica**
@@ -407,6 +408,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Adam Veldhousen
 * Andrew Gutekanst
+* Andrew Hoyle
 * Andrew Smith
 * Bill Hathaway
 * Bryan Burke
@@ -418,6 +420,7 @@ There are three categories of participants. Most are just participating in the c
 * Igor Canadi
 * [Jason Raede](https://github.com/jraede)
 * Jason Rodney Hansen
+* [Joey Geiger](https://github.com/jgeiger)
 * John Adams
 * Joshua Marsh
 * [Kyle Baker](https://github.com/kylethebaker)
