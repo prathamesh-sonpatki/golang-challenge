@@ -354,6 +354,7 @@ There are three categories of participants. Most are just participating in the c
 * Aamir Khan
 * Chandra Sekar S.
 * [Dharampal H S](https://github.com/CodeMangler)
+* Karan Misra
 * [Krishna Sundarram](https://github.com/nindalf)
 
 **Indonesia**
@@ -454,6 +455,10 @@ There are three categories of participants. Most are just participating in the c
 
 * Scott Brooks
 
+**India**
+
+* [Jijesh Mohan](https://github.com/jijeshmohan)
+
 **USA**
 
 * Anant Narayanan
@@ -461,11 +466,6 @@ There are three categories of participants. Most are just participating in the c
 * Michael Smith
 
 #####Just for Fun
-
-**India**
-
-* [Jijesh Mohan](https://github.com/jijeshmohan)
-* Karan Misra
 
 **USA**
 
