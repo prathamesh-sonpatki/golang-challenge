@@ -384,6 +384,10 @@ There are three categories of participants. Most are just participating in the c
 * Challenger
 * Stefan Goga
 
+**Spain**
+
+* Marc Navarro Sonnenfeld
+
 **Sweden**
 
 * [Anton Erholt](https://github.com/antonaut)
