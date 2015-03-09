@@ -334,6 +334,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Germany**
 
+* Henry Bubert
 * Seong-Min Kang
 * Simon Kern
 * [Tobias Schoknecht](https://twitter.com/tobischo)
@@ -433,6 +434,7 @@ There are three categories of participants. Most are just participating in the c
 * [Michael Fraenkel](https://github.com/fraenkel)
 * [Nathan VanBenschoten](https://github.com/nvanbenschoten)
 * Paul Schuster
+* Robert Bieber
 * [Stephen Gutekanst](https://github.com/slimsag)
 * Wisdom Omuya
 * Zac Bergquist
