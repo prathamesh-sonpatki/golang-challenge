@@ -390,6 +390,7 @@ There are three categories of participants. Most are just participating in the c
 **UK**
 
 * Jacob Fenton
+* Max Hunt
 * Roger Peppe
 * Shailesh Mistry
 
