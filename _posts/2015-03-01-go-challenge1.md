@@ -327,7 +327,7 @@ There are three categories of participants. Most are just participating in the c
 
 **France**
 
-* Alexandre Grison
+* [Alexandre Grison](https://twitter.com/algrison)
 * David Le Corfec
 * Ladeveze Quentin
 * Thibault Normand
@@ -399,7 +399,7 @@ There are three categories of participants. Most are just participating in the c
 
 **United Arab Emirates**
 
-* Asad Jibran Ahmed
+* [Asad Jibran Ahmed](https://twitter.com/theonejb)
 
 **Ukraine**
 
