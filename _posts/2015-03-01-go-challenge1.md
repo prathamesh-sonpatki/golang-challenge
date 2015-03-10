@@ -356,6 +356,7 @@ There are three categories of participants. Most are just participating in the c
 * [Dharampal H S](https://github.com/CodeMangler)
 * Karan Misra
 * [Krishna Sundarram](https://github.com/nindalf)
+* [Sharang Dashputre](https://github.com/sharang-d)
 
 **Indonesia**
 
