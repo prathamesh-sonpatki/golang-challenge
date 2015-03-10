@@ -317,6 +317,10 @@ There are three categories of participants. Most are just participating in the c
 * Ian Dawes
 * Marc Hoekema
 
+**China**
+
+* Wang Bin
+
 **Colombia**
 
 * Jovany Leandro Gonzalez Cardona
