@@ -390,6 +390,10 @@ There are three categories of participants. Most are just participating in the c
 * Challenger
 * Stefan Goga
 
+**Slovenia**
+
+* Miran Raitmaier
+
 **Spain**
 
 * Daniel Esteban
