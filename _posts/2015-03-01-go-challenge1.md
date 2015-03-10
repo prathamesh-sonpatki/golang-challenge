@@ -378,6 +378,10 @@ There are three categories of participants. Most are just participating in the c
 
 * Rune Botten
 
+**Poland**
+
+* Miłosz Smółka
+
 **Slovakia**
 
 * Juraj Bubniak
