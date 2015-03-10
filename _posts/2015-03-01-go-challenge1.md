@@ -330,10 +330,6 @@ There are three categories of participants. Most are just participating in the c
 * [Bjørn Friese](http://frieze.dk/)
 * [Brian Stengaard](https://github.com/stengaard)
 
-**Egypt**
-
-* Omar H. Ayad
-
 **France**
 
 * [Alexandre Grison](https://twitter.com/algrison)
@@ -468,6 +464,10 @@ There are three categories of participants. Most are just participating in the c
 **Canada**
 
 * Scott Brooks
+
+**Egypt**
+
+* [Omar H. Ayad](https://github.com/omarayad1)
 
 **India**
 
