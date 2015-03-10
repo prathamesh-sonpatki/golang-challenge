@@ -443,7 +443,6 @@ There are three categories of participants. Most are just participating in the c
 * [Joey Geiger](https://github.com/jgeiger)
 * John Adams
 * [Joshua Marsh](https://github.com/icub3d)
-* [Kelly Dunn](https://twitter.com/kellyleland)
 * [Kyle Baker](https://github.com/kylethebaker)
 * Larry Price
 * Linh-Nam Vu
@@ -486,6 +485,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Anant Narayanan
 * [Jeremy Jay](https://github.com/pbnjay)
+* [Kelly Dunn](https://twitter.com/kellyleland)
 * Michael Smith
 
 #####Just for Fun
