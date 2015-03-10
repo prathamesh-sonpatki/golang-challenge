@@ -449,6 +449,7 @@ There are three categories of participants. Most are just participating in the c
 * Luke Champine
 * [Masayoshi Sekimura](https://github.com/sekimura)
 * Matt Kovars
+* [Matthew Rothenberg](https://github.com/mroth)
 * Michael Deardeuff
 * [Michael Fraenkel](https://github.com/fraenkel)
 * [Nathan VanBenschoten](https://github.com/nvanbenschoten)
