@@ -441,6 +441,7 @@ There are three categories of participants. Most are just participating in the c
 * [Nathan VanBenschoten](https://github.com/nvanbenschoten)
 * Paul Schuster
 * Robert Bieber
+* Sam Stern
 * [Stephen Gutekanst](https://github.com/slimsag)
 * Wisdom Omuya
 * [Zac Bergquist](https://github.com/zmb3)
