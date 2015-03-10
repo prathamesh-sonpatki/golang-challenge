@@ -380,7 +380,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Poland**
 
-* Miłosz Smółka
+* [Miłosz Smółka](https://github.com/m110)
 
 **Slovakia**
 
