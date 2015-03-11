@@ -189,8 +189,8 @@ using something like [portaudio](https://godoc.org/code.google.com/p/portaudio-g
 By participating in this challenge, you agree to be bound by the Challenge Rules below:
 
 * The Challenge is open to individuals.
-* After the challenge, all submissions will be made available online on GitHub under the Creative Commons license.
-* Evaluators cannot enter the challenge.
+* After the challenge, all submissions will be made available online on GitHub under the [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause).
+* Evaluators cannot enter the challenge except under the "Just for Fun" category.
 * Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant's participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of winners. 
