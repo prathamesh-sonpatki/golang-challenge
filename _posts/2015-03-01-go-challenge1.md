@@ -314,6 +314,7 @@ There are three categories of participants. Most are just participating in the c
 **Canada**
 
 * Chris Saunders
+* Doug Henderson
 * Ian Dawes
 * Marc Hoekema
 
