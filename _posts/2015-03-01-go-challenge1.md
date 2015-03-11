@@ -338,7 +338,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Finland**
 
-* Antti Rasinen
+* [Antti Rasinen](https://twitter.com/arsatiki)
 
 **France**
 
