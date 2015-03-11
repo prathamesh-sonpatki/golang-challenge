@@ -396,8 +396,9 @@ There are three categories of participants. Most are just participating in the c
 
 **Slovakia**
 
-* Juraj Bubniak
 * Challenger
+* Juraj Bubniak
+* Matej Kohut
 * Stefan Goga
 
 **Slovenia**
