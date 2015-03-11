@@ -298,6 +298,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Australia**
 
+* Alan Harper
 * Jaime Pillora
 * Jonathan Pentecost
 * Michael Alexander
