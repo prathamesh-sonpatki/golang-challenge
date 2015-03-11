@@ -431,6 +431,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Alejandro Garcia
 * Bela Hullar
+* David R. Jenni
 * [Konstantinos Karampogias](https://twitter.com/karampok)
 * [Matt T. Proud](http://www.matttproud.com/index.html)
 
