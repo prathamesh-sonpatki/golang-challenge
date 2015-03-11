@@ -391,6 +391,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Auke Folkerts
 * Gert Scholten
+* Rémon van de Kamp
 * Sander Isendoorn
 
 **Norway**
