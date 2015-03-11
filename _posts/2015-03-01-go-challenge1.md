@@ -403,6 +403,10 @@ There are three categories of participants. Most are just participating in the c
 
 * [Miłosz Smółka](https://github.com/m110)
 
+**Portugal**
+
+* Gonçalo Ferreira da Silva Santos
+
 **Slovakia**
 
 * Challenger
