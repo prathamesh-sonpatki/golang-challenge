@@ -351,6 +351,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Germany**
 
+* Danny Dorner
 * Henry Bubert
 * Seong-Min Kang
 * Simon Kern
