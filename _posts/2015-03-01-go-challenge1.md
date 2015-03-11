@@ -335,6 +335,10 @@ There are three categories of participants. Most are just participating in the c
 * [Bjørn Friese](http://frieze.dk/)
 * [Brian Stengaard](https://github.com/stengaard)
 
+**Finland**
+
+* Antti Rasinen
+
 **France**
 
 * [Alexandre Grison](https://twitter.com/algrison)
