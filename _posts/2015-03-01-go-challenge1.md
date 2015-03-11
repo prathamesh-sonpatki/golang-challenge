@@ -496,6 +496,10 @@ There are three categories of participants. Most are just participating in the c
 
 * [Omar H. Ayad](https://github.com/omarayad1)
 
+**France**
+
+* [Marc Noirot](https://github.com/noirotm)
+
 **India**
 
 * [Jijesh Mohan](https://github.com/jijeshmohan)
