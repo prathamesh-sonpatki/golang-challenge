@@ -353,6 +353,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Danny Dorner
 * Henry Bubert
+* [Mike Strueder](https://twitter.com/mikezter)
 * Seong-Min Kang
 * Simon Kern
 * [Tobias Schoknecht](https://twitter.com/tobischo)
