@@ -319,6 +319,7 @@ There are three categories of participants. Most are just participating in the c
 
 **China**
 
+* Herrick Shen
 * Wang Bin
 
 **Colombia**
