@@ -377,6 +377,7 @@ There are three categories of participants. Most are just participating in the c
 * Karan Misra
 * [Krishna Sundarram](https://github.com/nindalf)
 * [Kumar Mantesh Jalihal](https://twitter.com/kumarmantesh)
+* [Shabinesh Sivaraj](https://twitter.com/shabinesh)
 * [Sharang Dashputre](https://github.com/sharang-d)
 
 **Indonesia**
@@ -444,6 +445,10 @@ There are three categories of participants. Most are just participating in the c
 
 * Daniel Esteban
 * Marc Navarro Sonnenfeld
+
+**Sri Lanka**
+
+* [Lakshan Perera](https://twitter.com/laktek)
 
 **Sweden**
 
