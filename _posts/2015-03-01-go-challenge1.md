@@ -381,6 +381,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Indonesia**
 
+* [Akeda Bagus](https://github.com/gedex)
 * Christoper
 * William Shallum
 
@@ -552,6 +553,8 @@ There are three categories of participants. Most are just participating in the c
 * Michael Smith
 
 #####Just for Fun
+
+* Anonymous
 
 **Slovakia**
 
