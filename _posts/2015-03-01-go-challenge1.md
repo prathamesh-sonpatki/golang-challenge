@@ -531,6 +531,10 @@ There are three categories of participants. Most are just participating in the c
 
 #####Just for Fun
 
+**Slovakia**
+
+* Matej Kohut
+
 **USA**
 
 * [Francesc Campoy Flores](https://github.com/campoy)
