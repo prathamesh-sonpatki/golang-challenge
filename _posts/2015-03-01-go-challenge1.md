@@ -404,6 +404,10 @@ There are three categories of participants. Most are just participating in the c
 * Rémon van de Kamp
 * Sander Isendoorn
 
+**Nigeria**
+
+* [Abiola Ibrahim](https://twitter.com/abiosoft)
+
 **Norway**
 
 * Rune Botten
