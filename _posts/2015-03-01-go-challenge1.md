@@ -346,7 +346,7 @@ There are three categories of participants. Most are just participating in the c
 * [Alexandre Grison](https://twitter.com/algrison)
 * David Le Corfec
 * Ladeveze Quentin
-* Simon Marache-Francisco
+* [Simon Marache-Francisco](https://twitter.com/smarachefr)
 * Thibault Normand
 
 **Germany**
