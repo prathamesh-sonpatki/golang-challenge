@@ -474,6 +474,7 @@ There are three categories of participants. Most are just participating in the c
 * Andrew Smith
 * Bill Hathaway
 * Bryan Burke
+* [Bryan Davis](https://github.com/openwonk)
 * Chase Colman
 * [Craig Swank](https://github.com/cswank)
 * Doug Cichon
