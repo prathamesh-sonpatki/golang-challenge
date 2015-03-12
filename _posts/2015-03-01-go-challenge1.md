@@ -349,6 +349,7 @@ There are three categories of participants. Most are just participating in the c
 * David Le Corfec
 * Kevin Gillieron
 * Ladeveze Quentin
+* [Simon Caplette](https://github.com/simcap)
 * [Simon Marache-Francisco](https://twitter.com/smarachefr)
 * Thibault Normand
 
