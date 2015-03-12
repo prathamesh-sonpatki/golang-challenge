@@ -455,7 +455,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Turkey**
 
-* Emin Demirci
+* [Emin Demirci](https://github.com/eminn)
 
 **UK**
 
