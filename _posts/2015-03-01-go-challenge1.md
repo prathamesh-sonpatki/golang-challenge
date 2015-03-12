@@ -354,6 +354,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Germany**
 
+* Almer Bolatov
 * Danny Dorner
 * Henry Bubert
 * Martin Stolle
@@ -387,6 +388,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Ireland**
 
+* [Daniel Wakefield](https://twitter.com/_dan_w)
 * Gerard Cahill
 
 **Jamaica**
