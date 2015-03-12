@@ -481,6 +481,7 @@ There are three categories of participants. Most are just participating in the c
 * [Doug Clark](https://github.com/dlclark)
 * Gautam Dey
 * Igor Canadi
+* [Jason A. Gade](https://twitter.com/TinSoldier6)
 * [Jason Raede](https://github.com/jraede)
 * Jason Rodney Hansen
 * [Joey Geiger](https://github.com/jgeiger)
