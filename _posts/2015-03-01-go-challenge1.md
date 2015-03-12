@@ -321,6 +321,7 @@ There are three categories of participants. Most are just participating in the c
 
 **China**
 
+* Bisheng Zhu
 * Herrick Shen
 * Wang Bin
 
