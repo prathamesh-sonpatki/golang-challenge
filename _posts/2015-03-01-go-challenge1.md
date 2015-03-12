@@ -406,6 +406,7 @@ There are three categories of participants. Most are just participating in the c
 * Arjan de Pooter
 * Auke Folkerts
 * Gert Scholten
+* Joël Stemmer
 * Rémon van de Kamp
 * Sander Isendoorn
 
@@ -415,6 +416,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Norway**
 
+* [Øyvind Ingvaldsen](https://twitter.com/bobusumisu)
 * Rune Botten
 
 **Poland**
@@ -460,6 +462,7 @@ There are three categories of participants. Most are just participating in the c
 
 **UK**
 
+* [Andrea Franz](https://github.com/pilu)
 * Jacob Fenton
 * Max Hunt
 * Michael Daffin
@@ -497,6 +500,7 @@ There are three categories of participants. Most are just participating in the c
 * John Adams
 * [Joshua Marsh](https://github.com/icub3d)
 * [Kyle Baker](https://github.com/kylethebaker)
+* [Landon Jones](https://twitter.com/landonbjones)
 * Larry Price
 * Linh-Nam Vu
 * Luke Champine
