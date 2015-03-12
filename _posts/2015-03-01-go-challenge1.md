@@ -336,6 +336,7 @@ There are three categories of participants. Most are just participating in the c
 
 * [Bjørn Friese](http://frieze.dk/)
 * [Brian Stengaard](https://github.com/stengaard)
+* [Klaus Post](https://github.com/klauspost)
 
 **Finland**
 
