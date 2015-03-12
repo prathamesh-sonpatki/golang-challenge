@@ -396,6 +396,10 @@ There are three categories of participants. Most are just participating in the c
 
 * [Corey Powell](https://github.com/IceDragon200)
 
+**Japan**
+
+* [Keiji Yoshida](https://github.com/yosssi)
+
 **Netherlands**
 
 * Arjan de Pooter
