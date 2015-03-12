@@ -443,8 +443,9 @@ There are three categories of participants. Most are just participating in the c
 
 * Jacob Fenton
 * Max Hunt
-* Roger Peppe
 * Michael Daffin
+* Primrose Mbanefo
+* Roger Peppe
 * Shailesh Mistry
 
 **United Arab Emirates**
