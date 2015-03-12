@@ -404,6 +404,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Poland**
 
+* [Ignacy Moryc](https://twitter.com/ignacymoryc)
 * [Miłosz Smółka](https://github.com/m110)
 
 **Portugal**
