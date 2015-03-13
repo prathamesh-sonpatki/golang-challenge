@@ -512,7 +512,6 @@ There are three categories of participants. Most are just participating in the c
 * Max Hunt
 * Michael Daffin
 * Primrose Mbanefo
-* Roger Peppe
 * Shailesh Mistry
 * [Will Pragnell](https://twitter.com/willpragnell)
 
@@ -603,6 +602,10 @@ There are three categories of participants. Most are just participating in the c
 **Slovenia**
 
 * [Damjan Cvetko](https://github.com/zobo)
+
+**UK**
+
+* Roger Peppe
 
 **USA**
 
