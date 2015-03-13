@@ -352,6 +352,8 @@ There are three categories of participants. Most are just participating in the c
 
 * [Alexandre Grison](https://twitter.com/algrison)
 * David Le Corfec
+* [Florian Carrere](https://www.linkedin.com/profile/view?id=60988682)
+* [Jean Hominal](https://twitter.com/jhominal)
 * Kevin Gillieron
 * Ladeveze Quentin
 * [Simon Caplette](https://github.com/simcap)
@@ -360,6 +362,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Germany**
 
+* [Alexander Peters](https://twitter.com/alpe1)
 * Almer Bolatov
 * Danny Dorner
 * [Hendrik Will](https://imwill.com/)
@@ -529,6 +532,7 @@ There are three categories of participants. Most are just participating in the c
 * [Doug Clark](https://github.com/dlclark)
 * Gautam Dey
 * Igor Canadi
+* [Jason Clark](https://twitter.com/jjasonclark)
 * [Jason A. Gade](https://twitter.com/TinSoldier6)
 * [Jason Raede](https://github.com/jraede)
 * Jason Rodney Hansen
@@ -550,6 +554,7 @@ There are three categories of participants. Most are just participating in the c
 * [Nathan VanBenschoten](https://github.com/nvanbenschoten)
 * Paul Schuster
 * Robert Bieber
+* Ross Salas
 * Sam Stern
 * [Scott Barron](https://twitter.com/rubyist)
 * Sonia Keys
