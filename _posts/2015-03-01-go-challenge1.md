@@ -333,6 +333,10 @@ There are three categories of participants. Most are just participating in the c
 
 * [Marcelo Magallon](https://github.com/mem)
 
+**Czech Republic**
+
+* Martin Beneš
+
 **Denmark**
 
 * [Bjørn Friese](http://frieze.dk/)
@@ -430,6 +434,10 @@ There are three categories of participants. Most are just participating in the c
 
 * Gonçalo Ferreira da Silva Santos
 
+**Singapore**
+
+* [Audrey Lim](https://github.com/audreylim)
+
 **Slovakia**
 
 * Challenger
@@ -487,6 +495,7 @@ There are three categories of participants. Most are just participating in the c
 **USA**
 
 * Adam Veldhousen
+* Andrew Bates
 * Andrew Gutekanst
 * Andrew Hoyle
 * Andrew Smith
