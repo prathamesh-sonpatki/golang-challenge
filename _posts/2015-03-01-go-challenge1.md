@@ -8,8 +8,6 @@ tags: [go challenge, golang]
 
 --- 
 
-**Update**:
-
 ![update.jpg](/images/update.jpg)
 
 * This challenge is now closed.
