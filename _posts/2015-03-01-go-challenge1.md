@@ -17,6 +17,8 @@ tags: [go challenge, golang]
 
 --- 
 
+#### Matt Aimonetti: Author of the first Go Challenge
+
 <img align="right" src="/images/m_aimonetti.jpg" height="200" width="200" alt="Matt Aimonetti" title="Matt Aimonetti" style="border:5px solid black" />
 The first Go Challenge author is [Matt Aimonetti](http://matt.aimonetti.net/), CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators. Splice streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. 
 
