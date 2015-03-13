@@ -363,6 +363,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Almer Bolatov
 * Danny Dorner
+* [Hendrik Will](https://imwill.com/)
 * Henry Bubert
 * Martin Stolle
 * [Mike Strueder](https://twitter.com/mikezter)
@@ -498,6 +499,7 @@ There are three categories of participants. Most are just participating in the c
 **USA**
 
 * Adam Veldhousen
+* Alex Holden
 * Andrew Bates
 * Andrew Gutekanst
 * Andrew Hoyle
