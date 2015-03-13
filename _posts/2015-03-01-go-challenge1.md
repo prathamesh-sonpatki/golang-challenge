@@ -6,6 +6,8 @@ tags: [go challenge, golang]
 
 #### The world's first monthly Go Challenge for developers (newbies included)
 
+--- 
+
 **Update**:
 
 * This challenge is now closed.
