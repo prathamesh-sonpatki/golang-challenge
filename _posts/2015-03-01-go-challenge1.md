@@ -10,6 +10,8 @@ tags: [go challenge, golang]
 
 **Update**:
 
+![update.jpg](/images/update.jpg)
+
 * This challenge is now closed.
 * There were 170 entries from 40 countries.
 * The winners will be declared on 28th March. 2015.
