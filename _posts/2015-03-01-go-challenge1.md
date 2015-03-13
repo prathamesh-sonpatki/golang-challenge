@@ -6,7 +6,7 @@ tags: [go challenge, golang]
 
 #### The world's first monthly Go Challenge for developers (newbies included) is now live!
 
-<a href="/images/update.jpg"><img align="left" src="/images/update.jpg" alt="Update" style="border:5px" /></a>
+<a href="/images/update.jpg"><img align="left" src="/images/update.jpg" alt="Update" style="border:15px" /></a>
 
 * This challenge is now closed.
 * The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
