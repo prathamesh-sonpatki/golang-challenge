@@ -430,6 +430,7 @@ There are three categories of participants. Most are just participating in the c
 * Daniel van der Meulen
 * Gert Scholten
 * Joël Stemmer
+* Nitish Sharma
 * Rémon van de Kamp
 * Sander Isendoorn
 
