@@ -6,6 +6,11 @@ tags: [go challenge, golang]
 
 #### The world's first monthly Go Challenge for developers (newbies included) is now live!
 
+<a href="/images/update.jpg"><img align="left" src="/images/update.jpg" alt="Update" /></a>
+
+* This challenge is now closed.
+* The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
+
 <img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg" height="200" width="200" alt="Matt Aimonetti" title="Matt Aimonetti" />
 The first Go Challenge author is [Matt Aimonetti](http://matt.aimonetti.net/), CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators. Splice streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. 
 
