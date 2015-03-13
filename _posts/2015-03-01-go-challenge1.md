@@ -535,6 +535,7 @@ There are three categories of participants. Most are just participating in the c
 * Bryan Burke
 * [Bryan Davis](https://github.com/openwonk)
 * Chase Colman
+* [Chris Marshall](https://twitter.com/chrismar035)
 * Christopher Cavey
 * [Craig Swank](https://github.com/cswank)
 * [David Pierce](https://twitter.com/TheDahv)
