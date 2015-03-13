@@ -477,7 +477,7 @@ There are three categories of participants. Most are just participating in the c
 
 **Spain**
 
-* Daniel Esteban
+* [Daniel Esteban](https://github.com/conejoninja/)
 * Marc Navarro Sonnenfeld
 
 **Sri Lanka**
