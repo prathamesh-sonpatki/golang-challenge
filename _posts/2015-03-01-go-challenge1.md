@@ -414,6 +414,7 @@ There are three categories of participants. Most are just participating in the c
 
 * Arjan de Pooter
 * Auke Folkerts
+* Daniel van der Meulen
 * Gert Scholten
 * Joël Stemmer
 * Rémon van de Kamp
@@ -472,6 +473,10 @@ There are three categories of participants. Most are just participating in the c
 * David R. Jenni
 * [Konstantinos Karampogias](https://twitter.com/karampok)
 * [Matt T. Proud](http://www.matttproud.com/index.html)
+
+**Taiwan**
+
+* [Cheng-Lung Sung](https://twitter.com/clsung)
 
 **Turkey**
 
@@ -536,6 +541,7 @@ There are three categories of participants. Most are just participating in the c
 * Paul Schuster
 * Robert Bieber
 * Sam Stern
+* [Scott Barron](https://twitter.com/rubyist)
 * Sonia Keys
 * [Stephen Gutekanst](https://github.com/slimsag)
 * [Travis McDemus](https://github.com/aoeu)
