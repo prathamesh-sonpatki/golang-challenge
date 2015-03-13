@@ -478,6 +478,7 @@ There are three categories of participants. Most are just participating in the c
 
 **UK**
 
+* Adrian Fletcher
 * [Andrea Franz](https://github.com/pilu)
 * Jacob Fenton
 * Max Hunt
@@ -505,6 +506,7 @@ There are three categories of participants. Most are just participating in the c
 * Bryan Burke
 * [Bryan Davis](https://github.com/openwonk)
 * Chase Colman
+* Christopher Cavey
 * [Craig Swank](https://github.com/cswank)
 * [David Pierce](https://twitter.com/TheDahv)
 * Doug Cichon
@@ -534,6 +536,7 @@ There are three categories of participants. Most are just participating in the c
 * Sam Stern
 * Sonia Keys
 * [Stephen Gutekanst](https://github.com/slimsag)
+* [Travis McDemus](https://github.com/aoeu)
 * Wisdom Omuya
 * [Zac Bergquist](https://github.com/zmb3)
 
