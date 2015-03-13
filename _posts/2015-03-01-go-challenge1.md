@@ -6,10 +6,12 @@ tags: [go challenge, golang]
 
 #### The world's first monthly Go Challenge for developers (newbies included) is now live!
 
-<a href="/images/update.jpg"><img align="left" src="/images/update.jpg" alt="Update" /></a>
+<a href="/images/update.jpg"><img align="left" src="/images/update.jpg" alt="Update" style="border:0px" /></a>
 
 * This challenge is now closed.
 * The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
+
+--- 
 
 <img align="right" src="http://rubylearning.com/images/m_aimonetti.jpg" height="200" width="200" alt="Matt Aimonetti" title="Matt Aimonetti" />
 The first Go Challenge author is [Matt Aimonetti](http://matt.aimonetti.net/), CTO and co-founder of [Splice](https://splice.com/), a technology platform for music creators. Splice streamlines the fragmented process of creating and sharing music, freeing musicians to spend their time and energy on the creative process. 
@@ -143,7 +145,7 @@ exit status 1
 
 #### I don't know where to start :(
 
-<a href="/images/hex.png"><img src="/images/hex.png" width="627" alt="Hex Viewer" title="Hex Viewer" border=0></a>
+<a href="/images/hex.png"><img src="/images/hex.png" width="627" alt="Hex Viewer" title="Hex Viewer" style="border:0px"></a>
 
 The first step is to reverse engineer the binary file format. Look at the hex values to see if you can detect patterns. Binary data usually contains some sort of headers, then the encoded data. You should expect to find the data described in the printouts:
 
