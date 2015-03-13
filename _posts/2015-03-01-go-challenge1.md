@@ -9,6 +9,7 @@ tags: [go challenge, golang]
 **Update**:
 
 * This challenge is now closed.
+* The winners will be declared on 28th March. 2015.
 * The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
 
 --- 
@@ -92,7 +93,7 @@ provided tests.
 
 My drum machine loads an audio sample per track, allowing the programmer to schedule the playback of the sound. The scheduling of the playback is done using the concept of steps. A step is one of the parts of the measure that is being programmed (the programmed measure is known as a pattern). The measure (also called a bar) is divided in steps.
 
-![measure.png](http://rubylearning.com/data/measure.png)
+![measure.png](/images/measure.png)
 
 My drum machine only supports 16 step measure patterns played in 4/4 time. The measure is comprised of 4 quarter notes, each quarter note is comprised of 4 sixteenth notes and each sixteenth note corresponds to a step.
 If all these music terms are confusing, don't worry, just know that the drum machine uses grid of 16 parts to let you trigger a sound. We have one sound per track and each track can be programmed independently. Each part is called a step. The speed of the playback is based on the tempo (aka bpm).
