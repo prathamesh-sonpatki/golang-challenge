@@ -438,6 +438,11 @@ There are three categories of participants. Most are just participating in the c
 
 * Gonçalo Ferreira da Silva Santos
 
+**Russia**
+
+* Anton Tereshchenkov
+* Yarik Lelkin
+
 **Singapore**
 
 * [Audrey Lim](https://github.com/audreylim)
@@ -492,6 +497,7 @@ There are three categories of participants. Most are just participating in the c
 * Primrose Mbanefo
 * Roger Peppe
 * Shailesh Mistry
+* [Will Pragnell](https://twitter.com/willpragnell)
 
 **United Arab Emirates**
 
@@ -530,6 +536,7 @@ There are three categories of participants. Most are just participating in the c
 * [Landon Jones](https://twitter.com/landonbjones)
 * Larry Price
 * Linh-Nam Vu
+* [Lloyd Dewolf](https://twitter.com/lloyddewolf)
 * Luke Champine
 * [Mark Moudy](https://twitter.com/MarrkMoudy)
 * [Masayoshi Sekimura](https://github.com/sekimura)
