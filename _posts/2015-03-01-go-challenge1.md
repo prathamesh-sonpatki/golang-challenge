@@ -303,7 +303,6 @@ There are three categories of participants. Most are just participating in the c
 * Alan Harper
 * Jaime Pillora
 * Jonathan Pentecost
-* Michael Alexander
 * Mike Hughes
 * [Oleg Ivanov](http://speakmy.name/)
 * Peter Stace
@@ -458,6 +457,10 @@ There are three categories of participants. Most are just participating in the c
 
 * Miran Raitmaier
 
+**South Africa**
+
+* [Joel Williams](https://twitter.com/flowonyx)
+
 **Spain**
 
 * Daniel Esteban
@@ -560,6 +563,10 @@ There are three categories of participants. Most are just participating in the c
 * [Ivan Kirichenko](https://twitter.com/ivashkenguru)
 
 #####Participating and adding more steps
+
+**Australia**
+
+* [Michael Alexander](https://github.com/beefsack)
 
 **Canada**
 
