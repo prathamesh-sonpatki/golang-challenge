@@ -11,7 +11,7 @@ tags: [go challenge, golang]
 ![update.jpg](/images/update.jpg)
 
 * This first Go challenge is now closed.
-* There were 171 entries from 40 countries.
+* There were 172 entries from 40 countries.
 * The winners will be declared on 28th March. 2015.
 * The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
 
@@ -312,6 +312,7 @@ There are three categories of participants. Most are just participating in the c
 **Australia**
 
 * Alan Harper
+* Challenger
 * Jaime Pillora
 * Jonathan Pentecost
 * Mike Hughes
