@@ -11,7 +11,7 @@ tags: [go challenge, golang]
 ![update.jpg](/images/update.jpg)
 
 * This first Go challenge is now closed.
-* There were 173 entries from 40 countries.
+* There were 173 entries from 41 countries.
 * The winners will be declared on 28th March. 2015.
 * The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
 
