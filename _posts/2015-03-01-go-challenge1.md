@@ -332,6 +332,10 @@ There are three categories of participants. Most are just participating in the c
 * Ian Dawes
 * Marc Hoekema
 
+**Chile**
+
+* Nicolas Huerta
+
 **China**
 
 * Bisheng Zhu
@@ -566,7 +570,6 @@ There are three categories of participants. Most are just participating in the c
 * Michael Deardeuff
 * [Michael Fraenkel](https://github.com/fraenkel)
 * [Nathan VanBenschoten](https://github.com/nvanbenschoten)
-* Nicolas Huerta
 * Paul Schuster
 * Robert Bieber
 * Ross Salas
