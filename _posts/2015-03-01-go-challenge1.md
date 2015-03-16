@@ -637,7 +637,7 @@ There are three categories of participants. Most are just participating in the c
 
 #### Challenge Solutions
 
-All the solutions submitted by the participants are available **[here](https://github.com/GoChallenge/GCSolutions)**.
+All the solutions submitted by the participants are available **[here](https://github.com/golangchallenge/GCSolutions)**.
 
 #### The Winners
 
