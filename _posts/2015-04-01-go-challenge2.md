@@ -129,7 +129,7 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 #### The Participants so far
 
-There are three categories of participants. Most are just participating in the challenge; some are also adding more steps to the cowbell track and some are participating "Just for Fun".
+There are three categories of participants. Most are just participating in the challenge; some are also exploring further than the challenge and some are participating "Just for Fun".
 
 #####Participating
 
