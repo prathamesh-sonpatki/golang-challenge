@@ -252,4 +252,5 @@ This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Ap
 #### Credit
 
 * The Gopher character is based on the Go mascot designed by Renée French and copyrighted under the Creative Commons Attribution 3.0 license.
+* [Ardan Labs](http://www.ardanlabs.com/) for the yearly sponsorship of a [GitHub Micro personal plan](https://github.com/pricing).
 * The Go Challenge is being organized by [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) with help from the Go community.
