@@ -268,7 +268,7 @@ _Winner 2_:
 
 * [Anand D N](https://twitter.com/Wanderer140) - [Essential-Go screencast](https://www.kajabinext.com/marketplace/courses/1-essential-go)
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
-* [CoreOS](https://coreos.com/) - Company T-Shirt and stickers
+* [CoreOS](https://coreos.com/) - Company T-Shirt and stickers and a free ticket to the [CoreOS Fest](https://coreos.com/fest/) in SFO.
 * [Crowd Interactive](http://www.crowdint.com/) - [GitHub Micro Personal Plan](https://github.com/pricing) for three months
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
 * [Docker](https://www.docker.com/) - A ticket to [DockerCon 2015](http://www.dockercon.com/) in SFO, USA OR to DockerCon Europe (to be announced but probably in Dec. 2015).
