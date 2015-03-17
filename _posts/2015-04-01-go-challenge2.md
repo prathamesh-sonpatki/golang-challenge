@@ -67,7 +67,7 @@ The winning entries will be announced here on this blog. The winners will be sen
 
 #### Prizes
 
-Two prizes will be awarded for the best solution as selected by the author.
+The author of the challenge will select 5 winners.
 
 Here are some great prizes provided by our sponsors for the event.
 
@@ -111,6 +111,18 @@ _Winner 2_:
 * [RainingClouds](http://rainingclouds.com/#!/) - An eBook [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
 * [SoStronk](https://www.sostronk.com/) - [Counter-Strike: Global Offensive](http://store.steampowered.com/app/730/) game. You will need to have a free [Steam account](https://store.steampowered.com/join/?) to receive this gift.
 * [Sourcegraph](https://sourcegraph.com/) - [Interview with the winner on their blog and will get their shirt, stickers](https://sourcegraph.com/blog)
+
+_Winner 3_:
+
+* [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
+
+_Winner 4_:
+
+* [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
+
+_Winner 5_:
+
+* [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 
 Anyone can a get 42% off on the price of the following eBooks from [Manning Publications Co.](http://manning.com/):
 
