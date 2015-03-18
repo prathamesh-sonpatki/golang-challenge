@@ -301,7 +301,7 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 #### The Participants
 
-<p>You can check out the list of participants for <a href="{{ site.baseurl }}/participants/march15">March 2015</a>.</p>
+<p>You can check out the list of participants for this challenge i.e. for <a href="{{ site.baseurl }}/participants/march15">March 2015</a>.</p>
 
 #### Challenge Solutions
 
