@@ -257,7 +257,7 @@ _Winner 1_:
 * [Koding](https://koding.com/Pricing) - A free Hobbyist plan for 3 months
 * [Manning Publications Co.](http://manning.com/) - Two eBooks [Go Web Programming](http://www.manning.com/chang/) and [Go in Action](http://www.manning.com/ketelsen/)
 * [NodePrime](http://www.nodeprime.com/) - An eBook [The Go Programming Language Phrasebook (Developer's Library)](http://goo.gl/mTwIOS)
-* [O'Reilly](http://www.oreilly.com/) - An eBook [Go:Up and Running](http://shop.oreilly.com/product/0636920030638.do)
+* [O'Reilly](http://www.oreilly.com/) - An eBook [Introduction to Go Programming](http://shop.oreilly.com/product/0636920035305.do)
 * [Packt Publishing](https://www.packtpub.com/) - A print book [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
 * [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
 * [RainingClouds](http://rainingclouds.com/#!/) - An eBook [Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
