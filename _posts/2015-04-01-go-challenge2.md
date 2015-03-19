@@ -34,9 +34,9 @@ By participating in this challenge, you agree to be bound by the Challenge Rules
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of the winners. 
 * No prize substitution is permitted. 
-* We shall be publishing on this blog, a list of participant names. If you don't want your name to appear kindly mention the same in your email. 
 * Create a zip of your Go source code and send the zip file to **golangchallenge [at] gmail.com before 18th of April 2015 (6 am IST). Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=4&d=18&h=6&mn=0) to find the equivalent time in your city/country**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating | Participating and adding more steps | Just for Fun | Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
 * We will give your zip file to the evaluation team. 
+* We shall be publishing on this blog, a list of participant names. If you don't want your name to appear kindly mention the same in your email. 
 * You are allowed to re-submit your code if you feel it's necessary.
 * **Note**: Avoid sharing your code with anyone else; if your solution becomes available to the general public it might impact evaluation of your submission.
 * After the challenge is over, all submissions will be made available [online on GitHub](https://github.com/golangchallenge/GCSolutions) under the [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause) unless a participant has indicated that his/her solution should not be made public before the challenge ends.
