@@ -15,6 +15,15 @@ tags: [go challenge, golang]
 * The winners will be declared on 28th March. 2015.
 * The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
 
+**Feedback from the Evaluators**
+
+> Difficult to give generalized comments, but here are some suggestions.
+>
+> 1. Running `go vet` and `golint` should be a no-brainer. I found that a few entries failed this test.
+> 2. Use the `defer` statement to free up resources after use - for example, on file open.
+> 3. Do not over-engineer. Types are easy to define, but sometimes, all you need is a func.
+> 4. Comment your code well. What may seem obvious to you may not be so obvious to someone reading your code.
+
 --- 
 
 #### Matt Aimonetti: Author of the first Go Challenge
