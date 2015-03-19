@@ -62,7 +62,7 @@ If you have any questions about this challenge, please join the [golang-challeng
 
 #### Best Solution
 
-The author of the Go Challenge will decide the best two solutions. The author shall have the sole authority and discretion to select the award recipients. 
+The author of the Go Challenge will decide the best five solutions. The author shall have the sole authority and discretion to select the award recipients. 
 
 #### Notification
 
@@ -160,6 +160,7 @@ Also, anyone can a get 25% off on the price (valid till 31st March 2015) of the 
 
 After a winner wins the monthly challenge, he/she would be interviewed by [Sourcegraph](https://sourcegraph.com/) and the interview will be published on their [blog](https://sourcegraph.com/blog).
 
+<!--
 #### The Participants so far
 
 There are three categories of participants. Most are just participating in the challenge; some are also exploring further than the challenge and some are participating "Just for Fun".
@@ -269,6 +270,7 @@ There are three categories of participants. Most are just participating in the c
 **Slovakia**
 
 **USA**
+-->
 
 #### Challenge Solutions
 
