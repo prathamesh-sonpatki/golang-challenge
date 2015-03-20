@@ -46,5 +46,5 @@ I'll end this with a short list of other issues I encountered that don't deserve
 
 #### Discussion 
 
-Please join the [golang-challenge channel]() on slack if you want to discuss this blog post. This is a room for people who are going to participate / have participated in the Go Challenge.
+Please join the [golang-challenge channel](http://t.co/n6EesY9Mmv) on slack if you want to discuss this blog post. This is a room for people who are going to participate / have participated in the Go Challenge.
 
