@@ -2,7 +2,6 @@
 layout: post
 title: Evaluator Feedback on the Go Challenge solutions
 tags: [go challenge, golang]
-published: false
 ---
 
 #### About Evaluator Dominik Honnef
