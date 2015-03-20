@@ -82,6 +82,7 @@ _Winner 1_:
 * [Crowd Interactive](http://www.crowdint.com/) - [GitHub Micro Personal Plan](https://github.com/pricing) for three months
 * [Cube Root Software](http://cuberoot.in/) - An eBook [Go-The Standard Library](https://leanpub.com/go-thestdlib)
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
+* [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing) and a [T-Shirt](http://github.myshopify.com/) of your choice.
 * [Helpshift](http://www.helpshift.com/) - An eBook [A Go Developer's Notebook](https://leanpub.com/GoNotebook)
 * [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
 * [John Sonmez](https://twitter.com/jsonmez) - An eBook [Soft Skills: The software developer's life manual](http://www.amazon.com/gp/product/1617292397/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1617292397&linkCode=as2&tag=satishtalimsw-20&linkId=WGSAUMHIF2SVWJ7D)
@@ -103,6 +104,7 @@ _Winner 2_:
 * [Crowd Interactive](http://www.crowdint.com/) - [GitHub Micro Personal Plan](https://github.com/pricing) for three months
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
 * [Docker](https://www.docker.com/) - A ticket to [DockerCon 2015](http://www.dockercon.com/) in SFO, USA OR to DockerCon Europe (to be announced but probably in Dec. 2015).
+* [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing) and a [T-Shirt](http://github.myshopify.com/) of your choice.
 * [Helpshift](http://www.helpshift.com/) - An eBook [A Go Developer's Notebook](https://leanpub.com/GoNotebook)
 * [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
 * [John Sonmez](https://twitter.com/jsonmez) - An eBook [Soft Skills: The software developer's life manual](http://www.amazon.com/gp/product/1617292397/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1617292397&linkCode=as2&tag=satishtalimsw-20&linkId=WGSAUMHIF2SVWJ7D)
@@ -119,6 +121,7 @@ _Winner 3_:
 
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
+* [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing) and a [T-Shirt](http://github.myshopify.com/) of your choice.
 * [Manning Publications Co.](http://manning.com/) - One eBook [Go in Action](http://www.manning.com/ketelsen/)
 * [NodePrime](http://www.nodeprime.com/) - An eBook [The Go Programming Language Phrasebook (Developer's Library)](http://goo.gl/mTwIOS)
 * [Packt Publishing](https://www.packtpub.com/) - An eBook [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
@@ -129,6 +132,7 @@ _Winner 4_:
 
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
+* [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing) and a [T-Shirt](http://github.myshopify.com/) of your choice.
 * [Manning Publications Co.](http://manning.com/) - One eBook [Go in Practice](http://www.manning.com/butcher/)
 * [NodePrime](http://www.nodeprime.com/) - An eBook [The Go Programming Language Phrasebook (Developer's Library)](http://goo.gl/mTwIOS)
 * [Packt Publishing](https://www.packtpub.com/) - An eBook [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
@@ -139,6 +143,7 @@ _Winner 5_:
 
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
+* [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing) and a [T-Shirt](http://github.myshopify.com/) of your choice.
 * [Manning Publications Co.](http://manning.com/) - One eBook [Go in Practice](http://www.manning.com/butcher/)
 * [NodePrime](http://www.nodeprime.com/) - An eBook [The Go Programming Language Phrasebook (Developer's Library)](http://goo.gl/mTwIOS)
 * [Packt Publishing](https://www.packtpub.com/) - An eBook [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
@@ -160,118 +165,6 @@ Also, anyone can a get 25% off on the price (valid till 31st March 2015) of the 
 
 After a winner wins the monthly challenge, he/she would be interviewed by [Sourcegraph](https://sourcegraph.com/) and the interview will be published on their [blog](https://sourcegraph.com/blog).
 
-<!--
-#### The Participants so far
-
-There are three categories of participants. Most are just participating in the challenge; some are also exploring further than the challenge and some are participating "Just for Fun".
-
-#####Participating
-
-**Algeria**
-
-**Australia**
-
-**Brazil**
-
-**Canada**
-
-**China**
-
-**Colombia**
-
-**Costa Rica**
-
-**Czech Republic**
-
-**Denmark**
-
-**Finland**
-
-**France**
-
-**Germany**
-
-**Greece**
-
-**India**
-
-**Indonesia**
-
-**Iran**
-
-**Ireland**
-
-**Jamaica**
-
-**Japan**
-
-**Netherlands**
-
-**Nigeria**
-
-**Norway**
-
-**Poland**
-
-**Portugal**
-
-**Russia**
-
-**Singapore**
-
-**Slovakia**
-
-**Slovenia**
-
-**South Africa**
-
-**Spain**
-
-**Sri Lanka**
-
-**Sweden**
-
-**Switzerland**
-
-**Taiwan**
-
-**Turkey**
-
-**UK**
-
-**United Arab Emirates**
-
-**Ukraine**
-
-**USA**
-
-**Vietnam**
-
-#####Participating and adding more steps
-
-**Australia**
-
-**Canada**
-
-**Egypt**
-
-**France**
-
-**India**
-
-**Slovenia**
-
-**UK**
-
-**USA**
-
-#####Just for Fun
-
-**Slovakia**
-
-**USA**
--->
-
 #### Challenge Solutions
 
 All the solutions submitted by the participants will be available **[here](https://github.com/GoChallenge/GCSolutions)**.
@@ -282,10 +175,10 @@ All the solutions submitted by the participants will be available **[here](https
 
 #### Sponsors
 
-This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [CoreOS](https://coreos.com/), [Crowd Interactive](http://www.crowdint.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
+This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [CoreOS](https://coreos.com/), [Crowd Interactive](http://www.crowdint.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
 
 #### Credit
 
 * The Gopher character is based on the Go mascot designed by Renée French and copyrighted under the Creative Commons Attribution 3.0 license.
-* [GitHub](https://github.com/) for the yearly sponsorship of a [GitHub Micro personal plan](https://github.com/pricing).
+* [GitHub](https://github.com/) for the yearly sponsorship of a [GitHub Bronze Organisation plan](https://github.com/pricing).
 * The Go Challenge is being organized by [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) with help from the Go community.
