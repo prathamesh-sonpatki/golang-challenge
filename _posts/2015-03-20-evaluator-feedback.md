@@ -36,8 +36,8 @@ Don't write code to pass tests, write code to solve the problem. Pattern 5 had e
 I'll end this with a short list of other issues I encountered that don't deserve their own lengthy prose:
 
 - The "SPLICE" bytes aren't useless – check for them to see if your file really is a Splice file.
-- My name is Dominik. It's not DominikWhoHasAFatherAndAMother. Variables shouldn't be named like that, either. (Go read
-  [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle))
+- My name is Dominik. It's not DominikWhoHasAFatherAndAMother. Variables shouldn't be named like that, either. Go read
+  [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle).
 - No byte was useless, every byte had a meaning. Only the version was padded.
 - `fmt.Sprintf` worked well, you didn't need text/template.
 - Simple code is good. Don't add extra features that have nothing to do with the problem.
