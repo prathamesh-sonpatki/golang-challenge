@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evaluator Feedback on the Go Challenge solutions
+title: Evaluator's Feedback on the Go Challenge solutions
 tags: [go challenge, golang]
 ---
 
