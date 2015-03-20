@@ -44,4 +44,7 @@ I'll end this with a short list of other issues I encountered that don't deserve
 - Readability is key. `gofmt` is a thing. So are `golint` and `go vet`.
 - There's a thing called "short reads". `Read` is allowed to return less bytes than fit in the buffer, without it being an error. You probably wanted `io.ReadFull`.
 
+#### Discussion 
+
+Please join the [golang-challenge channel]() on slack if you want to discuss this blog post. This is a room for people who are going to participate / have participated in the Go Challenge.
 
