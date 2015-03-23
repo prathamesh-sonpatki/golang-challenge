@@ -16,7 +16,7 @@ He started using Go in 2009 and fell in love with its syntax and concurrency mod
 
 Guillaume has this to say about the challenge:
 
-> ""
+> "Data security is a very important matter and this challenge is a good way to dive in with the `NaCl` package and leverage the power of Go interfaces to implement a clean solution over the network."
 
 --- 
 
