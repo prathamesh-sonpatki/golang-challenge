@@ -24,6 +24,9 @@ Guillaume has this to say about the challenge:
 
 ##### Can you help me secure my company’s data transmission?
 
+Last week, our competitor released a feature that we were working on in secret. We suspect that they are spying on our network. Can you help us prevent our competitor from spying on our network?
+
+
 ---
 
 #### Challenge Rules and how to enter the Go Challenge?
