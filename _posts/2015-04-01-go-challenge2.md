@@ -22,6 +22,8 @@ Guillaume has this to say about the challenge:
 
 #### The Go Challenge 2
 
+##### Can you help me secure my company’s data transmission?
+
 ---
 
 #### Challenge Rules and how to enter the Go Challenge?
