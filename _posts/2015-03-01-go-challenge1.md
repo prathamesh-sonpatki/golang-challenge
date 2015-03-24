@@ -12,7 +12,7 @@ tags: [go challenge, golang]
 
 * This first Go challenge is now closed.
 * There were 173 entries from 41 countries.
-* The winners will be declared on 28th March. 2015.
+* The winners of the first Go Challenge are:
 * The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
 
 **Feedback from the Evaluators**
@@ -23,6 +23,8 @@ tags: [go challenge, golang]
 > 2. Use the `defer` statement to free up resources after use - for example, on file open.
 > 3. Do not over-engineer. Types are easy to define, but sometimes, all you need is a func.
 > 4. Comment your code well. What may seem obvious to you may not be so obvious to someone reading your code.
+
+A more detailed feedback is available [here](http://golang-challenge.com/evaluator-feedback/).
 
 --- 
 
