@@ -59,7 +59,7 @@ Entries will be anonymized and evaluated by the challenge author and a team of e
 
 #### Questions?
 
-If you have any questions about this challenge, please join the [golang-challenge channel on slack](http://t.co/n6EesY9Mmv) and ask your questions. This is a room for people who are going to participate in the Go Challenge.
+If you have any questions about this challenge, please join the [golang-challenge channel on slack](http://t.co/n6EesY9Mmv) and ask your questions. This is a room for people who are going to participate in the Go Challenge. You can also send us an email at golangchallenge [at] gmail.com
 
 #### Evaluators
 
