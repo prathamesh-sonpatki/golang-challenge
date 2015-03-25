@@ -323,10 +323,12 @@ All the solutions submitted by the participants are available **[here](https://g
 
 ![winner.png](/images/winner.png)
 
-1 - [Luke Champine](https://twitter.com/NebulousLabs)
-2 - [Jeremy Jay](https://github.com/pbnjay)
+Matt Aimonetti has selected the winners of this challenge. They are:
 
-Matt mentioned that **Doug Cichon** was a very close #2.
+* [Luke Champine](https://twitter.com/NebulousLabs)
+* [Jeremy Jay](https://github.com/pbnjay)
+
+Matt also mentioned that **Doug Cichon** was a very close #2.
 
 #### Sponsors
 
