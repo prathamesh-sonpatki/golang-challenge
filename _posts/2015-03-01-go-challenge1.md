@@ -323,8 +323,8 @@ All the solutions submitted by the participants are available **[here](https://g
 
 ![winner.png](/images/winner.png)
 
-#1 - [Luke Champine](https://twitter.com/NebulousLabs)
-#2 - [Jeremy Jay](https://github.com/pbnjay)
+1 - [Luke Champine](https://twitter.com/NebulousLabs)
+2 - [Jeremy Jay](https://github.com/pbnjay)
 
 Matt mentioned that **Doug Cichon** was a very close #2.
 
