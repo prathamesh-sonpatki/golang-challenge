@@ -326,7 +326,9 @@ All the solutions submitted by the participants are available **[here](https://g
 Matt Aimonetti has selected the winners of this challenge. They are:
 
 <img align="right" src="/images/luke.jpg" alt="Luke Champine" title="Luke Champine" style="border:5px solid black" />
-**Winner #1 Luke Champine** never expected to wind up as a programmer; in college he first studied electrical engineering, and then computer engineering. But he got involved in his school's open source community, which sparked his love of programming and introduced him to Go. He left school without graduating and moved to Boston to co-found [Nebulous](https://twitter.com/NebulousLabs), a cryptocurrency startup. Outside of programming, his interests include linguistics, Buddhism, and chess.
+**Winner #1 Luke Champine** never expected to wind up as a programmer; in college he first studied electrical engineering, and then computer engineering. But he got involved in his school's open source community, which sparked his love of programming and introduced him to Go. He left school without graduating and moved to Boston to co-found [Nebulous](https://twitter.com/NebulousLabs), a cryptocurrency startup. 
+
+Outside of programming, his interests include linguistics, Buddhism, and chess.
 
 --- 
 
