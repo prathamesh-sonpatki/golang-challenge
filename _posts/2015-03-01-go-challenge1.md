@@ -330,6 +330,9 @@ Matt Aimonetti has selected the winners of this challenge. They are:
 
 Matt also mentioned that **Doug Cichon** was a very close #2.
 
+<img align="right" src="/images/jeremy.jpg" alt="Jeremy Jay" title="Jeremy Jay" style="border:5px solid black" />
+Jeremy Jay has been a developer for almost 20 years now. He earned his PhD in Computer Science in 2013, and runs a freelance software development company specializing in mobile apps and complex data integration projects (which often go together!). He has developed applications for all 5 major Operating Systems (Linux, OSX, Windows, iOS, Android), some smaller/embedded ones, using the myriad languages he had picked up along his career. Go is by far his favorite, and has become his daily driver, even for things he used to write short python scripts for. Go's brevity and expressiveness makes it extremely versatile for his daily work.
+
 #### Sponsors
 
 This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [CoreOS](https://coreos.com/), [Crowd Interactive](http://www.crowdint.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
