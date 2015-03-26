@@ -5,7 +5,7 @@ tags: [go challenge, golang]
 published: false
 ---
 
-#### The second monthly Go Challenge for developers (newbies included)
+#### The April 2015 Go Challenge for developers (newbies included)
 
 #### Guillaume J. Charmes: Author of the second Go Challenge
 
