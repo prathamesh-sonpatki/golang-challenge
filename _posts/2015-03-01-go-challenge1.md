@@ -14,8 +14,6 @@ tags: [go challenge, golang]
 * There were 173 entries from 41 countries.
 * The winners of the first Go Challenge are: [Luke Champine](https://twitter.com/NebulousLabs) and [Jeremy Jay](https://github.com/pbnjay).
 
-* The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
-
 **Feedback from the Evaluators**
 
 > Difficult to give generalized comments, but here are some suggestions.
