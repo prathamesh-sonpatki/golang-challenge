@@ -2,7 +2,6 @@
 layout: post
 title: Go Challenge 2
 tags: [go challenge, golang]
-published: false
 ---
 
 #### The April 2015 Go Challenge for developers (newbies included)
