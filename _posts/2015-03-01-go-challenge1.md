@@ -13,6 +13,7 @@ tags: [go challenge, golang]
 * This first Go challenge is now closed.
 * There were 173 entries from 41 countries.
 * The winners of the first Go Challenge are: [Luke Champine](https://twitter.com/NebulousLabs) and [Jeremy Jay](https://github.com/pbnjay).
+* The next Go Challenge will go live on 31st March 2015.
 
 **Feedback from the Evaluators**
 
