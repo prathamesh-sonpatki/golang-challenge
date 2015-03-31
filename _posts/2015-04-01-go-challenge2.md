@@ -26,6 +26,69 @@ Guillaume has this to say about the challenge:
 
 Last week, our competitor released a feature that we were working on in secret. We suspect that they are spying on our network. Can you help us prevent our competitor from spying on our network?
 
+#### To get started
+
+Check out the two files **main.go** and **main_test.go** [here](https://gist.github.com/creack/333f89f6aec5b789c1a0). These files are the starting point for this challenge.
+
+#### Goal of the challenge
+
+In order to prevent our competitor from spying on our network, we are going to write a small system that leverages [NaCl](http://nacl.cr.yp.to/) to establish secure communication. **NaCl** is a crypto system that uses a public key for encryption and a private key for decryption.
+
+Your goal is to implement the functions in **main.go** and make it pass the provided tests in **main_test.go**.
+
+#### Steps involved
+
+The first step is going to be able to generate the public and private keys. Next, we want to create an `io.Writer` and `io.Reader` that will allow us to automatically encrypt/decrypt our data.
+
+##### Part 1
+
+Implement the following helpers that will return our NACL Reader / Writer.
+
+```golang
+func NewSecureReader(r io.Reader, priv, pub *[32]byte) io.Reader
+func NewSecureWriter(w io.Writer, priv, pub *[32]byte) io.Writer
+```
+
+##### Part 2
+
+Now that we can encrypt/decrypt message locally, it would be interesting to do so over the network!
+
+We are going to write a server that will exchange keys with the client in order to establish a secure communication.
+
+In order to be able to encrypt/decrypt, we need to perform a key exchange upon connection.
+
+For the sake of the exercise, performing the key exchange in plain text is acceptable. (In a production system, it would not be acceptable due to MITM risk!)
+
+Unfortunately, everybody has already left for the day, so let's write a secure echo server so we can test!
+
+In order to test our echo server, we can do:
+
+```text
+$> ./challenge2 -l 8080&
+$> ./challenge2 8080 “hello world”
+hello world
+````
+
+#### Requirements of the challenge
+
+* Use the latest version of Go i.e. version 1.4.2
+* Use only standard library and package(s) under `golang.org/x/crypto/nacl`.
+
+#### Hints
+
+* We consider that our messages will always be smaller than 32KB
+* Most of the elements involved for encryption/decryption have fixed length
+* `encoding/binary` can be useful for the variable parts
+ 
+#### Further exploration
+
+If you have liked this challenge, you can keep programming **_outside_** the main challenge. You can:
+
+* create an actual user interface. It would be nice if both side had a prompt and could send more than one message at a time.
+* Handle multiple client and group chat
+* Add compression
+
+Please keep in mind that cryptography is a complex subject matter, with many very subtle risks and mistakes to make. While it makes for a fun exercise, inventing your own crypto systems for production use is usually not a good idea and should be left to a handful of very talented people.
 
 ---
 
@@ -39,7 +102,7 @@ By participating in this challenge, you agree to be bound by the Challenge Rules
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of the winners. 
 * No prize substitution is permitted. 
-* Create a zip of your Go source code and send the zip file to **golangchallenge [at] gmail.com before 18th of April 2015 (6 am IST). Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=4&d=18&h=6&mn=0) to find the equivalent time in your city/country**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating | Participating and adding more steps | Just for Fun | Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
+* Create a zip of your Go source code and send the zip file to **golangchallenge [at] gmail.com before 18th of April 2015 (6 am IST). Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=4&d=18&h=6&mn=0) to find the equivalent time in your city/country**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating | Participating and exploring further | Just for Fun | Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
 * We will give your zip file to the evaluation team. 
 * We shall be publishing on this blog, a list of participant names. If you don't want your name to appear kindly mention the same in your email. 
 * You are allowed to re-submit your code if you feel it's necessary.
@@ -176,7 +239,7 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 #### Challenge Solutions
 
-All the solutions submitted by the participants will be available **[here](https://github.com/GoChallenge/GCSolutions)**.
+All the solutions submitted by the participants will be available **[here](https://github.com/GoChallenge/GCSolutions)** after the challenge ends.
 
 #### The Winners
 
