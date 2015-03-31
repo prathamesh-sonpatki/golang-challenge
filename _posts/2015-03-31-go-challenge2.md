@@ -43,7 +43,7 @@ The first step is going to be able to generate the public and private keys. Next
 
 Implement the following helpers that will return our NACL Reader / Writer.
 
-```golang
+```
 func NewSecureReader(r io.Reader, priv, pub *[32]byte) io.Reader
 func NewSecureWriter(w io.Writer, priv, pub *[32]byte) io.Writer
 ```
@@ -62,11 +62,11 @@ Unfortunately, everybody has already left for the day, so let's write a secure e
 
 In order to test our echo server, we can do:
 
-```text
+```
 $> ./challenge2 -l 8080&
 $> ./challenge2 8080 “hello world”
 hello world
-````
+```
 
 #### Requirements of the challenge
 
@@ -81,7 +81,7 @@ hello world
  
 #### Further exploration
 
-If you have liked this challenge, you can keep programming **_outside_** the main challenge. You can:
+If you have liked this challenge, you can keep programming **outside** the main challenge. You can:
 
 * create an actual user interface. It would be nice if both side had a prompt and could send more than one message at a time.
 * Handle multiple client and group chat
