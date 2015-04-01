@@ -238,7 +238,20 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 #### The Participants
 
-<p>You can check out the list of participants for this challenge i.e. for <a href="{{ site.baseurl }}/participants/april15">April 2015</a>.</p>
+<p>There were three categories of participants. Most are just participating in the challenge; some have added more steps and some are participating "Just for Fun".</p>
+
+<h3>Participating</h3>
+
+<p><b>Denmark</b></p>
+<ul>
+<li><a href="https://github.com/pstibrany" target="_blank">Peter Štibraný</a></li>
+</ul>
+
+<h3>Just for Fun</h3>
+<p><b>India</b></p>
+<ul>
+  <li><a href="https://www.sostronk.com/" target="_blank">Karan Misra</a></li>
+</ul>
 
 #### Challenge Solutions
 
