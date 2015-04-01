@@ -238,17 +238,20 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 #### The Participants
 
-<p>There were three categories of participants. Most are just participating in the challenge; some have added more steps and some are participating "Just for Fun".</p>
+There are three categories of participants. Most are just participating in the challenge; some have added more steps and some are participating "Just for Fun".
 
-<h3>Participating</h3>
+**Participating**
 
-<p><b>Denmark</b></p>
+**Denmark**
+
 <ul>
 <li><a href="https://github.com/pstibrany" target="_blank">Peter Štibraný</a></li>
 </ul>
 
-<h3>Just for Fun</h3>
-<p><b>India</b></p>
+**Just for Fun**
+
+**India**
+
 <ul>
   <li><a href="https://www.sostronk.com/" target="_blank">Karan Misra</a></li>
 </ul>
