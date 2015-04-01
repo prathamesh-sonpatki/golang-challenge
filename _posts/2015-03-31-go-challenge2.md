@@ -253,7 +253,7 @@ There are three categories of participants. Most are just participating in the c
 **India**
 
 <ul>
-  <li><a href="https://www.sostronk.com/" target="_blank">Karan Misra</a></li>
+  <li><a href="http://kidoman.io/" target="_blank">Karan Misra</a></li>
 </ul>
 
 #### Challenge Solutions
