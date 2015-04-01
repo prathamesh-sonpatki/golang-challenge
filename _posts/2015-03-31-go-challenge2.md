@@ -242,6 +242,12 @@ There are three categories of participants. Most are just participating in the c
 
 **Participating**
 
+**Brazil**
+
+<ul>
+<li><a href="https://github.com/mathcunha" target="_blank">Matheus Cunha</a></li>
+</ul>
+
 **Denmark**
 
 <ul>
