@@ -236,6 +236,10 @@ Also, anyone can a get 25% off on the price (valid till 31st March 2015) of the 
 
 After a winner wins the monthly challenge, he/she would be interviewed by [Sourcegraph](https://sourcegraph.com/) and the interview will be published on their [blog](https://sourcegraph.com/blog).
 
+#### The Participants
+
+<p>You can check out the list of participants for this challenge i.e. for <a href="{{ site.baseurl }}/participants/april15">April 2015</a>.</p>
+
 #### Challenge Solutions
 
 All the solutions submitted by the participants will be available **[here](https://github.com/GoChallenge/GCSolutions)** after the challenge ends.
