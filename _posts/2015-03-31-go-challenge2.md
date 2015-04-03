@@ -260,6 +260,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/giuliop" target="_blank">Giulio Pizzini</a></li>
 </ul>
 
+**USA**
+
+<ul>
+<li><a href="https://github.com/jamra" target="_blank">Jacob Amrany</a></li>
+</ul>
+
 **Added more steps**
 
 **Germany**
