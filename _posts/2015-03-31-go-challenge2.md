@@ -254,6 +254,14 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/pstibrany" target="_blank">Peter Štibraný</a></li>
 </ul>
 
+**Added more steps**
+
+**Germany**
+
+<ul>
+<li><a href="https://github.com/husio" target="_blank">Piotr Husiatyński</a></li>
+</ul>
+
 **Just for Fun**
 
 **India**
