@@ -29,6 +29,13 @@ Last week, our competitor released a feature that we were working on in secret. 
 
 Check out the two files **main.go** and **main_test.go** [here](https://gist.github.com/creack/333f89f6aec5b789c1a0). These files are the starting point for this challenge.
 
+![update.jpg](/images/update.jpg)
+
+**3rd April 2015**: Guillaume has made 2 changes to the test files:
+
+* The first change is minor and concerns Window user with dual stack. He has changed the `net.Listen("tcp", ":0")` to `net.Listen("tcp", "127.0.0.1:0")`. This shouldn't change anything for most people.
+* The second is more problematic and would impact people using `io.Copy`. In TestReadWritePing, he has moved the `w.Close()` in the writing goroutine just like in the other tests.
+
 #### Goal of the challenge
 
 In order to prevent our competitor from spying on our network, we are going to write a small system that leverages [NaCl](http://nacl.cr.yp.to/) to establish secure communication. **NaCl** is a crypto system that uses a public key for encryption and a private key for decryption.
