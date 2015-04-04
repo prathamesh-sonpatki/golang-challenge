@@ -257,6 +257,7 @@ There are three categories of participants. Most are just participating in the c
 **Germany**
 
 <ul>
+<li><a href="https://github.com/andrewslotin" target="_blank">Andrey Slotin</a></li>
 <li><a href="https://github.com/giuliop" target="_blank">Giulio Pizzini</a></li>
 </ul>
 
