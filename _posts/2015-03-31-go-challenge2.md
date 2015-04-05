@@ -269,6 +269,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://twitter.com/tobischo" target="_blank">Tobias Schoknecht</a></li>
 </ul>
 
+**India**
+
+<ul>
+<li><a href="https://github.com/mantishK" target="_blank">Kumar Mantesh</a></li>
+</ul>
+
 **Indonesia**
 
 <ul>
