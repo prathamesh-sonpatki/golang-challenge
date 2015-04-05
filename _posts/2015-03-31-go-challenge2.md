@@ -278,6 +278,7 @@ There are three categories of participants. Most are just participating in the c
 **Indonesia**
 
 <ul>
+<li><a href="https://github.com/gedex" target="_blank">Akeda Bagus</a></li>
 <li>Christoper</li>
 </ul>
 
