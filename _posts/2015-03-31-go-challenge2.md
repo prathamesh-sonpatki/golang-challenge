@@ -286,6 +286,7 @@ There are three categories of participants. Most are just participating in the c
 
 <ul>
 <li><a href="https://github.com/jamra" target="_blank">Jacob Amrany</a></li>
+<li><a href="https://github.com/jboverfelt" target="_blank">Justin Overfelt</a></li>
 <li><a href="https://github.com/kevinjos" target="_blank">Kevin Schiesser</a></li>
 <li><a href="https://github.com/lukechampine" target="_blank">Luke Champine</a></li>
 <li><a href="https://github.com/nvanbenschoten" target="_blank">Nathan VanBenschoten</a></li>
