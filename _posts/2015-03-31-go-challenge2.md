@@ -290,6 +290,7 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/kevinjos" target="_blank">Kevin Schiesser</a></li>
 <li><a href="https://github.com/lukechampine" target="_blank">Luke Champine</a></li>
 <li><a href="https://github.com/nvanbenschoten" target="_blank">Nathan VanBenschoten</a></li>
+<li><a href="https://twitter.com/Littledot1230" target="_blank">Sheng-Dean Chang</a></li>
 </ul>
 
 **Added more steps**
