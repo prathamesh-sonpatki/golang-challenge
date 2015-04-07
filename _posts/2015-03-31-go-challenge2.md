@@ -311,6 +311,7 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/nvanbenschoten" target="_blank">Nathan VanBenschoten</a></li>
 <li><a href="https://twitter.com/nickmarrone" target="_blank">Nicholas Marrone</a></li>
 <li><a href="https://twitter.com/Littledot1230" target="_blank">Sheng-Dean Chang</a></li>
+<li><a href="https://github.com/trevorarjeski" target="_blank">Trevor Arjeski</a></li>
 </ul>
 
 **Added more steps**
