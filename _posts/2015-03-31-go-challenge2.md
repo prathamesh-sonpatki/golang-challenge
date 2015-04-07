@@ -288,6 +288,12 @@ There are three categories of participants. Most are just participating in the c
 <li>Christoper</li>
 </ul>
 
+**Italy**
+
+<ul>
+<li><a href="https://github.com/eraclitux" target="_blank">Andrea Masi</a></li>
+</ul>
+
 **Nigeria**
 
 <ul>
