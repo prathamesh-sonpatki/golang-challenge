@@ -255,6 +255,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/mathcunha" target="_blank">Matheus Cunha</a></li>
 </ul>
 
+**Canada**
+
+<ul>
+<li>Arianit Uka</li>
+</ul>
+
 **Denmark**
 
 <ul>
