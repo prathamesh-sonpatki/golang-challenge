@@ -258,7 +258,7 @@ There are three categories of participants. Most are just participating in the c
 **Canada**
 
 <ul>
-<li>Arianit Uka</li>
+<li><a href="https://github.com/arianitu" target="_blank">Arianit Uka</a></li>
 </ul>
 
 **Denmark**
