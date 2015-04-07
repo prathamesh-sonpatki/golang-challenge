@@ -288,6 +288,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://twitter.com/abiosoft" target="_blank">Abiola Ibrahim</a></li>
 </ul>
 
+**Norway**
+
+<ul>
+<li><a href="https://github.com/flexd" target="_blank">Kristoffer Berdal</a></li>
+</ul>
+
 **USA**
 
 <ul>
@@ -298,7 +304,6 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/MarkMoudy" target="_blank">Mark Moudy</a></li>
 <li><a href="https://github.com/nvanbenschoten" target="_blank">Nathan VanBenschoten</a></li>
 <li><a href="https://twitter.com/nickmarrone" target="_blank">Nicholas Marrone</a></li>
-<li><a href="https://github.com/zagzagal" target="_blank">Paul Schuster</a></li>
 <li><a href="https://twitter.com/Littledot1230" target="_blank">Sheng-Dean Chang</a></li>
 </ul>
 
@@ -308,6 +313,12 @@ There are three categories of participants. Most are just participating in the c
 
 <ul>
 <li><a href="https://github.com/husio" target="_blank">Piotr Husiatyński</a></li>
+</ul>
+
+**USA**
+
+<ul>
+<li><a href="https://github.com/zagzagal" target="_blank">Paul Schuster</a></li>
 </ul>
 
 **Just for Fun**
