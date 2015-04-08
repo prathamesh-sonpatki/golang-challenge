@@ -278,6 +278,7 @@ There are three categories of participants. Most are just participating in the c
 **India**
 
 <ul>
+<li><a href="https://github.com/jijeshmohan" target="_blank">Jijesh Mohan</a></li>
 <li><a href="https://github.com/mantishK" target="_blank">Kumar Mantesh</a></li>
 </ul>
 
