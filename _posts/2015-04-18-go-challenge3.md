@@ -9,7 +9,7 @@ published: false
 
 #### Sau Sheong Chang: Author of the third Go Challenge
 
-<img align="right" src="/images/guillaume-j-charmes.jpg" height="200" width="200" alt="Sau Sheong Chang" title="Sau Sheong Chang" style="border:5px solid black" />
+<img align="right" src="/images/sausheong.jpg" height="200" width="200" alt="Sau Sheong Chang" title="Sau Sheong Chang" style="border:5px solid black" />
 The third Go Challenge author is [Sau Sheong Chang](https://twitter.com/sausheong). He has been doing software development for 20 years, mostly in web application development. He is active in the Ruby and Go developer communities and has contributed to open source projects and spoke at meetups and conferences. Sau Sheong has also published 3 programming-related books, mostly on Ruby and is working on a 4th book titled [Go Web Programming](https://github.com/golangchallenge/gc3/blob/master/manning.com/chang). He is currently a Director of Global Consumer Engineering in PayPal, based out of sunny Singapore and has in his career worked for HP, Yahoo, and also ran a technology startup during the dot-com days.
 
 Sau has this to say about the challenge:
