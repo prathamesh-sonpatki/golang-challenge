@@ -7,22 +7,22 @@ published: false
 
 #### The May 2015 Go Challenge for developers (newbies included)
 
-#### Guillaume J. Charmes: Author of the second Go Challenge
+#### Sau Sheong Chang: Author of the third Go Challenge
 
-<img align="right" src="/images/guillaume-j-charmes.jpg" height="200" width="200" alt="Guillaume J. Charmes" title="Guillaume J. Charmes" style="border:5px solid black" />
-The second Go Challenge author is [Guillaume J. Charmes](https://twitter.com/charme_g). French first, software developer second. He loves to travel and used to live in France, China, Russia, Réunion, San Francisco, Chicago and Miami. He also likes to travel between technologies and languages: He jumped from C and ASM to PHP to fall into Python to then migrate to Go with some sides of Ruby. He is coming from a low-level ASM/C background which he uses to teach as well as for web security. 
+<img align="right" src="/images/guillaume-j-charmes.jpg" height="200" width="200" alt="Sau Sheong Chang" title="Sau Sheong Chang" style="border:5px solid black" />
+The third Go Challenge author is [Sau Sheong Chang](https://twitter.com/sausheong). He has been doing software development for 20 years, mostly in web application development. He is active in the Ruby and Go developer communities and has contributed to open source projects and spoke at meetups and conferences. Sau Sheong has also published 3 programming-related books, mostly on Ruby and is working on a 4th book titled [Go Web Programming](https://github.com/golangchallenge/gc3/blob/master/manning.com/chang). He is currently a Director of Global Consumer Engineering in PayPal, based out of sunny Singapore and has in his career worked for HP, Yahoo, and also ran a technology startup during the dot-com days.
 
-He started using Go in 2009 and fell in love with its syntax and concurrency model. He joined dotCloud, Inc. where he was the only Go developer for a while. This is when they started Docker..., in Go. Arrived to Docker 1.0, he moved on to Citrix, Inc. under the sun of Florida where he helps the moving process from Ruby to Go.
+Sau has this to say about the challenge:
 
-Guillaume has this to say about the challenge:
+> "This is a challenge for beginners to start learning about writing web applications in Go. Generating photo-mosaics is the fun bit. After the challenge, the challenge participant should be able to write a web application, write test cases, authenticate users, call REST-based API and at the very least, manipulate images all using the standard Go library."
 
-> "Data security is a very important matter and this challenge is a good way to dive in with the `NaCl` package and leverage the power of Go interfaces to implement a clean solution over the network."
+> "And of course, have lots of fun in the process."
 
 --- 
 
-#### The Go Challenge 2
+#### The Go Challenge 3
 
-##### Can you help me secure my company’s data transmission?
+##### Go Picture This!
 
 
 ---
