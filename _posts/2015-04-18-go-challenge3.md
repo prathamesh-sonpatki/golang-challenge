@@ -36,8 +36,28 @@ By participating in this challenge, you agree to be bound by the Challenge Rules
 * Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant's participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of the winners. 
-* No prize substitution is permitted. 
-* Create a zip of your Go source code and send the zip file to **golangchallenge [at] gmail.com before 18th of April 2015 (6 am IST). Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=4&d=18&h=6&mn=0) to find the equivalent time in your city/country**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating | Participating and exploring further | Just for Fun | Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
+* No prize substitution is permitted.
+* [Organize your code](http://pivotallabs.com/next-steps-in-go-code-organization/). As a suggestion, you could have something like this:
+
+```text
+go_projects
+\---go
+    \---src
+        \---pmosaic
+            |   pmosaic.go
+            |   
+            \---public
+                |   index.html
+                |   
+                +---images
+                |     image.jpg
+                |       
+                \---stylesheets
+                      pmosaic.css
+```
+
+* You need to write test cases for the main flow. You can use a useful tool `goconvey` - use its UI without using their DSL. GoConvey supports Go's native testing package.
+* Create a zip of your Go source code and test cases and send the zip file to **golangchallenge [at] gmail.com before 18th of May 2015 (6 am IST). Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=5&d=18&h=6&mn=0) to find the equivalent time in your city/country**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating | Participating and exploring further | Just for Fun | Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
 * We will give your zip file to the evaluation team. 
 * We shall be publishing on this blog, a list of participant names. If you don't want your name to appear kindly mention the same in your email. 
 * You are allowed to re-submit your code if you feel it is necessary.
