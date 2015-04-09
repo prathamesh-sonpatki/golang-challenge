@@ -286,7 +286,7 @@ There are three categories of participants. Most are just participating in the c
 
 <ul>
 <li><a href="https://github.com/gedex" target="_blank">Akeda Bagus</a></li>
-<li>Christoper</li>
+<li><a href="https://github.com/yisiper" target="_blank">Christoper</a></li>
 <li><a href="https://github.com/septiaji" target="_blank">Septiaji Purwono R.</a></li>
 </ul>
 
