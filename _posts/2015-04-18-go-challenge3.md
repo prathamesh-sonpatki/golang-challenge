@@ -37,23 +37,25 @@ By participating in this challenge, you agree to be bound by the Challenge Rules
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of the winners. 
 * No prize substitution is permitted.
-* [Organize your code](http://pivotallabs.com/next-steps-in-go-code-organization/). As a suggestion, you could have something like this:
+* [Organize your code](https://youtu.be/XCsL89YtqCs). As a suggestion, you could have something like this:
 
 ```text
 go_projects
 \---go
     \---src
-        \---pmosaic
-            |   pmosaic.go
-            |   
-            \---public
-                |   index.html
-                |   
-                +---images
-                |     image.jpg
-                |       
-                \---stylesheets
-                      pmosaic.css
+        \---github.com
+            \---YourName
+                \---pmosaic
+                    |   pmosaic.go
+                    |   
+                    \---public
+                        |   index.html
+                        |   
+                        +---images
+                        |       image.jpg
+                        |       
+                        \---stylesheets
+                                pmosaic.css
 ```
 
 * You need to write test cases for the main flow. You can use a useful tool `goconvey` - use its UI without using their DSL. GoConvey supports Go's native testing package.
