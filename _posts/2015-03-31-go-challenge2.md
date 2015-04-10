@@ -308,6 +308,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/flexd" target="_blank">Kristoffer Berdal</a></li>
 </ul>
 
+**Romania**
+
+<ul>
+<li><a href="https://github.com/lcosmin" target="_blank">Cosmin Luță</a></li>
+</ul>
+
 **USA**
 
 <ul>
