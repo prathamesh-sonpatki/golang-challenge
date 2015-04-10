@@ -318,6 +318,7 @@ There are three categories of participants. Most are just participating in the c
 
 <ul>
 <li><a href="https://github.com/saracen" target="_blank">Arran Walker</a></li>
+<li><a href="https://twitter.com/MikeMunday" target="_blank">Michael Munday</a></li>
 </ul>
 
 **USA**
