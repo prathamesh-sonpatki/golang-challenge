@@ -296,12 +296,6 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/eraclitux" target="_blank">Andrea Masi</a></li>
 </ul>
 
-**Mexico**
-
-<ul>
-<li><a href="https://github.com/jpadif" target="_blank">Josué Alejandro Padilla Fabián</a></li>
-</ul>
-
 **Nigeria**
 
 <ul>
@@ -350,6 +344,12 @@ There are three categories of participants. Most are just participating in the c
 
 <ul>
 <li><a href="https://github.com/husio" target="_blank">Piotr Husiatyński</a></li>
+</ul>
+
+**Mexico**
+
+<ul>
+<li><a href="https://github.com/jpadif" target="_blank">Josué Alejandro Padilla Fabián</a></li>
 </ul>
 
 **USA**
