@@ -294,6 +294,7 @@ There are three categories of participants. Most are just participating in the c
 
 <ul>
 <li><a href="https://github.com/eraclitux" target="_blank">Andrea Masi</a></li>
+<li><a href="https://github.com/FiloSottile" target="_blank">Filippo Valsorda</a></li>
 </ul>
 
 **Nigeria**
