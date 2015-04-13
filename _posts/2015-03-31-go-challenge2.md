@@ -298,6 +298,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/FiloSottile" target="_blank">Filippo Valsorda</a></li>
 </ul>
 
+**Netherlands**
+
+<ul>
+<li><a href="https://github.com/rpkamp" target="_blank">Rémon van de Kamp</a></li>
+</ul>
+
 **Nigeria**
 
 <ul>
