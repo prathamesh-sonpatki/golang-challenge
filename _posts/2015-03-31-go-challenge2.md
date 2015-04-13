@@ -319,7 +319,7 @@ There are three categories of participants. Most are just participating in the c
 **Switzerland**
 
 <ul>
-<li>Alejandro Garcia</li>
+<li><a href="https://www.linkedin.com/in/eagm74" target="_blank">Alejandro Garcia</a></li>
 </ul>
 
 **UK**
