@@ -334,6 +334,7 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/saracen" target="_blank">Arran Walker</a></li>
 <li><a href="https://github.com/ichinaski/" target="_blank">Iñigo Lopez</a></li>
 <li><a href="https://twitter.com/MikeMunday" target="_blank">Michael Munday</a></li>
+<li>Primrose Mbanefo</li>
 </ul>
 
 **USA**
