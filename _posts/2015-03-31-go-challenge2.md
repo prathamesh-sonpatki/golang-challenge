@@ -316,6 +316,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/lcosmin" target="_blank">Cosmin Luță</a></li>
 </ul>
 
+**Switzerland**
+
+<ul>
+<li>Alejandro Garcia</li>
+</ul>
+
 **UK**
 
 <ul>
