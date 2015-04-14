@@ -340,6 +340,7 @@ There are three categories of participants. Most are just participating in the c
 **USA**
 
 <ul>
+<li><a href="https://github.com/mettledrum" target="_blank">Andrew Hoyle</a></li>
 <li><a href="https://github.com/cicavey" target="_blank">Christopher Cavey</a></li>
 <li><a href="https://github.com/jamra" target="_blank">Jacob Amrany</a></li>
 <li><a href="https://github.com/JJasonClark" target="_blank">Jason Clark</a></li>
