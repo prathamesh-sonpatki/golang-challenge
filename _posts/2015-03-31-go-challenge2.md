@@ -268,6 +268,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/pstibrany" target="_blank">Peter Štibraný</a></li>
 </ul>
 
+**France**
+
+<ul>
+<li><a href="https://twitter.com/schorlet" target="_blank">Stéphane Chorlet</a></li>
+</ul>
+
 **Germany**
 
 <ul>
