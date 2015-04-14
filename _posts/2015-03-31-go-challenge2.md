@@ -258,6 +258,7 @@ There are three categories of participants. Most are just participating in the c
 **Canada**
 
 <ul>
+<li><a href="https://github.com/musiaht" target="_blank">Sum Thai</a></li>
 <li><a href="https://github.com/arianitu" target="_blank">Arianit Uka</a></li>
 </ul>
 
