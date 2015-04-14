@@ -249,6 +249,12 @@ There are three categories of participants. Most are just participating in the c
 
 **Participating**
 
+**Australia**
+
+<ul>
+<li><a href="https://github.com/peterstace" target="_blank">Peter Stace</a></li>
+</ul>
+
 **Brazil**
 
 <ul>
