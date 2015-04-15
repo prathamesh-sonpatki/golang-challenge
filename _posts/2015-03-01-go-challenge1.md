@@ -14,6 +14,7 @@ tags: [go challenge, golang]
 * There were 173 entries from 41 countries.
 * The winners of the first Go Challenge are: [Luke Champine](https://twitter.com/NebulousLabs) and [Jeremy Jay](https://github.com/pbnjay).
 * [Sourcegraph](https://sourcegraph.com) interviewed our winners: [Luke Champine](https://sourcegraph.com/blog/go-challenge-luke-champine) and [Jeremy Jay](https://sourcegraph.com/blog/).
+* Some of the participants blogged about their Go challenge experience: [Jason Gade](http://bravetinsoldier.blogspot.in/2015/03/lessons-learned-from-first-go-challenge.html)
 
 **Feedback from the Evaluators**
 
