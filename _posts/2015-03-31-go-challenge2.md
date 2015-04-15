@@ -6,7 +6,7 @@ tags: [go challenge, golang]
 
 ![update.jpg](/images/update.jpg)
 
-* This challenge ends in 3 days from now.
+* This challenge ends in 2 days from now.
 
 #### The April 2015 Go Challenge for developers (newbies included)
 
@@ -310,6 +310,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/yisiper" target="_blank">Christoper</a></li>
 <li><a href="https://github.com/septiaji" target="_blank">Septiaji Purwono R.</a></li>
 <li>William Shallum</li>
+</ul>
+
+**Ireland**
+
+<ul>
+<li><a href="https://twitter.com/_dan_w" target="_blank">Daniel Wakefield</a></li>
 </ul>
 
 **Italy**
