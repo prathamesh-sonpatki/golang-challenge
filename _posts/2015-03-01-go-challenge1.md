@@ -14,7 +14,7 @@ tags: [go challenge, golang]
 * There were 173 entries from 41 countries.
 * The winners of the first Go Challenge are: [Luke Champine](https://twitter.com/NebulousLabs) and [Jeremy Jay](https://github.com/pbnjay).
 * [Sourcegraph](https://sourcegraph.com) interviewed our winners: [Luke Champine](https://sourcegraph.com/blog/go-challenge-luke-champine) and [Jeremy Jay](https://sourcegraph.com/blog/go-challenge-jeremyjay).
-* Some of the participants blogged about their Go challenge experience: [Doug Cichon](http://www.codeforthought.net/approaching-golang-challenge-one), [Herrick Shen](http://www.cnblogs.com/journeyonmyway/p/4358608.html), [Jason Gade](http://bravetinsoldier.blogspot.in/2015/03/lessons-learned-from-first-go-challenge.html), [Tobias Schoknecht](https://www.sysorchestra.com/2015/03/24/the-go-challenge-a-fun-way-to-learn-and-improve/)
+* Some of the participants blogged about their Go challenge experience: [Christopher Saunders](http://learningtolearn.sndrs.ca/blog/2015-03-20-what-i-learned-during-the-march-go-challenge/), [Doug Cichon](http://www.codeforthought.net/approaching-golang-challenge-one), [Herrick Shen](http://www.cnblogs.com/journeyonmyway/p/4358608.html), [Jason Gade](http://bravetinsoldier.blogspot.in/2015/03/lessons-learned-from-first-go-challenge.html) and [Tobias Schoknecht](https://www.sysorchestra.com/2015/03/24/the-go-challenge-a-fun-way-to-learn-and-improve/).
 
 **Feedback from the Evaluators**
 
