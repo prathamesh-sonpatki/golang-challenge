@@ -342,6 +342,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/lcosmin" target="_blank">Cosmin Luță</a></li>
 </ul>
 
+**Russia**
+
+<ul>
+<li><a href="https://github.com/paystee" target="_blank">Anton Tereshchenkov</a></li>
+</ul>
+
 **Slovenia**
 
 <ul>
