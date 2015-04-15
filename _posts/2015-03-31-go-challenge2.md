@@ -361,6 +361,7 @@ There are three categories of participants. Most are just participating in the c
 
 <ul>
 <li><a href="https://github.com/mettledrum" target="_blank">Andrew Hoyle</a></li>
+<li><a href="https://github.com/atongen" target="_blank">Andrew Tongen</a></li>
 <li><a href="https://github.com/cicavey" target="_blank">Christopher Cavey</a></li>
 <li><a href="http://www.codeforthought.net" target="_blank">Doug Cichon</a></li>
 <li><a href="https://github.com/jamra" target="_blank">Jacob Amrany</a></li>
