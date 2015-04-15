@@ -4,6 +4,10 @@ title: Go Challenge 2
 tags: [go challenge, golang]
 ---
 
+![update.jpg](/images/update.jpg)
+
+* This challenge ends in 3 days from now.
+
 #### The April 2015 Go Challenge for developers (newbies included)
 
 #### Guillaume J. Charmes: Author of the second Go Challenge
