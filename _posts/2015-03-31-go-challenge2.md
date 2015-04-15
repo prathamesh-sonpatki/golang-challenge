@@ -379,6 +379,7 @@ There are three categories of participants. Most are just participating in the c
 **Vietnam**
 
 <ul>
+<li><a href="https://github.com/elgris" target="_blank">Ivan Kirichenko</a></li>
 <li><a href="https://github.com/nqv" target="_blank">Quoc Viet Nguyen</a></li>
 </ul>
   
