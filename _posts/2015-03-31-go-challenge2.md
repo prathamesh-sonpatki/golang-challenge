@@ -280,6 +280,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://twitter.com/iwangbin" target="_blank">Wang Bin</a></li>
 </ul>
 
+**Costa Rica**
+
+<ul>
+<li><a href="https://github.com/mem" target="_blank">Marcelo Magallon</a></li>
+</ul>
+
 **Denmark**
 
 <ul>
