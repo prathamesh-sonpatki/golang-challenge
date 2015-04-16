@@ -410,6 +410,7 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/JJasonClark" target="_blank">Jason Clark</a></li>
 <li><a href="https://github.com/jdeppe-pivotal" target="_blank">Jens Deppe</a></li>
 <li><a href="https://github.com/jimdoescode" target="_blank">Jim Saunders</a></li>
+<li><a href="https://github.com/jordan-wright" target="_blank">Jordan Wright</a></li>
 <li><a href="https://github.com/jboverfelt" target="_blank">Justin Overfelt</a></li>
 <li><a href="https://github.com/kevinjos" target="_blank">Kevin Schiesser</a></li>
 <li><a href="https://github.com/ameske" target="_blank">Kyle Ames</a></li>
