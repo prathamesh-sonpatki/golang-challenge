@@ -384,6 +384,12 @@ There are three categories of participants. Most are just participating in the c
 <li>Primrose Mbanefo</li>
 </ul>
 
+**Ukraine**
+
+<ul>
+<li><a href="https://github.com/edpelesh" target="_blank">Eduard Pelesh</a></li>
+</ul>
+
 **USA**
 
 <ul>
