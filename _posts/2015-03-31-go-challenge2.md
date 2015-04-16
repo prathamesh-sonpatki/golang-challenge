@@ -303,6 +303,12 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://twitter.com/tobischo" target="_blank">Tobias Schoknecht</a></li>
 </ul>
 
+**Greece**
+
+<ul>
+<li><a href="https://github.com/0xDiBa" target="_blank">Dimitris Bachtis</a></li>
+</ul>
+
 **India**
 
 <ul>
