@@ -26,6 +26,50 @@ Sau has this to say about the challenge:
 
 ##### Preamble
 
+A photographic mosaic, or a photo-mosaic is a picture (usually a photograph) that has been divided into (usually equal sized) rectangular sections, each of which is replaced with another picture (called a tile picture). If we view it from far away or if you squint at it, then the original picture can be seen. If we look closer though, we will see that the picture is in fact made up of many hundreds or thousands of smaller tile pictures.
+
+##### Goals of the challenge
+
+Your mission, should you accept it, is to create a web application that:
+
+* Allows the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through `oauth2`)
+* Allows the user to connect to one or more photo-sharing sites like Instagram or Flickr or Facebook Photos (or any photo-sharing site of your choice)
+* Allows the user to upload a target picture, which is the picture that will be made into a photo-mosaic
+* Allows the user to use a particular album (or all albums) or use a theme (for e.g. use only pictures with cats in it) to filter out a set of tile pictures
+* Generates a photo-mosaic of the target picture using the tile pictures
+* Allows the user to save the photo-mosaic, either on the site or upload it back to the photo-sharing site
+
+##### Requirements of the challenge
+
+* Use the latest version of Go i.e. version 1.4.2
+* Use only the standard library, except for database drivers (if used). Do not use any web frameworks such as Beego or the Gorilla Toolkit. (Note: if you are authenticating the user through `oauth2`, you should use the `oauth2` login flow instead of an external library)
+* The critical part is not the UI but learning to write web applications, so I won't be too bothered if the participant uses [Bootstrap](http://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29) or [Polymer](https://www.polymer-project.org/0.5/) or any other CSS frameworks. I'm even ok if you use AngularJS or any other front-end frameworks, though that would be missing a chunk of learning. I'm more concerned about the user experience -- the web application should have good performance, easy to follow steps and a well understood interface
+* Deploy to a publicly available site; the final software must not only be working, but be usable. You can use Google Cloud Platform or Heroku or any cloud provider, as long as it is working and is deployed publicly, it will be accepted
+* You can store the photo-mosaic anywhere, on the same server, or on S3 or anywhere else, including back on the photo-sharing site where you got the tile pictures. However you must display the photo-mosaic on your site. (Note: if you are storing on S3 or any other cloud storage, you must access it through standard libraries only)
+* Individual tile pictures must be clearly visible when magnified
+* You need to write test cases for the main flow. Do submit your test case file. You can use a useful tool `goconvey` - use its UI without using their DSL. GoConvey supports Go's native testing package
+* Do [organize your code](https://youtu.be/XCsL89YtqCs).
+
+##### Hints
+
+You can find out more about photo-mosaics from this Wikipedia entry - [http://en.wikipedia.org/wiki/Photographic_mosaic](http://en.wikipedia.org/wiki/Photographic_mosaic)
+
+You can also look at some photo-mosaic sites that are already available:
+
+* [http://www.picturemosaics.com](http://www.picturemosaics.com)
+* [http://www.easymoza.com](http://www.easymoza.com)
+* [http://mosaically.com](http://mosaically.com)
+
+Remember not to use the 'ghosting' technique when creating photo-mosaics, that's a big no-no.
+
+As a starter to deploying your web application to a public provider, you can read this eBook:
+
+[How to Deploy a Go Web App to the Google App Engine 101](https://leanpub.com/howtodeployagowebapptothegoogleappengine101)
+
+Or you can view this YouTube video to learn more - [https://www.youtube.com/watch?v=XCsL89YtqCs](https://www.youtube.com/watch?v=XCsL89YtqCs)
+
+If you find yourself stuck, do go to the [Gophers Slack](https://gophers.slack.com) channel #golang-challenge
+
 ---
 
 #### Challenge Rules and how to enter the Go Challenge?
@@ -38,8 +82,6 @@ By participating in this challenge, you agree to be bound by the Challenge Rules
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of the winners. 
 * No prize substitution is permitted.
-* Do [organize your code](https://youtu.be/XCsL89YtqCs).
-* You need to write test cases for the main flow. You can use a useful tool `goconvey` - use its UI without using their DSL. GoConvey supports Go's native testing package.
 * Create a zip of your Go source code and test cases and send the zip file to **golangchallenge [at] gmail.com before 18th of May 2015 (6 am IST). Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=5&d=18&h=6&mn=0) to find the equivalent time in your city/country**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating | Participating and exploring further | Just for Fun | Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
 * We will give your zip file to the evaluation team. 
 * We shall be publishing on this blog, a list of participant names. If you don't want your name to appear kindly mention the same in your email. 
