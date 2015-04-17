@@ -478,6 +478,12 @@ There are three categories of participants. Most are just participating in the c
   <li>Anonymous</li>
 </ul>
 
+**USA**
+
+<ul>
+  <li><a href="https://github.com/johnathanhowell" target="_blank">Johnathan Howell</a></li>
+</ul>
+
 #### Challenge Solutions
 
 All the solutions submitted by the participants will be available **[here](https://github.com/GoChallenge/GCSolutions)** after the challenge ends.
