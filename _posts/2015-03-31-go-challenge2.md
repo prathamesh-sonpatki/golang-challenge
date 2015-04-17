@@ -256,6 +256,7 @@ There are three categories of participants. Most are just participating in the c
 **Australia**
 
 <ul>
+<li><a href="https://github.com/beefsack" target="_blank">Michael Alexander</a></li>
 <li><a href="https://github.com/peterstace" target="_blank">Peter Stace</a></li>
 </ul>
 
