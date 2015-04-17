@@ -465,6 +465,12 @@ There are three categories of participants. Most are just participating in the c
   <li><a href="http://kidoman.io/" target="_blank">Karan Misra</a></li>
 </ul>
 
+**Liberia**
+
+<ul>
+  <li>Anonymous</li>
+</ul>
+
 #### Challenge Solutions
 
 All the solutions submitted by the participants will be available **[here](https://github.com/GoChallenge/GCSolutions)** after the challenge ends.
