@@ -271,8 +271,9 @@ There are three categories of participants. Most are just participating in the c
 **Canada**
 
 <ul>
-<li><a href="https://github.com/musiaht" target="_blank">Sum Thai</a></li>
 <li><a href="https://github.com/arianitu" target="_blank">Arianit Uka</a></li>
+<li><a href="https://github.com/kenpratt" target="_blank">Ken Pratt</a></li>
+<li><a href="https://github.com/musiaht" target="_blank">Sum Thai</a></li>
 </ul>
 
 **China**
