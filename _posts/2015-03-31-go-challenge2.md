@@ -428,6 +428,7 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://twitter.com/nickmarrone" target="_blank">Nicholas Marrone</a></li>
 <li><a href="https://twitter.com/Littledot1230" target="_blank">Sheng-Dean Chang</a></li>
 <li><a href="https://github.com/trevorarjeski" target="_blank">Trevor Arjeski</a></li>
+<li><a href="https://github.com/zmb3" target="_blank">Zac Bergquist</a></li>
 <li><a href="https://github.com/zclark" target="_blank">Zach Clark</a></li>
 <li><a href="https://github.com/lziest" target="_blank">Zi Lin</a></li>
 </ul>
