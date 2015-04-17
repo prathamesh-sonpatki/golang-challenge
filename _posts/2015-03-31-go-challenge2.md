@@ -432,6 +432,7 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://twitter.com/TinSoldier6" target="_blank">Jason A. Gade</a></li>
 <li><a href="https://github.com/jdeppe-pivotal" target="_blank">Jens Deppe</a></li>
 <li><a href="https://github.com/jimdoescode" target="_blank">Jim Saunders</a></li>
+<li><a href="https://github.com/johnathanhowell" target="_blank">Johnathan Howell</a></li>
 <li><a href="https://github.com/jordan-wright" target="_blank">Jordan Wright</a></li>
 <li><a href="https://github.com/jboverfelt" target="_blank">Justin Overfelt</a></li>
 <li><a href="https://github.com/kevinjos" target="_blank">Kevin Schiesser</a></li>
@@ -487,12 +488,6 @@ There are three categories of participants. Most are just participating in the c
 
 <ul>
   <li>Anonymous</li>
-</ul>
-
-**USA**
-
-<ul>
-  <li><a href="https://github.com/johnathanhowell" target="_blank">Johnathan Howell</a></li>
 </ul>
 
 #### Challenge Solutions
