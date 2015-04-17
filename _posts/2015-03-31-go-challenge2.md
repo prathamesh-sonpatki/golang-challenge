@@ -299,6 +299,7 @@ There are three categories of participants. Most are just participating in the c
 **France**
 
 <ul>
+<li><a href="https://github.com/briv" target="_blank">Blaise Rivet</a></li>
 <li><a href="https://github.com/rakoo/" target="_blank">Matthieu Rakotojaona</a></li>
 <li><a href="https://github.com/blizarre" target="_blank">Simon Marache-Francisco</a></li>
 <li><a href="https://twitter.com/schorlet" target="_blank">Stéphane Chorlet</a></li>
