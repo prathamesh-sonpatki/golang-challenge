@@ -293,6 +293,7 @@ There are three categories of participants. Most are just participating in the c
 <ul>
 <li><a href="https://github.com/stengaard" target="_blank">Brian Stengaard</a></li>
 <li><a href="https://github.com/pstibrany" target="_blank">Peter Štibraný</a></li>
+<li><a href="https://github.com/homburg" target="_blank">Thomas B Homburg</a></li>
 </ul>
 
 **France**
