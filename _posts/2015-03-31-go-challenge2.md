@@ -254,7 +254,7 @@ You can check out the list of participants for this challenge i.e. for [April 20
 
 #### Challenge Solutions
 
-All the solutions submitted by the participants are available **[here](https://github.com/GoChallenge/GCSolutions)**.
+All the solutions submitted by the participants are available **[here](https://github.com/golangchallenge/GCSolutions)**.
 
 #### The Winners
 
