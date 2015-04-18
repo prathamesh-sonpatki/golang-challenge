@@ -29,7 +29,7 @@ A photographic mosaic, or a photo-mosaic is a picture (usually a photograph) tha
 
 ##### Goals of the challenge
 
-Your mission, should you accept it, is to create a web application that:
+Your mission, should you accept it, is to write a photo-mosaic generating web application that:
 
 * Allows the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through OAuth2)
 * Allows the user to connect to one or more photo-sharing sites like Instagram or Flickr or Facebook Photos (or any photo-sharing site of your choice)
