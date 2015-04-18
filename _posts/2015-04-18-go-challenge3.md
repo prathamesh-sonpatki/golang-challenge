@@ -67,7 +67,7 @@ As a starter to deploying your web application to a public provider, you can rea
 
 Or you can view this YouTube video to learn more - [https://www.youtube.com/watch?v=XCsL89YtqCs](https://www.youtube.com/watch?v=XCsL89YtqCs)
 
-If you find yourself stuck, do go to the [Gophers Slack](https://gophers.slack.com) channel #golang-challenge
+If you find this challenge daunting or find yourself stuck, do go to the [Gophers Slack](https://gophers.slack.com) channel #golang-challenge and chat with me (@sausheong) - I will help you along the way.
 
 ---
 
