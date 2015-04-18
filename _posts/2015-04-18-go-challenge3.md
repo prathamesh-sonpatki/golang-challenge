@@ -31,7 +31,7 @@ A photographic mosaic, or a photo-mosaic is a picture (usually a photograph) tha
 
 Your mission, should you accept it, is to create a web application that:
 
-* Allows the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through `oauth2`)
+* Allows the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through OAuth2)
 * Allows the user to connect to one or more photo-sharing sites like Instagram or Flickr or Facebook Photos (or any photo-sharing site of your choice)
 * Allows the user to upload a target picture, which is the picture that will be made into a photo-mosaic
 * Allows the user to use a particular album (or all albums) or use a theme (for e.g. use only pictures with cats in it) to filter out a set of tile pictures
@@ -41,7 +41,7 @@ Your mission, should you accept it, is to create a web application that:
 ##### Requirements of the challenge
 
 * Use the latest version of Go i.e. version 1.4.2
-* Use only the standard library, except for database drivers (if used). Do not use any web frameworks such as Beego or the Gorilla Toolkit. (Note: if you are authenticating the user through `oauth2`, you should use the `oauth2` login flow instead of an external library)
+* Use only the standard library, except for database drivers (if used). Do not use any web frameworks such as Beego or the Gorilla Toolkit. (Note: if you are authenticating the user through OAuth2, you should use the OAuth2 login flow instead of an external library)
 * The critical part is not the UI but learning to write web applications, so I won't be too bothered if the participant uses [Bootstrap](http://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29) or [Polymer](https://www.polymer-project.org/0.5/) or any other CSS frameworks. I'm even ok if you use AngularJS or any other front-end frameworks, though that would be missing a chunk of learning. I'm more concerned about the user experience -- the web application should have good performance, easy to follow steps and a well understood interface
 * Deploy to a publicly available site; the final software must not only be working, but be usable. You can use Google Cloud Platform or Heroku or any cloud provider, as long as it is working and is deployed publicly, it will be accepted
 * You can store the photo-mosaic anywhere, on the same server, or on S3 or anywhere else, including back on the photo-sharing site where you got the tile pictures. However you must display the photo-mosaic on your site. (Note: if you are storing on S3 or any other cloud storage, you must access it through standard libraries only)
