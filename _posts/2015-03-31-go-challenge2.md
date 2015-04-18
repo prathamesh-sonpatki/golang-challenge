@@ -494,7 +494,7 @@ There are three categories of participants. Most are just participating in the c
 
 #### Challenge Solutions
 
-All the solutions submitted by the participants will be available **[here](https://github.com/GoChallenge/GCSolutions)** after the challenge ends.
+All the solutions submitted by the participants are available **[here](https://github.com/GoChallenge/GCSolutions)**.
 
 #### The Winners
 
