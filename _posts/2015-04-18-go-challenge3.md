@@ -218,7 +218,7 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 #### Challenge Solutions
 
-All the solutions submitted by the participants will be available **[here](https://github.com/GoChallenge/GCSolutions)** after the challenge ends.
+All the solutions submitted by the participants will be available **[here](https://github.com/golangchallenge/GCSolutions)** after the challenge ends.
 
 #### The Winners
 
