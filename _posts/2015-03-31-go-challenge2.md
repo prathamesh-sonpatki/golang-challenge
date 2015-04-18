@@ -6,7 +6,7 @@ tags: [go challenge, golang]
 
 ![update.jpg](/images/update.jpg)
 
-* This challenge ends in 2 days from now.
+* This second Go challenge is now closed.
 
 #### The April 2015 Go Challenge for developers (newbies included)
 
