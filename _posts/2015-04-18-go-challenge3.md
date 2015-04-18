@@ -59,7 +59,7 @@ You can also look at some photo-mosaic sites that are already available:
 * [http://www.easymoza.com](http://www.easymoza.com)
 * [http://mosaically.com](http://mosaically.com)
 
-Remember not to use the 'ghosting' technique when creating photo-mosaics, that's a big no-no.
+Remember not to use the 'ghosting' technique when creating photo-mosaics, that's a big no-no. 'Ghosting' is when you place a faint picture of the target under your mosaic to create an illusion of a mosaic. It's kind of like cheating!
 
 As a starter to deploying your web application to a public provider, you can read this eBook:
 
