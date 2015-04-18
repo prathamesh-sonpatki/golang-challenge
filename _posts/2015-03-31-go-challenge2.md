@@ -7,7 +7,7 @@ tags: [go challenge, golang]
 ![update.jpg](/images/update.jpg)
 
 * This second Go challenge is now closed.
-* There were 104 entries.
+* There were 104 entries from 29 countries.
 
 #### The April 2015 Go Challenge for developers (newbies included)
 
