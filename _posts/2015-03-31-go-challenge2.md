@@ -441,7 +441,6 @@ There are three categories of participants. Most are just participating in the c
 <li><a href="https://github.com/MarkMoudy" target="_blank">Mark Moudy</a></li>
 <li><a href="https://github.com/nvanbenschoten" target="_blank">Nathan VanBenschoten</a></li>
 <li><a href="https://twitter.com/nickmarrone" target="_blank">Nicholas Marrone</a></li>
-<li><a href="https://github.com/phemmer" target="_blank">Patrick Hemmer</a></li>
 <li><a href="https://github.com/rcarver" target="_blank">Ryan Carver</a></li>
 <li><a href="https://twitter.com/Littledot1230" target="_blank">Sheng-Dean Chang</a></li>
 <li><a href="https://github.com/trevorarjeski" target="_blank">Trevor Arjeski</a></li>
@@ -474,6 +473,7 @@ There are three categories of participants. Most are just participating in the c
 **USA**
 
 <ul>
+<li><a href="https://github.com/phemmer" target="_blank">Patrick Hemmer</a></li>
 <li><a href="https://github.com/zagzagal" target="_blank">Paul Schuster</a></li>
 </ul>
 
