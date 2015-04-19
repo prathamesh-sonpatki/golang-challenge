@@ -13,7 +13,7 @@ The third Go Challenge author is [Sau Sheong Chang](https://twitter.com/sausheon
 
 Sau has this to say about the challenge:
 
-> "This is a challenge for beginners to start learning about writing web applications in Go. Generating photo-mosaics is the fun bit. After the challenge, the challenge participant should be able to write a web application, write test cases, authenticate users, call REST-based API and at the very least, manipulate images all using the standard Go library."
+> "This is a challenge for beginners to start learning about writing web applications in Go. Generating photo-mosaics is the fun bit. After the challenge, the challenge participant should be able to write a web application, write test cases, call REST-based API and at the very least, manipulate images all using the standard Go library."
 
 > "And of course, have lots of fun in the process."
 
