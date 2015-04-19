@@ -9,7 +9,7 @@ name: Go Challenge
 description: Learn Go by solving problems and getting feedback from Go experts! 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://rubylearning.com/images/gopher.png
+avatar: ![gopher](/images/gopher.png)
 
 #
 # Flags below are optional
