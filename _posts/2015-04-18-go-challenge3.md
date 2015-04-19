@@ -9,7 +9,7 @@ tags: [go challenge, golang]
 #### Sau Sheong Chang: Author of the third Go Challenge
 
 <img align="right" src="/images/sausheong.jpg" height="200" width="200" alt="Sau Sheong Chang" title="Sau Sheong Chang" style="border:5px solid black" />
-The third Go Challenge author is [Sau Sheong Chang](https://twitter.com/sausheong). He has been doing software development for 20 years, mostly in web application development. He is active in the Ruby and Go developer communities and has contributed to open source projects and spoke at meetups and conferences. Sau Sheong has also published 3 programming-related books, mostly on Ruby and is working on a 4th book titled [Go Web Programming](https://github.com/golangchallenge/gc3/blob/master/manning.com/chang). He is currently a Director of Global Consumer Engineering in PayPal, based out of sunny Singapore and has in his career worked for HP, Yahoo, and also ran a technology startup during the dot-com days.
+The third Go Challenge author is [Sau Sheong Chang](https://twitter.com/sausheong). He has been doing software development for 20 years, mostly in web application development. He is active in the Ruby and Go developer communities and has contributed to open source projects and spoke at meetups and conferences. Sau Sheong has also published 3 programming-related books, mostly on Ruby and is working on a 4th book titled [Go Web Programming](http://manning.com/chang). He is currently a Director of Global Consumer Engineering in PayPal, based out of sunny Singapore and has in his career worked for HP, Yahoo, and also ran a technology startup during the dot-com days.
 
 Sau has this to say about the challenge:
 
@@ -31,12 +31,17 @@ A photographic mosaic, or a photo-mosaic is a picture (usually a photograph) tha
 
 Your mission, should you accept it, is to write a photo-mosaic generating web application that:
 
-* Allows the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through OAuth2)
-* Allows the user to connect to one or more photo-sharing sites like Instagram or Flickr or Facebook Photos (or any photo-sharing site of your choice)
 * Allows the user to upload a target picture, which is the picture that will be made into a photo-mosaic
-* Allows the user to use a particular album (or all albums) or use a theme (for e.g. use only pictures with cats in it) to filter out a set of tile pictures
+* Allows the user to connect to one or more photo-sharing sites like Instagram or Flickr or Facebook Photos (or any photo-sharing site of your choice) to get tile pictures. Your user doesn't necessarily need to log in, you can use the image search APIs to get the tile pictures
+* Allows the user to use a search filter (for e.g. use only pictures with cats in it) to filter out a set of tile pictures
 * Generates a photo-mosaic of the target picture using the tile pictures
-* Allows the user to save the photo-mosaic, either on the site or upload it back to the photo-sharing site
+
+##### Bonus goals (optional, not part of the challenge)
+
+Add features to your web application to:
+
+* Allow the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through OAuth2)
+* Allow the user to save the photo-mosaic, either on the site or upload it back to the photo-sharing site
 
 ##### Requirements of the challenge
 
