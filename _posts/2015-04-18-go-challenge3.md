@@ -49,9 +49,8 @@ Add features to your web application to:
 * Use only the standard library, except for database drivers (if used). Do not use any web frameworks such as Beego or the Gorilla Toolkit. (Note: if you are authenticating the user through OAuth2, you should use the OAuth2 login flow instead of an external library). Also, Google App Engine's own libraries would be considered external.
 * The critical part is not the UI but learning to write web applications, so I won't be too bothered if the participant uses [Bootstrap](http://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29) or [Polymer](https://www.polymer-project.org/0.5/) or any other CSS frameworks. I'm even ok if you use AngularJS or any other front-end frameworks, though that would be missing a chunk of learning. I'm more concerned about the user experience -- the web application should have good performance, easy to follow steps and a well understood interface
 * Deploy to a publicly available site; the final software must not only be working, but be usable. You can use Google Cloud Platform or Heroku or any cloud provider, as long as it is working and is deployed publicly, it will be accepted
-* You can store the photo-mosaic anywhere, on the same server, or on S3 or anywhere else, including back on the photo-sharing site where you got the tile pictures. However you must display the photo-mosaic on your site. (Note: if you are storing on S3 or any other cloud storage, you must access it through standard libraries only)
-* Individual tile pictures must be clearly visible when magnified
-* You need to write test cases for the main flow. Do submit your test case file. You can use a useful tool `goconvey` - use its UI without using their DSL. GoConvey supports Go's native testing package
+* Individual tile pictures must be clearly visible when magnified, though it is expected to be smaller
+* You need to write test cases for the main flow. Do submit your test cases. 
 * Do [organize your code](https://youtu.be/XCsL89YtqCs).
 
 ##### Hints
