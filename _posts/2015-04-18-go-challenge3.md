@@ -210,12 +210,6 @@ Anyone can a get 42% off on the price of the following eBooks from [Manning Publ
 * [Go in Action](http://www.manning.com/ketelsen/) - Use discount code: **cftw15go**
 * [Go in Practice](http://www.manning.com/butcher/) - Use discount code: **cftw15go**
 
-Also, anyone can a get 25% off on the price (valid till 31st May 2015) of the following print and / or eBooks from [Packt Publishing](https://www.packtpub.com/):
-
-* [Building Your First Application with Go-Video](https://www.packtpub.com/application-development/building-your-first-application-go-video) - Use discount code: **byfag25**
-* [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go) - Use discount code: **giccm25**
-* [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints) - Use discount code: **bgpg25**
-
 #### Winner Interviews
 
 After a winner wins the monthly challenge, he/she would be interviewed by [Sourcegraph](https://sourcegraph.com/) and the interview will be published on their [blog](https://sourcegraph.com/blog).
