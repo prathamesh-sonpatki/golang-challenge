@@ -50,6 +50,7 @@ Add features to your web application to:
 * Deploy to a publicly available site; the final software must not only be working, but be usable. You can use Google Cloud Platform or Heroku or any cloud provider, as long as it is working and is deployed publicly, it will be accepted
 * Individual tile pictures must be clearly visible when magnified, though it is expected to be smaller
 * Use only the standard library, except for database drivers (if used). Do not use any web frameworks such as Beego or the Gorilla Toolkit. Also, Google App Engine's own libraries would be considered external.
+* If you are deploying on GAE then you can use the [blobstore](https://cloud.google.com/appengine/docs/go/blobstore/) package for images.
 * You need to write test cases for the main flow. Do submit your test cases. 
 * Do [organize your code](https://youtu.be/XCsL89YtqCs).
 
