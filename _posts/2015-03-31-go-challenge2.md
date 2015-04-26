@@ -10,6 +10,7 @@ tags: [go challenge, golang]
 * There were 105 entries from 30 countries.
 * Evaluator Jeff R. Allen talks about your [submitted code](http://blog.nella.org/golang-challenge-2-comments/).
 * Some of the participants blogged about their Go challenge experience: [Doug Cichon](http://www.codeforthought.net/approaching-golang-challenge-two) and [Jason Clark](http://jjasonclark.com/go_challenge_2_review_response/).
+* The winners have been announced: #1 Michael Alexander, #2 David Le Corfec, #3 William Shallum, #4 Luke Champine and #5 Arran Walker. According to the challenge author, David Le Corfec and William Shallum were close to one another.
 
 #### The April 2015 Go Challenge for developers (newbies included)
 
