@@ -9,7 +9,7 @@ tags: [go challenge, golang]
 * This second Go challenge is now closed.
 * There were 105 entries from 30 countries.
 * Evaluator Jeff R. Allen talks about your [submitted code](http://blog.nella.org/golang-challenge-2-comments/).
-* Some of the participants blogged about their Go challenge experience: [Jason Clark](http://jjasonclark.com/go_challenge_2_review_response/).
+* Some of the participants blogged about their Go challenge experience: [Doug Cichon](http://www.codeforthought.net/approaching-golang-challenge-two) and [Jason Clark](http://jjasonclark.com/go_challenge_2_review_response/).
 
 #### The April 2015 Go Challenge for developers (newbies included)
 
