@@ -259,14 +259,16 @@ All the solutions submitted by the participants are available **[here](https://g
 
 Guillaume J. Charmes has selected the winners of this challenge. They are:
 
-<img align="right" src="/images/luke.jpg" alt="Luke Champine" title="Luke Champine" style="border:5px solid black" />
-**Winner #1 Luke Champine** never expected to wind up as a programmer; in college he first studied electrical engineering, and then computer engineering. But he got involved in his school's open source community, which sparked his love of programming and introduced him to Go. He left school without graduating and moved to Boston to co-found [Nebulous](https://twitter.com/NebulousLabs), a cryptocurrency startup. 
+<img align="right" src="/images/michael_alexander.jpg" alt="Michael Alexander" title="Michael Alexander" style="border:5px solid black" />
+**Winner #1 Michael Alexander** is from Canberra, Australia, and currently a senior developer at [HRMWeb Pty Ltd](http://www.hrmweb.com.au/) working on [easyEMPLOYER](http://www.easyemployer.com.au/).
 
-Outside of programming, his interests include linguistics, Buddhism, and chess.
+He was introduced to BASIC at an early age and has been writing code ever since. Always keen to try new languages and technologies, he dabbled in Go when 1.0 was released in 2012 and it stuck unlike many others did for him.
 
-His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/march15/normal/luke-champine) to the challenge.
+His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/michael-alexander) to the challenge.
 
 --- 
+
+#2 David Le Corfec (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/david-le-corfec/challenge2)), #3 William Shallum (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/william-shallum)), #4 Luke Champine (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/luke-champine)) and #5 Arran Walker (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/arran-walker/gochallenge2)). According to the challenge author, David Le Corfec and William Shallum were close to one another.
 
 #### Sponsors
 
