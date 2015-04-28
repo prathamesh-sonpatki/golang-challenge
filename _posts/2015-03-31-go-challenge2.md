@@ -268,13 +268,13 @@ His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april1
 
 --- 
 
-Winner #2 David Le Corfec (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/david-le-corfec/challenge2))
+Winner 2 - David Le Corfec (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/david-le-corfec/challenge2))
 
-Winner #3 William Shallum (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/william-shallum))
+Winner 3 - William Shallum (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/william-shallum))
 
-Winner #4 Luke Champine (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/luke-champine)) 
+Winner 4 - Luke Champine (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/luke-champine)) 
 
-Winner #5 Arran Walker (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/arran-walker/gochallenge2)). 
+Winner 5 - Arran Walker (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/arran-walker/gochallenge2)). 
 
 According to the challenge author, David Le Corfec and William Shallum were close to one another.
 
