@@ -257,6 +257,17 @@ All the solutions submitted by the participants are available **[here](https://g
 
 ![winner.png](/images/winner.png)
 
+Guillaume J. Charmes has selected the winners of this challenge. They are:
+
+<img align="right" src="/images/luke.jpg" alt="Luke Champine" title="Luke Champine" style="border:5px solid black" />
+**Winner #1 Luke Champine** never expected to wind up as a programmer; in college he first studied electrical engineering, and then computer engineering. But he got involved in his school's open source community, which sparked his love of programming and introduced him to Go. He left school without graduating and moved to Boston to co-found [Nebulous](https://twitter.com/NebulousLabs), a cryptocurrency startup. 
+
+Outside of programming, his interests include linguistics, Buddhism, and chess.
+
+His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/march15/normal/luke-champine) to the challenge.
+
+--- 
+
 #### Sponsors
 
 This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [CoreOS](https://coreos.com/), [Crowd Interactive](http://www.crowdint.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
