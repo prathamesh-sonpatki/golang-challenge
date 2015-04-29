@@ -268,7 +268,8 @@ His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april1
 
 --- 
 
-Winner 2 - David Le Corfec (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/david-le-corfec/challenge2))
+
+**Winner #2 - David Le Corfec** (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/david-le-corfec/challenge2))
 
 Winner 3 - William Shallum (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/william-shallum))
 
