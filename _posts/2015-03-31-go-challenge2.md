@@ -268,8 +268,15 @@ His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april1
 
 --- 
 
+<img align="right" src="/images/david.jpg" alt="David Le Corfec" title="David Le Corfec" style="border:5px solid black" />
 
-**Winner #2 - David Le Corfec** (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/david-le-corfec/challenge2))
+**Winner #2 - David Le Corfec** started programming on Amiga in the 90's. After Computer Science studies, he started in software development before changing to system engineering, supporting the web operations of the largest French broadcaster.
+
+In 2013, he became interested in Go by stumbling upon groupcache, while researching caching solutions for streaming video. Shortly afterwards, Go replaced C as his favorite language, leading him to even consider a comeback to full-time programming!
+
+His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/david-le-corfec/challenge2).
+
+---
 
 Winner 3 - William Shallum (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/william-shallum))
 
