@@ -47,10 +47,10 @@ Create a web application that generates the photo-mosaic that:
 ##### Requirements of the challenge
 
 * Use the latest version of Go i.e. version 1.4.2
-* Individual tile pictures must be clearly visible when magnified, though it is expected to be smaller
-* Use only the standard library, except for database drivers (if used). Do not use any web frameworks such as Beego or the Gorilla Toolkit. Also, Google App Engine's own libraries would be considered external.
+* Individual tile pictures must be clearly visible when magnified, though it is expected to be smaller.
 * You need to write test cases for the main flow. Do submit your test cases. 
 * Do [organize your code](https://youtu.be/XCsL89YtqCs).
+* Submit a photo-mosaic generated with your program, along with instructions to run the program as part of the submission.
 
 ##### Hints
 
