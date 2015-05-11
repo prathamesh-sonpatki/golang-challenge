@@ -29,28 +29,26 @@ A photographic mosaic, or a photo-mosaic is a picture (usually a photograph) tha
 
 ##### Goals of the challenge
 
-Your mission, should you accept it, is to write a photo-mosaic generating web application that:
+Your mission, should you accept it, is to write a photo-mosaic generating program that:
 
-* Allows the user to upload a target picture, which is the picture that will be made into a photo-mosaic
-* Allows the user to connect to one or more photo-sharing sites like Instagram or Flickr or Facebook Photos (or any photo-sharing site of your choice) to get tile pictures. Your user doesn't necessarily need to log in, you can use the image search APIs to get the tile pictures
-* Allows the user to use a search filter (for e.g. use only pictures with cats in it) to filter out a set of tile pictures
+* Allows the user to select a target picture, which is the picture that will be made into a photo-mosaic
+* Allows the user to select a directory containing a set of tile pictures 
 * Generates a photo-mosaic of the target picture using the tile pictures
 
 ##### Bonus goals (optional, not part of the challenge)
 
-Add features to your web application to:
+Create a web application that generates the photo-mosaic that:
 
-* Allow the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through OAuth2). (Note: if you are authenticating the user through OAuth2, you should use the OAuth2 login flow instead of an external library).
-* Allow the user to save the photo-mosaic, either on the site or upload it back to the photo-sharing site
+* Allows the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through OAuth2). (Note: if you are authenticating the user through OAuth2, you should use the OAuth2 login flow instead of an external library).
+* Allows the user to connect to one or more photo-sharing sites like Instagram or Flickr or Facebook Photos (or any photo-sharing site of your choice) to get tile pictures. Your user doesn't necessarily need to log in, you can use the image search APIs to get the tile pictures
+* Allows the user to use a search filter (for e.g. use only pictures with cats in it) to filter out a set of tile pictures
+* Allows the user to save the photo-mosaic, either on the site or upload it back to the photo-sharing site
 
 ##### Requirements of the challenge
 
 * Use the latest version of Go i.e. version 1.4.2
-* The critical part is not the UI but learning to write web applications, so I won't be too bothered if the participant uses [Bootstrap](http://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29) or [Polymer](https://www.polymer-project.org/0.5/) or any other CSS frameworks. I'm even ok if you use AngularJS or any other front-end frameworks, though that would be missing a chunk of learning. I'm more concerned about the user experience -- the web application should have good performance, easy to follow steps and a well understood interface
-* Deploy to a publicly available site; the final software must not only be working, but be usable. You can use Google Cloud Platform or Heroku or any cloud provider, as long as it is working and is deployed publicly, it will be accepted
 * Individual tile pictures must be clearly visible when magnified, though it is expected to be smaller
 * Use only the standard library, except for database drivers (if used). Do not use any web frameworks such as Beego or the Gorilla Toolkit. Also, Google App Engine's own libraries would be considered external.
-* If you are deploying on GAE then you can use the [blobstore](https://cloud.google.com/appengine/docs/go/blobstore/) package for images.
 * You need to write test cases for the main flow. Do submit your test cases. 
 * Do [organize your code](https://youtu.be/XCsL89YtqCs).
 
@@ -66,7 +64,7 @@ You can also look at some photo-mosaic sites that are already available:
 
 Remember not to use the 'ghosting' technique when creating photo-mosaics, that's a big no-no. 'Ghosting' is when you place a faint picture of the target under your mosaic to create an illusion of a mosaic. It's kind of like cheating!
 
-As a starter to deploying your web application to a public provider, you can read this eBook:
+If you're writing a photo-mosaic web application, you can read this eBook:
 
 [How to Deploy a Go Web App to the Google App Engine 101](https://leanpub.com/howtodeployagowebapptothegoogleappengine101)
 
