@@ -15,6 +15,8 @@ tags: [go challenge, golang]
     * Generates a photo-mosaic of the target picture using the tile pictures
 * Originally, you had to create a web application that generated the photo-mosaic. **This not required now**.
 
+--- 
+
 #### The May 2015 Go Challenge for developers (newbies included)
 
 #### Sau Sheong Chang: Author of the third Go Challenge
