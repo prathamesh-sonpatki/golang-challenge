@@ -4,6 +4,17 @@ title: Go Challenge 3
 tags: [go challenge, golang]
 ---
 
+![update.jpg](/images/update.jpg)
+
+**There's been a major update to the original challenge**.
+
+* The last date of submission has been changed from the original 18th May to 25th May 2015.
+* Th challenge is to just write a photo-mosaic generating program that:
+    * Allows the user to select a target picture, which is the picture that will be made into a photo-mosaic
+    * Allows the user to select a directory containing a set of tile pictures 
+    * Generates a photo-mosaic of the target picture using the tile pictures
+* Originally, you had to create a web application that generated the photo-mosaic. **This not required now**.
+
 #### The May 2015 Go Challenge for developers (newbies included)
 
 #### Sau Sheong Chang: Author of the third Go Challenge
