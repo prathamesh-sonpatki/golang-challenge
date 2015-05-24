@@ -8,7 +8,7 @@ tags: [go challenge, golang]
 
 * This second Go challenge is now closed.
 * There were 105 entries from 30 countries.
-* Evaluator Jeff R. Allen talks about your [submitted code](http://blog.nella.org/golang-challenge-2-comments/).
+* Evaluator Jeff R. Allen talks about your submitted code [here](http://blog.nella.org/golang-challenge-2-comments/) and [here](http://blog.nella.org/doing-it-the-hard-way/).
 * Some of the participants blogged about their Go challenge experience: [Doug Cichon](http://www.codeforthought.net/approaching-golang-challenge-two) and [Jason Clark](http://jjasonclark.com/go_challenge_2_review_response/).
 * The winners have been announced: #1 Michael Alexander (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/michael-alexander)), #2 David Le Corfec (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/david-le-corfec/challenge2)), #3 William Shallum (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/william-shallum)), #4 Luke Champine (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/luke-champine)) and #5 Arran Walker (his [solution](https://github.com/golangchallenge/GCSolutions/tree/master/april15/normal/arran-walker/gochallenge2)). According to the challenge author, David Le Corfec and William Shallum were close to one another.
 
