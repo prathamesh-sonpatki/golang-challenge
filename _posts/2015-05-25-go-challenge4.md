@@ -24,58 +24,43 @@ Jeff has this to say about the challenge:
 
 --- 
 
-#### The Go Challenge 3
+#### The Go Challenge 4
 
-##### Go Picture This!
+##### Parker & Packer Unpacking & Repacking, Limited
 
 ##### Preamble
 
-A photographic mosaic, or a photo-mosaic is a picture (usually a photograph) that has been divided into (usually equal sized) rectangular sections, each of which is replaced with another picture (called a tile picture). If we view it from far away or if you squint at it, then the original picture can be seen. If we look closer though, we will see that the picture is in fact made up of many hundreds or thousands of smaller tile pictures.
+A few years ago, Bob Parker and his partner Bob Packer found an unexploited niche in the global logistics industry. They realized that poorly packed boxes were wasting space, and worse, tying up pallets that could be resold for a profit. They founded a company and business is booming!
+
+Now they've got a problem. They've got more boxes to repack than they can mange with their staff. They've invested in robots to help them increase their capacity, and you're in charge of programming them.
 
 ##### Goals of the challenge
 
-Your mission, should you accept it, is to write a photo-mosaic generating program that:
+Your task is to implement an algorithm that, given a trucks full of a pallets with boxes on them that may or may not be correctly packed, packs boxes onto the pallets correctly. A correctly packed pallet is one where none of the boxes on it overlap, and none of the boxes hang over the edge of the pallet. Pallets are packed in only two dimensions, with a single layer of boxes which have an arbitrary height. All of the trucks are going the same place anyway, so it doesn't matter which truck a box goes in, as long as it is packed correctly on a pallet.
 
-* Allows the user to select a target picture, which is the picture that will be made into a photo-mosaic
-* Allows the user to select a directory containing a set of tile pictures 
-* Generates a photo-mosaic of the target picture using the tile pictures
-
-##### Bonus goals (optional, not part of the challenge)
-
-Create a web application that generates the photo-mosaic that:
-
-* Allows the user to log in (can be your own database or log in through a third party like GitHub or Twitter or Facebook, through OAuth2). (Note: if you are authenticating the user through OAuth2, you should use the OAuth2 login flow instead of an external library).
-* Allows the user to connect to one or more photo-sharing sites like Instagram or Flickr or Facebook Photos (or any photo-sharing site of your choice) to get tile pictures. Your user doesn't necessarily need to log in, you can use the image search APIs to get the tile pictures
-* Allows the user to use a search filter (for e.g. use only pictures with cats in it) to filter out a set of tile pictures
-* Allows the user to save the photo-mosaic, either on the site or upload it back to the photo-sharing site
+Empty pallets left over after repacking are pure profit. More empties = more better! And if a truck leaves the warehouse with more pallets on it than it came with, it comes out of your profit. So pack carefully!
 
 ##### Requirements of the challenge
 
-* Use the latest version of Go i.e. version 1.4.2
-* Individual tile pictures must be clearly visible when magnified, though it is expected to be smaller.
-* You need to write test cases for the main flow. Do submit your test cases. 
-* Do [organize your code](https://youtu.be/XCsL89YtqCs).
-* Submit a photo-mosaic generated with your program, along with instructions to run the program as part of the submission.
+In the challenge repository, you'll find a driver program made up of a parser that reads trucks full of pallets from an input file, passes them through the repacker, and evaluates the results.
+
+Your job is to replace the current `repack.go` file with your own. You may not modify the other provided Go files. You may add additional files.
+
+Your `repack.go` file will be evaluated on an input file with enough trucks in it to keep your algorithm busy for more than 2 seconds. The better the performance of your algorithm is, the more trucks you'll manage to process in the given time, and thus the more pallets you'll be able to empty, and the more profit you'll make for your client.
+
+* Use only the standard library.
+* Submit a replacement `repack.go`, and any other files needed to make it compile with the provided files (for example, maybe `repack_test.go`).
+* All of your code should be in `package main`. Showing that you know how to structure code into packages is not part of this challenge.
+
+**Note**: Only 30% of your overall score is based on the runtime behavior (the reliability and performance) of your entry. Faster is better, but only if it remains readable and idiomatic Go code. Remember that your colleagues at Parker & Packer have to maintain your code next month when you are working on Golang Challenge #5!
 
 ##### Hints
 
-You can find out more about photo-mosaics from this Wikipedia entry - [http://en.wikipedia.org/wiki/Photographic_mosaic](http://en.wikipedia.org/wiki/Photographic_mosaic)
+You can use the file `testdata/100trucks.txt` to develop your algorithm.
 
-You can also look at some photo-mosaic sites that are already available:
+You can also use the `-generate` and `-seed` flags to generate your own test files if you'd like. The input file used for evaluating all entries will be generated using `-generate` with a huge number of trucks, and a different seed from the default.
 
-* [http://www.picturemosaics.com](http://www.picturemosaics.com)
-* [http://www.easymoza.com](http://www.easymoza.com)
-* [http://mosaically.com](http://mosaically.com)
-
-Remember not to use the 'ghosting' technique when creating photo-mosaics, that's a big no-no. 'Ghosting' is when you place a faint picture of the target under your mosaic to create an illusion of a mosaic. It's kind of like cheating!
-
-If you're writing a photo-mosaic web application, you can read this eBook:
-
-[How to Deploy a Go Web App to the Google App Engine 101](https://leanpub.com/howtodeployagowebapptothegoogleappengine101)
-
-Or you can view this YouTube video to learn more - [https://www.youtube.com/watch?v=XCsL89YtqCs](https://www.youtube.com/watch?v=XCsL89YtqCs)
-
-If you find this challenge daunting or find yourself stuck, do go to the [Gophers Slack](http://t.co/n6EesY9Mmv) channel #golang-challenge and chat with me (@sausheong) - I will help you along the way.
+Your solution will be evaluated on a multi-core system (for example, MacOS X 10.9.5 on a 2.4 GHz Intel Core i7). Note that `GOMAXPROCS` is already set to 4 in `main.go`. If you choose to use multiple goroutines in your repacker, you might be able to process more boxes in the given time, thereby freeing up more pallets and more profit.
 
 ---
 
