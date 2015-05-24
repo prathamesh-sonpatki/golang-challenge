@@ -5,27 +5,14 @@ tags: [go challenge, golang]
 published: false
 ---
 
-![update.jpg](/images/update.jpg)
+#### The June 2015 Go Challenge for developers (newbies included)
 
-**There's been a major update to the original challenge**.
+#### Jeff R. Allen: Author of the 4th Go Challenge
 
-* The last date of submission has been changed from the original 18th May to **25th May** 2015.
-* The challenge is to just write a photo-mosaic generating program that:
-    * Allows the user to select a target picture, which is the picture that will be made into a photo-mosaic
-    * Allows the user to select a directory containing a set of tile pictures 
-    * Generates a photo-mosaic of the target picture using the tile pictures
-* Originally, you had to create a web application that generated the photo-mosaic. **This not required now**.
+<img align="right" src="/images/jeff.jpg" height="200" width="200" alt="Jeff R. Allen" title="Jeff R. Allen" style="border:5px solid black" />
+The 4th Go Challenge author is [Jeff R. Allen](https://twitter.com/sausheong). 
 
---- 
-
-#### The May 2015 Go Challenge for developers (newbies included)
-
-#### Sau Sheong Chang: Author of the third Go Challenge
-
-<img align="right" src="/images/sausheong.jpg" height="200" width="200" alt="Sau Sheong Chang" title="Sau Sheong Chang" style="border:5px solid black" />
-The third Go Challenge author is [Sau Sheong Chang](https://twitter.com/sausheong). He has been doing software development for 20 years, mostly in web application development. He is active in the Ruby and Go developer communities and has contributed to open source projects and spoke at meetups and conferences. Sau Sheong has also published 3 programming-related books, mostly on Ruby and is working on a 4th book titled [Go Web Programming](http://manning.com/chang). He is currently a Director of Global Consumer Engineering in PayPal, based out of sunny Singapore and has in his career worked for HP, Yahoo, and also ran a technology startup during the dot-com days.
-
-Sau has this to say about the challenge:
+Jeff has this to say about the challenge:
 
 > "This is a challenge for beginners to start learning about writing web applications in Go. Generating photo-mosaics is the fun bit. After the challenge, the challenge participant should be able to write a web application, write test cases, call REST-based API and at the very least, manipulate images all using the standard Go library."
 
