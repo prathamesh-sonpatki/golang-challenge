@@ -9,7 +9,7 @@ published: false
 
 #### Jeff R. Allen: Author of the 4th Go Challenge
 
-<img align="right" src="/images/jeff.jpg" height="200" width="200" alt="Jeff R. Allen" title="Jeff R. Allen" style="border:5px solid black" />
+<img align="right" src="/images/jra.jpg" height="200" width="200" alt="Jeff R. Allen" title="Jeff R. Allen" style="border:5px solid black" />
 The 4th Go Challenge author is [Jeff R. Allen](https://twitter.com/sausheong). 
 
 Jeff has this to say about the challenge:
