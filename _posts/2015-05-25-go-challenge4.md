@@ -74,7 +74,7 @@ By participating in this challenge, you agree to be bound by the Challenge Rules
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of the winners. 
 * No prize substitution is permitted.
-* Create a zip of your Go source code, images and test cases and send the zip file to **golangchallenge [at] gmail.com before 25th of May 2015 (6 am IST). Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=5&d=25&h=6&mn=0) to find the equivalent time in your city/country**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating | Participating and exploring further | Just for Fun | Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
+* Create a zip of your Go source code and test cases and send the zip file to **golangchallenge [at] gmail.com before 23rd of June 2015 (6 am IST). Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=6&d=23&h=6&mn=0) to find the equivalent time in your city/country**. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating | Participating and exploring further | Just for Fun | Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
 * We will give your zip file to the evaluation team. 
 * We shall be publishing on this blog, a list of participant names. If you don't want your name to appear kindly mention the same in your email. 
 * You are allowed to re-submit your code if you feel it is necessary.
@@ -94,7 +94,7 @@ Entries will be anonymized and evaluated by the challenge author and a team of e
 
 #### Questions?
 
-If you have any questions about this challenge, please join the [golang-challenge channel on slack](http://t.co/n6EesY9Mmv) and ask your questions with the tag @sausheong so that the challenge author is aware of your question(s) and can reply to the same. This is a room for people who are going to participate in the Go Challenge. You can also send us an email at golangchallenge [at] gmail.com
+If you have any questions about this challenge, please join the [golang-challenge channel on slack](http://t.co/n6EesY9Mmv) and ask your questions with the tag @jeff_allen so that the challenge author is aware of your question(s) and can reply to the same. This is a room for people who are going to participate in the Go Challenge. You can also send us an email at golangchallenge [at] gmail.com
 
 #### Evaluators
 
