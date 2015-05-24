@@ -10,13 +10,17 @@ published: false
 #### Jeff R. Allen: Author of the 4th Go Challenge
 
 <img align="right" src="/images/jra.jpg" height="200" width="200" alt="Jeff R. Allen" title="Jeff R. Allen" style="border:5px solid black" />
-The 4th Go Challenge author is [Jeff R. Allen](https://twitter.com/sausheong). 
+The 4th Go Challenge author is [Jeff R. Allen](http://blog.nella.org/). Jeff R. Allen is just another Go hacker in Lausanne, Switzerland. He's been using Go since 2010, and remembers using `gofix` every week to fix his programs. He's interested in performance tuning the standard library (but only once it is correct, and only if the result is [clearer than it was before](https://github.com/golang/go/commit/6d248cec56dd56f3ddb92bd587b5c4ac2f9919b1)).
+
+When he is not busy hacking Go, he likes to cut his grass with a scythe and give the clippings to the alpacas who live next door.
 
 Jeff has this to say about the challenge:
 
-> "This is a challenge for beginners to start learning about writing web applications in Go. Generating photo-mosaics is the fun bit. After the challenge, the challenge participant should be able to write a web application, write test cases, call REST-based API and at the very least, manipulate images all using the standard Go library."
+> "This challenge is a version of a [packing problem](http://en.wikipedia.org/wiki/Packing_problems)."
 
-> "And of course, have lots of fun in the process."
+> With problems of this type, there are often a range of solutions available from "trivial but not very good", through to "perfect, but too expensive". It is my hope that this range of possible solutions gives the range of programmers that the Golang Challenge attracts a range of different experiences solving it.
+
+> The previous challenges have attracted a huge amount of interest. For this we are thankful. But it also means evaluating all of them is hard for our volunteer evaluators. This challenge has been structured to allow us to evaluate the solutions for performance automatically. An unfortunate side effect of making a challenge easier to grade is that we need to take away some of the wide open possibility by constraining the format of the solutions. We hope you can understand the tradeoff and have fun anyway.
 
 --- 
 
