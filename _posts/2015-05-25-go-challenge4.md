@@ -41,7 +41,7 @@ Empty pallets left over after repacking are pure profit. More empties = more bet
 
 ##### Requirements of the challenge
 
-In the challenge repository, you'll find a driver program made up of a parser that reads trucks full of pallets from an input file, passes them through the repacker, and evaluates the results.
+Download a [zip file](http://golang-challenge.com/data/ch4/gc4.zip) where you'll find a driver program made up of a parser that reads trucks full of pallets from an input file, passes them through the repacker, and evaluates the results.
 
 Your job is to replace the current `repack.go` file with your own. You may not modify the other provided Go files. You may add additional files.
 
