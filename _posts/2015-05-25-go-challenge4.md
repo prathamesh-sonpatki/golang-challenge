@@ -69,6 +69,8 @@ You can also use the `-generate` and `-seed` flags to generate your own test fil
 
 Your solution will be evaluated on a multi-core system (for example, MacOS X 10.9.5 on a 2.4 GHz Intel Core i7). Note that `GOMAXPROCS` is already set to 4 in `main.go`. If you choose to use multiple goroutines in your repacker, you might be able to process more boxes in the given time, thereby freeing up more pallets and more profit.
 
+The challenge as presented might have bottlenecks. Your job is to do the best you can with the input you are given. You might find it interesting to measure where bottlenecks are and experiment with how to remove them by modifying the driver program (but your final submitted solution should still follow the instructions given earlier, using the unmodified driver).
+
 ---
 
 #### Challenge Rules and how to enter the Go Challenge?
