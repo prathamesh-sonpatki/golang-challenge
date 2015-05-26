@@ -2,7 +2,15 @@
 layout: post
 title: Go Challenge 4
 tags: [go challenge, golang]
+
 ---
+![update.jpg](/images/update.jpg)
+
+**The challenge author has added this:**.
+
+**Additional Hint**: The challenge as presented might have bottlenecks. Your job is to do the best you can with the input you are given. You might find it interesting to measure where bottlenecks are and experiment with how to remove them by modifying the driver program (but your final submitted solution should still follow the instructions given earlier, using the unmodified driver).
+
+--- 
 
 #### The June 2015 Go Challenge for developers (newbies included)
 
