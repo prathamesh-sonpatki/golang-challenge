@@ -166,7 +166,6 @@ Here are some great prizes provided by our sponsors for the event.
 _Winner 1_:
 
 * [Apcera](https://www.apcera.com/) - [Go Gopher Messenger Bag](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
-* [CoreOS](https://coreos.com/) - Company T-Shirt and stickers and a free ticket to the [CoreOS Fest](https://coreos.com/fest/) in SFO.
 * [Crowd Interactive](http://www.crowdint.com/) - A US$ 25 Amazon digital gift card.
 * [Cube Root Software](http://cuberoot.in/) - An eBook [Go-The Standard Library](https://leanpub.com/go-thestdlib)
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
@@ -189,7 +188,6 @@ _Winner 2_:
 
 * [Anand D N](https://twitter.com/Wanderer140) - An eBook: [Mastering Go Web Services](http://shop.oreilly.com/product/9781783981304.do)
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
-* [CoreOS](https://coreos.com/) - Company T-Shirt and stickers and a free ticket to the [CoreOS Fest](https://coreos.com/fest/) in SFO.
 * [Crowd Interactive](http://www.crowdint.com/) - A US$ 25 Amazon digital gift card.
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
 * [Docker](https://www.docker.com/) - A ticket to [DockerCon 2015](http://www.dockercon.com/) in SFO, USA OR to DockerCon Europe (to be announced but probably in Dec. 2015).
