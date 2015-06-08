@@ -10,7 +10,7 @@ tags: [go challenge, golang]
 
 The challenge author has this to say about the winners:
 
-> I am choosing the submission of David Le Corfec as the first winner and Craig Peterson as the second winner, but they are very close.
+> I am choosing the submission of **David Le Corfec** as the first winner and **Craig Peterson** as the second winner, but they are very close.
 
 > **David Le Corfec** - Good mosaic created. Good documentation, easy parameters, fine-grained and simple to use. Simple and easy to read code, well-structured. Good performance when creating the mosaic.
 
