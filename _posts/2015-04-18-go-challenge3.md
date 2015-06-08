@@ -260,6 +260,22 @@ All the solutions submitted by the participants will be available **[here](https
 
 ![winner.png](/images/winner.png)
 
+Since we had only 15 submissions, the author selected only the top 2 winners. They are:
+
+<img align="right" src="/images/david.jpg" alt="David Le Corfec" title="David Le Corfec" style="border:5px solid black" />
+
+**Winner #1 - David Le Corfec** started programming on Amiga in the 90's. After Computer Science studies, he started in software development before changing to system engineering, supporting the web operations of the largest French broadcaster.
+
+In 2013, he became interested in Go by stumbling upon groupcache, while researching caching solutions for streaming video. Shortly afterwards, Go replaced C as his favorite language, leading him to even consider a comeback to full-time programming!
+
+His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/may15/normal/david-le-corfec).
+
+---
+
+**Winner #2 - Craig Peterson**
+
+---
+
 #### Sponsors
 
 This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [CoreOS](https://coreos.com/), [Crowd Interactive](http://www.crowdint.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
