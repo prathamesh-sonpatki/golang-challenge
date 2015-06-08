@@ -12,14 +12,19 @@ The challenge author has this to say about the winners:
 
 > I am choosing the submission of David Le Corfec as the first winner and Craig Peterson as the second winner, but they are very close.
 
-> David Le Corfec - Good mosaic created. Good documentation, easy parameters, fine-grained and simple to use. Simple and easy to read code, well-structured. Good performance when creating the mosaic.
-> Craig Peterson - Excellent mosaic created but not easy to read documentation, good parameters, fine-grained but required to read the code to know which flags to use. Code structure a bit messier.
+> **David Le Corfec** - Good mosaic created. Good documentation, easy parameters, fine-grained and simple to use. Simple and easy to read code, well-structured. Good performance when creating the mosaic.
+
+> **Craig Peterson** - Excellent mosaic created but not easy to read documentation, good parameters, fine-grained but required to read the code to know which flags to use. Code structure a bit messier.
 
 > Additionally, the other submissions that are very close are:
-> Eujon Sellers - Excellent mosaic created, very good web app (although this is irrelevant). The submitter made a silly mistake and 1 test couldn't run properly and failed (I skipped it and the rest is fine).
-> Steven LoFurno - Excellent mosaic created, but the interface is awkward and it is pretty slow.
-> Yury Smolsky - excellent mosaic created, but it requires a lot of tiles, the controls are not as fine-grained as the rest.
-> Andriel Nuernberg - great looking web app, but the mosaic created is not as good as the rest, and there is little control over the tile set to be used.
+
+> **Eujon Sellers** - Excellent mosaic created, very good web app (although this is irrelevant). The submitter made a silly mistake and 1 test couldn't run properly and failed (I skipped it and the rest is fine).
+
+> **Steven LoFurno** - Excellent mosaic created, but the interface is awkward and it is pretty slow.
+
+> **Yury Smolsky** - excellent mosaic created, but it requires a lot of tiles, the controls are not as fine-grained as the rest.
+
+> **Andriel Nuernberg** - great looking web app, but the mosaic created is not as good as the rest, and there is little control over the tile set to be used.
 
 > I went through all of the submissions and used a single set of uniform tiles (extracted from Instagram) with the theme 'cat' to create a mosaic based on a single cat picture. All the mosaics are in the zip file at this link: [https://www.dropbox.com/s/48whh7gfjgrb61i/comparison_of_mosaics.zip?dl=0](https://www.dropbox.com/s/48whh7gfjgrb61i/comparison_of_mosaics.zip?dl=0).
 
