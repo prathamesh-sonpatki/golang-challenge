@@ -272,6 +272,8 @@ His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/may15/
 
 ---
 
+<img align="right" src="/images/craig.jpg" alt="Craig Peterson" title="Craig Peterson" style="border:5px solid black" />
+
 **Winner #2 - Craig Peterson**  is a Developer for Stack Exchange working remotely from Utah. He works on the site reliability team, mostly on the [bosun](http://github.com/bosun-monitor/bosun) open source monitoring system, written in Go.
 
 Craig has been a programmer since 2004, working mostly in .Net and Java environments. He stumbled into Go about a year and a half ago, and has been hooked ever since. 
