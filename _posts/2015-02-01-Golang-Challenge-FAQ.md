@@ -36,15 +36,13 @@ Matt is [Splice CTO & Co-Founder](https://splice.com/), an experienced technolog
 
 So far, the following Gophers have agreed to set up the challenge for:
 
-* June 2015 - [Andrew Gerrand](https://plus.google.com/+AndrewGerrand/about)
-* July 2015 - [Jessica Frazelle](https://github.com/jfrazelle)
-* August 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
+* August 2015 - [Andrew Gerrand](https://plus.google.com/+AndrewGerrand/about)
 * September 2015 - [Steve Francia](https://www.linkedin.com/in/stevefrancia)
-* October 2015 - [Francesc Campoy Flores](https://www.linkedin.com/in/campoy)
-* November 2015 - [Jeremy Saenz](https://github.com/codegangsta)
+* October 2015 - [Francesc Campoy Flores](https://www.linkedin.com/in/campoy) or [Cory LaNou](https://www.linkedin.com/in/corylanou)
+* November 2015 - 
 * December 2015 - Karan Misra
 
-Other interested Gophers: Blake Mizerany, Matthew Holt, Mike Gehard, Niket Patel, Piyush Verma, Verónica López and William Kennedy.
+Other interested Gophers: [Jessica Frazelle](https://github.com/jfrazelle), Blake Mizerany, [Jeremy Saenz](https://github.com/codegangsta), Matthew Holt, Mike Gehard, Niket Patel, Piyush Verma, Verónica López and William Kennedy.
 
 **Sponsors**
 
