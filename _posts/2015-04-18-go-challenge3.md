@@ -6,6 +6,10 @@ tags: [go challenge, golang]
 
 ![update.jpg](/images/update.jpg)
 
+The author of the challenge has written a [blog post](http://blog.saush.com/2015/06/24/creating-a-photo-mosaic-web-app/) that explains how he used concurrency to improve the performance 10x without changing the basic algorithm.
+
+---
+
 **Winners have been declared**
 
 The challenge author has this to say about the winners:
