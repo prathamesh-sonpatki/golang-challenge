@@ -12,11 +12,11 @@ The challenge author had this to say:
 
 > My preference was for idiomatic code, enough docs that I could take over the code if I had to without crying, parallelization, and memory efficiency. Martin Treusch von Buttlar nailed all of those, other ones were lacking in one or more of each of the things I was looking for.
 
-Winner #1 - *Martin Treusch von Buttlar*
+Winner #1 - **Martin Treusch von Buttlar**
 
-Winner #2 - *Zac Bergquist*
+Winner #2 - **Zac Bergquist**
 
-Winner #3 - *Craig Peterson*
+Winner #3 - **Craig Peterson**
 
 ---
 
