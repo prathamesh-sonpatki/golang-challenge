@@ -163,7 +163,7 @@ _Winner 2_:
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [Crowd Interactive](http://www.crowdint.com/) - A US$ 25 Amazon digital gift card.
 * [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
-* [Docker](https://www.docker.com/) - A ticket to [DockerCon 2015](http://www.dockercon.com/) in SFO, USA OR to DockerCon Europe (to be announced but probably in Dec. 2015).
+* [Docker](https://www.docker.com/) - A ticket to DockerCon Europe (to be announced but probably in Dec. 2015).
 * [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing) and a [T-Shirt](http://github.myshopify.com/) of your choice.
 * [Helpshift](http://www.helpshift.com/) - An eBook [A Go Developer's Notebook](https://leanpub.com/GoNotebook)
 * [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
