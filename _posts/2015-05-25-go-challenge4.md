@@ -6,7 +6,17 @@ tags: [go challenge, golang]
 ---
 ![update.jpg](/images/update.jpg)
 
-**23rd June 2015:** The challenge is now closed.
+**Winners have been declared**
+
+The challenge author had this to say:
+
+> My preference was for idiomatic code, enough docs that I could take over the code if I had to without crying, parallelization, and memory efficiency. Martin Treusch von Buttlar nailed all of those, other ones were lacking in one or more of each of the things I was looking for.
+
+#1 *Martin Treusch von Buttlar*
+#2 *Zac Bergquist*
+#3 *Craig Peterson*
+
+---
 
 **The challenge author has added this on 26th May 2015:**
 
