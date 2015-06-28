@@ -282,6 +282,8 @@ His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/may15/
 
 Craig has been a programmer since 2004, working mostly in .Net and Java environments. He stumbled into Go about a year and a half ago, and has been hooked ever since. 
 
+His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/may15/extra/craig-peterson).
+
 ---
 
 #### Sponsors
