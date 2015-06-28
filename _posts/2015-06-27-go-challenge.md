@@ -13,4 +13,4 @@ July is when the awesome [GopherCon](http://gophercon.com/) happens in Denver, U
 
 We will be back in August.
 
-Thanks to all the Gophers for the interest in the monthly Go Challenge.
+Thanks to all the Gophers for their interest in the monthly Go Challenge.
