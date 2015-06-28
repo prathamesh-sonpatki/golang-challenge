@@ -232,6 +232,34 @@ All the solutions submitted by the participants will be available **[here](https
 
 ![winner.png](/images/winner.png)
 
+Since we had only 20 submissions, the author selected only the top 3 winners. They are:
+
+**Winner #1 - Martin Treusch von Buttlar**.
+
+His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/june15/normal/martin-treusch-von-buttlar).
+
+---
+
+<img align="right" src="/images/zac.jpg" alt="Zac Bergquist" title="Zac Bergquist" style="border:5px solid black" />
+
+**Winner #2 - Zac Bergquist** is a software engineer working mostly in C++, Java, and .NET. He discovered Go 3 or 4 years ago, and was surprised at how easy it was to pick up. He remembers finishing the Tour of Go, and then digging up one of his old school projects (that he wrote in C) and rewriting it in Go. He finished it up in a weekend and was hooked.
+
+At this point, Go is still just a hobby for him, but he hopes to someday work with Go for a living.
+
+His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/june15/normal/zac-bergquist/gc4).
+
+---
+
+<img align="right" src="/images/craig.jpg" alt="Craig Peterson" title="Craig Peterson" style="border:5px solid black" />
+
+**Winner #3 - Craig Peterson**  is a Developer for Stack Exchange working remotely from Utah. He works on the site reliability team, mostly on the [bosun](http://github.com/bosun-monitor/bosun) open source monitoring system, written in Go.
+
+Craig has been a programmer since 2004, working mostly in .Net and Java environments. He stumbled into Go about a year and a half ago, and has been hooked ever since. 
+
+His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/june15/normal/craig-peterson).
+
+---
+
 #### Sponsors
 
 This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [CoreOS](https://coreos.com/), [Crowd Interactive](http://www.crowdint.com/), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [GopherCasts](https://gophercasts.io/), [Helpshift](http://www.helpshift.com/), [InfluxDB](http://influxdb.com/), [John Sonmez](https://twitter.com/jsonmez), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [NodePrime](http://www.nodeprime.com/), [O'Reilly](http://www.oreilly.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [RainingClouds](http://rainingclouds.com/#!/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
