@@ -13,4 +13,12 @@ July is when the awesome [GopherCon](http://gophercon.com/) happens in Denver, U
 
 We will be back in August.
 
+The challenges to come are from:
+
+* August 2015 - [Josh Bleecher Snyder](http://www.gophercon.in/blog/2015/02/13/josh/)
+* September 2015 - [Steve Francia](https://www.linkedin.com/in/stevefrancia)
+* October 2015 - [Francesc Campoy Flores](https://www.linkedin.com/in/campoy)
+* November 2015 - [Andrew Gerrand](https://plus.google.com/+AndrewGerrand/about)
+* December 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
+
 Thanks to all the Gophers for their interest in the monthly Go Challenge.
