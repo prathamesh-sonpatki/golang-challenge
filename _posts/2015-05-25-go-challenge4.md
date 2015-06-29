@@ -234,7 +234,11 @@ All the solutions submitted by the participants will be available **[here](https
 
 Since we had only 20 submissions, the author selected only the top 3 winners. They are:
 
-**Winner #1 - Martin Treusch von Buttlar**.
+<img align="right" src="/images/martin.jpg" alt="Martin Treusch von Buttlar" title="Martin Treusch von Buttlar" style="border:5px solid black" />
+
+**Winner #1 - Martin Treusch von Buttlar** is the CTO of [Vitraum](http://vitraum.de) and lives in Hamburg, Germany.  
+
+Martin has used many different programming languages since the early 90's, ranging from C++, Java, Perl, Python to Rails and JavaScript, mostly for web projects. Go was only recently added to this list and used to implement a RESTful API and multiple web crawlers.
 
 His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/june15/normal/martin-treusch-von-buttlar).
 
