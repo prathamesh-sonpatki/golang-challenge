@@ -19,6 +19,7 @@ The challenges to come are from:
 * September 2015 - [Steve Francia](https://www.linkedin.com/in/stevefrancia)
 * October 2015 - [Francesc Campoy Flores](https://www.linkedin.com/in/campoy)
 * November 2015 - [Andrew Gerrand](https://plus.google.com/+AndrewGerrand/about)
-* December 2015 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
+* December 2015 - [Karan Misra](https://www.sostronk.com/)
+* January 2016 - [Cory LaNou](https://www.linkedin.com/in/corylanou)
 
 Thanks to all the Gophers for their interest in the monthly Go Challenge.
