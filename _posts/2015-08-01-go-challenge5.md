@@ -24,3 +24,14 @@ Josh has this to say about the challenge:
 
 ##### Preamble
 
+[Go 1.5 Beta 3](https://groups.google.com/forum/m/#!topic/golang-nuts/hm9tWv534bI) is out! The gc compiler is now written in Go, and the [go/types package](htts://golang.org/pkg/go/types/) is now part of the standard library.
+
+Time for some fun. :)
+
+The compiler was converted from C to Go mechanically. This helped avoid bugs, but it means that the code is still very C-ish. The Go team has been slowly and carefully doing cleanup to make the compiler more idiomatic. It is preferable to use type-safe tools (such as [eg](http://godoc.org/golang.org/x/tools/cmd/eg) and [gorename](http://godoc.org/golang.org/x/tools/cmd/gorename)) to do large-scale cleanup, because they make fewer mistakes than humans.
+
+But sometimes, [the tool you need doesn't exist](https://go-review.googlesource.com/#/c/7593/). Fortunately, the standard library gives us [amazing tools to build tools](https://talks.golang.org/2014/hammers.slide#1). So you build one.
+
+Let's build one.
+
+
