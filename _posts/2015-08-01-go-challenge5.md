@@ -137,8 +137,7 @@ Here are some great prizes provided by our sponsors for the event.
 _Winner 1_:
 
 * [Cube Root Software](http://cuberoot.in/) - An eBook [Go-The Standard Library](https://leanpub.com/go-thestdlib)
-* [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
-* [Docker](https://www.docker.com/) - 
+* [Docker](https://www.docker.com/) - To be announced
 * [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing).
 * [Packt Publishing](https://www.packtpub.com/) - A print book [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
 * [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
@@ -148,9 +147,6 @@ _Winner 1_:
 _Winner 2_:
 
 * [Anand D N](https://twitter.com/Wanderer140) - An eBook: [Mastering Go Web Services](http://shop.oreilly.com/product/9781783981304.do)
-* [DigitalOcean](https://www.digitalocean.com/) - US$ 50 Amex Gift Card
-* [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing).
-* [Packt Publishing](https://www.packtpub.com/) - A print book [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
 * [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
 * [SoStronk](https://www.sostronk.com/) - [Counter-Strike: Global Offensive](http://store.steampowered.com/app/730/) game. You will need to have a free [Steam account](https://store.steampowered.com/join/?) to receive this gift.
 * [Sourcegraph](https://sourcegraph.com/) - [Interview with the winner on their blog and will get their shirt, stickers](https://sourcegraph.com/blog)
