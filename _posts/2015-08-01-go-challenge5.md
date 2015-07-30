@@ -114,7 +114,7 @@ Entries will be anonymized and evaluated by the challenge author and a team of e
 
 #### Questions?
 
-If you have any questions about this challenge, please join the [golang-challenge channel on slack](http://t.co/n6EesY9Mmv) and ask your questions with the tag @josharian so that the challenge author is aware of your question(s) and can reply to the same (the author would definitely be available on slack from Aug. 3rd to 7th). This is a room for people who are going to participate in the Go Challenge. You can also send us an email at golangchallenge [at] gmail.com
+If you have any questions about this challenge, please join the [golang-challenge channel on slack](http://t.co/n6EesY9Mmv) and ask your questions with the tag @josharian so that the challenge author is aware of your question(s) and can reply to the same (the author is totally unavailable from midday Fri 31st July until Monday morning 3rd Aug, Pacific time. Other than that, he will be available). This is a room for people who are going to participate in the Go Challenge. You can also send us an email at golangchallenge [at] gmail.com
 
 #### Evaluators
 
@@ -161,7 +161,7 @@ All the solutions submitted by the participants will be available **[here](https
 
 #### Sponsors
 
-This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Cube Root Software](http://cuberoot.in/), [DigitalOcean](https://www.digitalocean.com/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
+This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Cube Root Software](http://cuberoot.in/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
 
 #### Credit
 
