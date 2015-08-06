@@ -23,7 +23,7 @@ Josh has this to say about the challenge:
 
 ##### Preamble
 
-[Go 1.5 Beta 3](https://groups.google.com/forum/m/#!topic/golang-nuts/hm9tWv534bI) is out! The gc compiler is now written in Go, and the [go/types package](https://tip.golang.org/pkg/go/types/) is now part of the standard library.
+[Go 1.5rc1](https://golang.org/dl/#go1.5rc1) is out! The gc compiler is now written in Go, and the [go/types package](https://tip.golang.org/pkg/go/types/) is now part of the standard library.
 
 Time for some fun. :)
 
