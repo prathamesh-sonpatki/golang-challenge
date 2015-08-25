@@ -4,6 +4,12 @@ title: Go Challenge
 tags: [go challenge, golang]
 ---
 
+![update.jpg](/images/update.jpg)
+
+The August 2015 Go Challenge is now closed.
+
+---
+
 #### The August 2015 Go Challenge for developers (newbies included)
 
 #### Josh Bleecher Snyder: Author of the 5th Go Challenge
