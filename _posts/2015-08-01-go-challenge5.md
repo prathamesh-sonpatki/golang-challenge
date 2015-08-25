@@ -6,7 +6,7 @@ tags: [go challenge, golang]
 
 ![update.jpg](/images/update.jpg)
 
-The August 2015 Go Challenge is now closed.
+**25th Aug. at 6.00 am IST**: The August 2015 Go Challenge is now closed.
 
 ---
 
