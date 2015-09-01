@@ -67,9 +67,9 @@ You will communicate with your opponent bot over a REST API. A complete skeleton
 
 This challenge makes use of 3 libraries outside the standard library:
 
-* [gin](github.com/gin-gonic/gin) : One of the many web frameworks available for Go. I particularly like the speed and interface Gin provides.
-* [cobra](github.com/spf13/cobra) : A Commander for modern Go CLI interactions. Used by Google’s Kubernetes, RedHat’s Project Atomic, Docker, OpenShift, CoreOS’s Rocket, Parse, GiantSwarm & GopherJS
-* [viper](github.com/spf13/viper) : A complete configuration solution for Go applications. It is designed to work within an application, and can handle all types of configuration needs and formats.
+* [gin](https://github.com/gin-gonic/gin) : One of the many web frameworks available for Go. I particularly like the speed and interface Gin provides.
+* [cobra](https://github.com/spf13/cobra) : A Commander for modern Go CLI interactions. Used by Google’s Kubernetes, RedHat’s Project Atomic, Docker, OpenShift, CoreOS’s Rocket, Parse, GiantSwarm & GopherJS
+* [viper](https://github.com/spf13/viper) : A complete configuration solution for Go applications. It is designed to work within an application, and can handle all types of configuration needs and formats.
 
 There are 4 different operations already defined for the program.
 
