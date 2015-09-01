@@ -48,6 +48,7 @@ We will run a big tournament to determine who has created the best pair of Bots.
 We will run 500 simulations between opponents and take the average number of steps taken to solve the labyrinth. The competitor with the lower average steps will win and go onto the next round.  
 
 Ground Rules:
+
   * Every maze generated must be solvable.
   * Both Icarus and the treasure must be randomly placed.
   * Mazes must be fully enclosed. The only way out is the treasure.
