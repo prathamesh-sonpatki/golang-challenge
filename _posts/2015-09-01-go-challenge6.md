@@ -52,6 +52,8 @@ We will run 500 simulations between opponents and take the average number of ste
 * Every maze generated must be solvable.
 * Both Icarus and the treasure must be randomly placed.
 * Mazes must be fully enclosed. The only way out is the treasure.
+* Dynamic (shifting) mazes are not allowed. Once icarus wakes up the walls and treasure must be fixed.
+* A wall needs to be set on both sides of neighboring cells. No one way walls.
 * Mazes may have more than one correct solution.
 * No cheating. Don't miscount steps or anything like that.
 
