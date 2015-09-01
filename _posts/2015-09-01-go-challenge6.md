@@ -49,11 +49,11 @@ We will run 500 simulations between opponents and take the average number of ste
 
 Ground Rules:
 
-  * Every maze generated must be solvable.
-  * Both Icarus and the treasure must be randomly placed.
-  * Mazes must be fully enclosed. The only way out is the treasure.
-  * Mazes may have more than one correct solution.
-  * No cheating. Don't miscount steps or anything like that.
+* Every maze generated must be solvable.
+* Both Icarus and the treasure must be randomly placed.
+* Mazes must be fully enclosed. The only way out is the treasure.
+* Mazes may have more than one correct solution.
+* No cheating. Don't miscount steps or anything like that.
 
 This is meant to be fun. The hope for this challenge is to get you thinking about how to write code in Go. We will be exposing you to some of the basic libraries you would use to write both command line applications and web services.
 
@@ -68,9 +68,7 @@ You will communicate with your opponent bot over a REST API. A complete skeleton
 This challenge makes use of 3 libraries outside the standard library:
 
 * [gin](github.com/gin-gonic/gin) : One of the many web frameworks available for Go. I particularly like the speed and interface Gin provides.
-
 * [cobra](github.com/spf13/cobra) : A Commander for modern Go CLI interactions. Used by Google’s Kubernetes, RedHat’s Project Atomic, Docker, OpenShift, CoreOS’s Rocket, Parse, GiantSwarm & GopherJS
-
 * [viper](github.com/spf13/viper) : A complete configuration solution for Go applications. It is designed to work within an application, and can handle all types of configuration needs and formats.
 
 There are 4 different operations already defined for the program.
