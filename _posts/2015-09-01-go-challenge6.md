@@ -47,7 +47,7 @@ We will run a big tournament to determine who has created the best pair of Bots.
 
 We will run 500 simulations between opponents and take the average number of steps taken to solve the labyrinth. The competitor with the lower average steps will win and go onto the next round.  
 
-Ground Rules:
+**Ground Rules**:
 
 * Every maze generated must be solvable.
 * Both Icarus and the treasure must be randomly placed.
@@ -82,13 +82,14 @@ There are 4 different operations already defined for the program.
 You will need to make changes to at least 3 files to complete your task.
 
 You will need to:
+
 * Put your name in the `var AuthorName = "spf13"` line in commands/labyrinth.go file
 * Write the `createMaze()` function in the commands/daedalus.go file
 * Write the `solveMaze()` function in the commands/icarus.go file
 
 You may (and likely will want to) make other changes to these files but keep the integrity of the API intact.
 
-Bonus features:
+**Bonus features**:
 
 The default behavior of the `labyrinth` program is to run a server and connect to it with a client thus creating and solving a maze. This is really helpful for testing.
 
