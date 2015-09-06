@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go Challenge 4
+title: Go Challenge - 4
 tags: [go challenge, golang]
 
 ---
