@@ -6,7 +6,11 @@ tags: [go challenge, golang]
 
 ![update.jpg](/images/update.jpg)
 
-**25th Aug. at 6.00 am IST**: The August 2015 Go Challenge is now closed.
+**Winners have been declared**
+
+Winner #1 - **Robert Horvath**
+
+Winner #2 - **Fatih Arslan**
 
 ---
 
