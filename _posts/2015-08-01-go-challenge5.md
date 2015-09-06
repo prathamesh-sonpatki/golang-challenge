@@ -181,7 +181,7 @@ His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/aug15/
 
 ---
 
-<img align="right" src="/images/fatih_arslan.jpg" alt="Fatih Arslan" title="Fatih Arslan" style="border:5px solid black" />
+<img align="right" src="/images/fatih_arslan.jpg" width="180" height="170" alt="Fatih Arslan" title="Fatih Arslan" style="border:5px solid black" />
 
 **Winner #2 - Fatih Arslan** is a software engineer at Koding.com. He is working on the backend team and is responsible for managing and scaling user VMs. He is the creator of vim-go, the most popular editor plugin in Go. He also wrote several widely used Go packages, such as [structs](https://github.com/fatih/structs), [color](https://github.com/fatih/color), [kite](https://github.com/koding/kite), tunnel, pool, set, etc.. Check his [GitHub id](https://github.com/fatih). He is an avid Go developer and has contributed to several open source projects.
 
