@@ -175,7 +175,9 @@ All the solutions submitted by the participants will be available **[here](https
 
 ![winner.png](/images/winner.png)
 
-**Winner #1 - Robert Horvath** 
+<img align="right" src="/images/robert_horvath.jpg" width="180" height="180" alt="Robert Horvath" title="Robert Horvath" style="border:5px solid black" />
+
+**Winner #1 - Robert Horvath** is a software developer from Austria, currently working at [Catalysts](http://www.catalysts.cc) while pursuing a master's degree in computer science at the Vienna University of Technology. He started programming at an early age and has been writing code ever since. Over the years he used many different programming languages, most importantly PHP, Java, C, Ruby and JavaScript. He only recently started dabbling in Go, but likes it and plans on using it for more projects soon.
 
 His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/aug15/normal/robert-horvath).
 
