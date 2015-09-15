@@ -4,6 +4,12 @@ title: Go Challenge - 6
 tags: [go challenge, golang]
 ---
 
+![update.jpg](/images/update.jpg)
+
+This Go Challenge is now closed.
+
+---
+
 #### The September 2015 Go Challenge for developers (newbies included)
 
 #### Steve Francia: Author of the 6th Go Challenge
