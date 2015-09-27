@@ -6,7 +6,11 @@ tags: [go challenge, golang]
 
 ![update.jpg](/images/update.jpg)
 
-This Go Challenge is now closed.
+**Winners have been declared**
+
+Winner #1 - **Xiao Jiang**
+
+Winner #2 - **Kim Eik**
 
 ---
 
