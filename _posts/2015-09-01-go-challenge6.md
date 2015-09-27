@@ -193,6 +193,14 @@ After a winner wins the monthly challenge, he/she would be interviewed by [Sourc
 
 All the solutions submitted by the participants will be available **[here](https://github.com/golangchallenge/GCSolutions)** after the challenge ends.
 
+#### The Winners
+
+![winner.png](/images/winner.png)
+
+Winner #1 - **Xiao Jiang** - His [solution](https://github.com/showbufire/gc6).
+
+Winner #2 - **Kim Eik** - His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/aug15/extra/kim-eik/unexport).
+
 #### Sponsors
 
 This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Cube Root Software](http://cuberoot.in/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
