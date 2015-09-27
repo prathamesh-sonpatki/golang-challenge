@@ -201,7 +201,15 @@ All the solutions submitted by the participants will be available **[here](https
 
 His [solution](https://github.com/showbufire/gc6).
 
-Winner #2 - **Kim Eik** - His [solution](https://github.com/golangchallenge/GCSolutions/tree/master/aug15/extra/kim-eik/unexport).
+---
+
+<img align="right" src="/images/kim.jpg" width="180" height="180" alt="Kim Eik" title="Kim Eik" style="border:5px solid black" />
+
+Winner #2 - **Kim Eik** is 30 years of age and lives in Norway. He's a senior developer at Bouvet which is a Norwegian IT consulting firm. He considers himself to be a full-stack devop, mainly in the Java ecosystem. He has been following the development of golang since it's debut, but especially after it's 1.0 release. He really enjoys the language and tools and hopes that one day he gets the opportunity to be part of a development team working with golang full-time.
+
+His [solution](https://github.com/netbrain/gc6).
+
+---
 
 #### Sponsors
 
