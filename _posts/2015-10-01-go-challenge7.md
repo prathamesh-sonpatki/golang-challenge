@@ -15,7 +15,7 @@ Francesc has this to say about the challenge:
 
 > "Preparing this challenge got me so excited about the support for OpenGL and simple audio primitives that I had to concentrate on writing the description rather than hacking on my own virtual piano.
 
-Event based applications are easily modeled using goroutines and channels, and I expect this project will be a chance for everyone to experiment with them."
+> Event based applications are easily modeled using goroutines and channels, and I expect this project will be a chance for everyone to experiment with them."
 
 --- 
 
