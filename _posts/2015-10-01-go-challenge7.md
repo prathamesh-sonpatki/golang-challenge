@@ -132,7 +132,7 @@ All the solutions submitted by the participants will be available **[here](https
 
 #### Sponsors
 
-This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Cube Root Software](http://cuberoot.in/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/), [SoStronk](https://www.sostronk.com/) and [Sourcegraph](https://sourcegraph.com/).
+This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Cube Root Software](http://cuberoot.in/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/) and [Sourcegraph](https://sourcegraph.com/).
 
 #### Credit
 
