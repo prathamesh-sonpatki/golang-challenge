@@ -8,7 +8,7 @@ tags: [go challenge, golang]
 
 #### Andrew Gerrand: Author of the 8th Go Challenge
 
-<img align="right" src="/images/andrew.png" height="200" width="200" alt="Andrew Gerrand" title="Andrew Gerrand" style="border:5px solid black" />
+<img align="right" src="/images/andrew.jpg" height="200" width="200" alt="Andrew Gerrand" title="Andrew Gerrand" style="border:5px solid black" />
 The 8th Go Challenge author, Andrew Gerrand, is from Melbourne, Australia and now lives in Sydney working at Google Australia on the Go project. He has been writing code since he was a little kid, and has been working in the industry since he was a teenager. Before Google he worked for various Internet companies using most of the common languages in that sphere (Perl, PHP, Python, JS, etc). At the same time he spent most of his personal hacking time writing assembly for 8-bit systems from the 80s. He also has a Bachelors degree in Fine Arts (his major was photography).
 
 Andrew has this to say about the challenge:
