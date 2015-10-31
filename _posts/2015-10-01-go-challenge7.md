@@ -4,6 +4,16 @@ title: Go Challenge - 7
 tags: [go challenge, golang]
 ---
 
+![update.jpg](/images/update.jpg)
+
+**Winners have been declared**
+
+Winner #1 - **James Scott**
+
+Winner #2 - **Daniel Skinner**
+
+---
+
 #### The October 2015 Go Challenge for developers (newbies included)
 
 #### Francesc Campoy Flores: Author of the 7th Go Challenge
