@@ -138,11 +138,7 @@ All the solutions submitted by the participants will be available **[here](https
 
 ![winner.png](/images/winner.png)
 
-<!--<img align="right" src="/images/xiao.jpg" width="180" height="180" alt="Xiao Jiang" title="Xiao Jiang" style="border:5px solid black" />-->
-
 **Winner #1 - James Scott**
-<!--is a software engineer working for Facebook in California, U.S. He studied Computer Science in Shanghai Jiao Tong University in China before joining the company. For the last two and half years, he mostly deals with Hack, which is the Facebook fork of PHP. He recently switched to the Parse team, which is also part of Facebook, and started to use Go fulltime. He likes the language a lot and hopes he could make some contribution to the community in the not too distant future.
--->
 
 His [solution](https://bitbucket.org/jcscottiii/amadeus).
 
