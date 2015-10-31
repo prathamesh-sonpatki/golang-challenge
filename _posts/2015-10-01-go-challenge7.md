@@ -146,7 +146,7 @@ His [solution](https://bitbucket.org/jcscottiii/amadeus).
 
 <img align="right" src="/images/skinner.jpg" width="180" height="180" alt="Daniel Skinner" title="Daniel Skinner" style="border:5px solid black" />
 
-Winner #2 - **Daniel Skinner** is currently working at [The Smyth Group](http://thesmythgroup.com/) primarily as a lead android developer. He has been writing Go since mid-2012 and uses it for nearly all of his personal projects. Back when he was a budding engineer, picking a project to develop his skills was always problematic until he came across Victor Lazzarini's [SndObj Library](http://sndobj.sourceforge.net/). This challenge was a chance to get back to what he enjoys while SndObj served as an inspiration to provide something similar for Go.
+**Winner #2 - Daniel Skinner** is currently working at [The Smyth Group](http://thesmythgroup.com/) primarily as a lead android developer. He has been writing Go since mid-2012 and uses it for nearly all of his personal projects. Back when he was a budding engineer, picking a project to develop his skills was always problematic until he came across Victor Lazzarini's [SndObj Library](http://sndobj.sourceforge.net/). This challenge was a chance to get back to what he enjoys while SndObj served as an inspiration to provide something similar for Go.
 
 His [solution](https://github.com/dskinner/snd/tree/master/example/piano).
 
