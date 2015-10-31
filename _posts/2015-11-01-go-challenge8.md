@@ -126,7 +126,6 @@ _Winner 1_:
 
 * [Apcera](https://www.apcera.com/) - [Go Gopher Messenger Bag](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [Cube Root Software](http://cuberoot.in/) - An eBook [Go-The Standard Library](https://leanpub.com/go-thestdlib)
-* [GitHub](https://github.com/) - Free 1 year of a [Personal Micro Plan](https://github.com/pricing).
 * [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
 * [Manning Publications Co.](http://manning.com/) - Two eBooks [Go Web Programming](http://www.manning.com/chang/) and [Go in Action](http://www.manning.com/ketelsen/)
 * [Packt Publishing](https://www.packtpub.com/) - A print book [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go)
@@ -146,7 +145,7 @@ All the solutions submitted by the participants will be available **[here](https
 
 #### Sponsors
 
-This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [Cube Root Software](http://cuberoot.in/), [GitHub](https://github.com/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [Packt Publishing](https://www.packtpub.com/) and [Qwinix Technologies](http://www.qwinixtech.com/).
+This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [Cube Root Software](http://cuberoot.in/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [Packt Publishing](https://www.packtpub.com/) and [Qwinix Technologies](http://www.qwinixtech.com/).
 
 #### Credit
 
