@@ -8,7 +8,7 @@ tags: [go challenge, golang]
 
 **Winners have been declared**
 
-Winner #1 - **James Scott** - his [repo](https://bitbucket.org/jcscottiii/amadeus).
+Winner #1 - **James Scott** - his [solution](https://bitbucket.org/jcscottiii/amadeus).
 
 Winner #2 - **Daniel Skinner**
 
