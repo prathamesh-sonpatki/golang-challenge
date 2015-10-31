@@ -134,6 +134,26 @@ _Winner 2_:
 
 All the solutions submitted by the participants will be available **[here](https://github.com/golangchallenge/GCSolutions)** after the challenge ends.
 
+#### The Winners
+
+![winner.png](/images/winner.png)
+
+<!--<img align="right" src="/images/xiao.jpg" width="180" height="180" alt="Xiao Jiang" title="Xiao Jiang" style="border:5px solid black" />-->
+
+**Winner #1 - Xiao Jiang** is a software engineer working for Facebook in California, U.S. He studied Computer Science in Shanghai Jiao Tong University in China before joining the company. For the last two and half years, he mostly deals with Hack, which is the Facebook fork of PHP. He recently switched to the Parse team, which is also part of Facebook, and started to use Go fulltime. He likes the language a lot and hopes he could make some contribution to the community in the not too distant future.
+
+His [solution](https://github.com/showbufire/gc6).
+
+---
+
+<img align="right" src="/images/kim.jpg" width="180" height="180" alt="Kim Eik" title="Kim Eik" style="border:5px solid black" />
+
+Winner #2 - **Daniel Skinner** is currently working at [The Smyth Group](http://thesmythgroup.com/) primarily as a lead android developer. He has been writing Go since mid-2012 and uses it for nearly all of his personal projects. Back when he was a budding engineer, picking a project to develop his skills was always problematic until he came across Victor Lazzarini's [SndObj Library](http://sndobj.sourceforge.net/). This challenge was a chance to get back to what he enjoys while SndObj served as an inspiration to provide something similar for Go.
+
+His [solution](https://github.com/netbrain/gc6).
+
+---
+
 #### Sponsors
 
 This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Cube Root Software](http://cuberoot.in/), [Docker](https://www.docker.com/), [GitHub](https://github.com/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [Packt Publishing](https://www.packtpub.com/), [Qwinix Technologies](http://www.qwinixtech.com/) and [Sourcegraph](https://sourcegraph.com/).
