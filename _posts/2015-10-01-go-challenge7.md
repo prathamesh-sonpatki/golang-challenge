@@ -8,7 +8,7 @@ tags: [go challenge, golang]
 
 **Winners have been declared**
 
-Winner #1 - **James Scott** - his [solution](https://bitbucket.org/jcscottiii/amadeus).
+Winner #1 - **James Scott**
 
 Winner #2 - **Daniel Skinner**
 
@@ -137,7 +137,11 @@ All the solutions submitted by the participants will be available **[here](https
 
 ![winner.png](/images/winner.png)
 
-**Winner #1 - James Scott**
+<img align="right" src="/images/james-scott.jpg" width="180" height="180" alt="James Scott" title="James Scott" style="border:5px solid black" />
+
+**Winner #1 - James Scott** works at [18F](https://18f.gsa.gov/) as an Innovation Specialist in Washington, D.C. where he is currently working on the [cloud.gov](https://cloud.gov/) project.
+
+Throughout his career, he programmed in C++, Java, and Python. In early 2013, James first encountered Go and instantly fell in love. His passion for Go motivated him to integrate it not only into his personal projects but his professional projects as well. He is very excited about Go and looks forward to the language's future.
 
 His [solution](https://bitbucket.org/jcscottiii/amadeus).
 
