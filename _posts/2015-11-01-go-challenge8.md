@@ -4,6 +4,12 @@ title: Go Challenge - 8
 tags: [go challenge, golang]
 ---
 
+![update.jpg](/images/update.jpg)
+
+**The Challenge is now over.**
+
+---
+
 #### The November 2015 Go Challenge for developers (newbies included)
 
 #### Andrew Gerrand: Author of the 8th Go Challenge
