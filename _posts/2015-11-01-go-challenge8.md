@@ -6,9 +6,18 @@ tags: [go challenge, golang]
 
 ![update.jpg](/images/update.jpg)
 
-**The Challenge is now over.**
+**Winners have been declared by Andrew Gerrand**
+
+Winner #1 - **Jakub Rozanski** - A readable dancing links implementation.
+Winner #2 - **Jan Mercl** - I enjoyed reading this clean solution.
+
+**Special mentions**
+
+**Dan McCandless** - "Las Vegas" algorithm gave me pause, and then a good laugh.
+**Robert Ortega** - "suGOku" web app is nicely done.
 
 ---
+
 
 #### The November 2015 Go Challenge for developers (newbies included)
 
