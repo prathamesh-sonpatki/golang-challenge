@@ -9,11 +9,13 @@ tags: [go challenge, golang]
 **Winners have been declared by Andrew Gerrand**
 
 Winner #1 - **Jakub Rozanski** - A readable dancing links implementation.
+
 Winner #2 - **Jan Mercl** - I enjoyed reading this clean solution.
 
 **Special mentions**
 
 **Dan McCandless** - "Las Vegas" algorithm gave me pause, and then a good laugh.
+
 **Robert Ortega** - "suGOku" web app is nicely done.
 
 ---
