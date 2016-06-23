@@ -5,28 +5,31 @@ tags: [go challenge, golang]
 published: false
 ---
 
-#### The November 2015 Go Challenge for developers (newbies included)
+#### The July 2016 Go Challenge for developers (newbies included)
 
-#### Andrew Gerrand: Author of the 8th Go Challenge
+#### Aaron Cruz: Author of the 9th Go Challenge
 
-<img align="right" src="/images/andrew.jpg" height="200" width="200" alt="Andrew Gerrand" title="Andrew Gerrand" style="border:5px solid black" />
-The 8th Go Challenge author, Andrew Gerrand, is from Melbourne, Australia and now lives in Sydney working at Google Australia on the Go project. He has been writing code since he was a little kid, and has been working in the industry since he was a teenager. Before Google he worked for various Internet companies using most of the common languages in that sphere (Perl, PHP, Python, JS, etc). At the same time he spent most of his personal hacking time writing assembly for 8-bit systems from the 80s. He also has a Bachelors degree in Fine Arts (his major was photography).
+<img align="right" src="/images/aaron-cruz.jpg" height="200" width="200" alt="Aaron Cruz" title="Aaron Cruz" style="border:5px solid black" />
+The 9th Go Challenge author, Aaron Cruz, lives in the suburbs of Vienna, Austria but is a native of the suburbs of Seattle. In his former life he was a shepherd, a cheesemaker and a sous chef. Now he is freelancing, building native iOS and Android apps and their respective API's. In his spare time, he organizes a range of user groups in Vienna. If you get him started talking about food, he may never stop. He spoke at GopherConIndia 2015 and 2016.
 
-Andrew has this to say about the challenge:
+Aaron has this to say about the challenge:
 
-> "I set this puzzle because it suits a range of skill and knowledge levels. It's tractable for a novice to implement the brute force approach, while an expert can go all-out with a more creative approach. I look forward to seeing what the gophers can come up with!"
+> ""
 
 --- 
 
-#### The Go Challenge 8
+#### The Go Challenge 9
 
-##### A Sudoku Solver
+##### Nothin' But a Go Thang
 
 ##### Preamble
 
-The game of [Sudoku](http://www.wikiwand.com/en/Sudoku) is simple to understand but it can be challenging to play. The same can be said for the "metagame" of writing a Sudoku solver: the algorithm can be easy to imagine, but when you set about implementing it things can get interesting. And it clearly is interesting: Donald Knuth used Sudoku to demonstrate his "[dancing links](https://en.wikipedia.org/wiki/Dancing_Links)" technique, the Prime Minister of Singapore [released the source code](http://arstechnica.com/information-technology/2015/05/prime-minister-of-singapore-shares-his-c-code-for-sudoku-solver/) for his Sudoku solver to demonstrate his IT credentials, and many years ago I explored the problem as a novel application of Go's concurrency primitives.
+I grew up with Hip Hop. It connected me with a culture that seemed very alien, having grown up in the suburb of a suburb in Northwestern USA. Hip Hop changed dramatically over the years but one thing that stayed constant was story telling.
 
-It was back in 2010, when we were all still learning Go, that I wrote a [Sudoku](https://en.wikipedia.org/wiki/Sudoku) solver using goroutines and channels. I wrote it up on my blog ([part 1](http://nf.id.au/posts/2010/07/expressive-concurrency-a-go-sudoku-solver-pt.html), [part 2](http://nf.id.au/posts/2010/07/expresive-concurrency-a-go-sudoku-solver-pt-2.html)), but it was only ever able to solve puzzles that require no backtracking (guessing). All challenging Sudoku puzzles do require some guesswork, so I couldn't say my solver was ever finished. Indeed, I don't believe it is even possible to finish my solver without abandoning its fundamental design.
+Here are some samples of some of my favorites over the decades starting from my youth to the present.
+
+80s Eric B. & Rakim - I Ain't No Joke
+<iframe width="420" height="315" src="https://www.youtube.com/embed/2TN-kDEKxF0" frameborder="0" allowfullscreen></iframe>
 
 **The Goal of the challenge**
 
