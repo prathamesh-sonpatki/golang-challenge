@@ -29,8 +29,11 @@ I grew up with Hip Hop. It connected me with a culture that seemed very alien, h
 Here are some samples of some of my favorites over the decades starting from my youth to the present.
 
 80s <a href="https://www.youtube.com/embed/2TN-kDEKxF0">Eric B. & Rakim - I Ain't No Joke</a>
+
 90s <a href="https://youtu.be/_JZom_gVfuw">The Notorious B.I.G. - "Juicy"</a>
+
 00s <a href="https://youtu.be/UVtpXvzzXiA">Talib Kweli - Get By</a>
+
 10s <a href="https://youtu.be/R3ib9gCw1F4">Open Mike Eagle - Ziggy Starfish</a>
 
 It has always been one of my dreams to be a rapper. Unfortunately I spend way too much time on Twitter. I don’t have nearly the amount of time and energy necessary to write rhymes and practice my flow.
@@ -48,7 +51,13 @@ For example, let’s take Brad Fitz tweet:
 >
 > — Brad Fitzpatrick (@bradfitz) <a href="https://twitter.com/bradfitz/status/729875418837196800">May 10, 2016</a>
 
+One possible output could be...
 
+Leave you, I never mean to
+
+I watch it occasionally  
+
+Today I learned what I’m about to do
 
 **Bonus features**:
 
