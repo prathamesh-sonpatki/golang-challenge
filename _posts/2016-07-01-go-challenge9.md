@@ -28,8 +28,7 @@ I grew up with Hip Hop. It connected me with a culture that seemed very alien, h
 
 Here are some samples of some of my favorites over the decades starting from my youth to the present.
 
-80s Eric B. & Rakim - I Ain't No Joke
-<iframe width="420" height="315" src="https://www.youtube.com/embed/2TN-kDEKxF0" frameborder="0" allowfullscreen></iframe>
+80s <a href="https://www.youtube.com/embed/2TN-kDEKxF0">Eric B. & Rakim - I Ain't No Joke</a>
 
 **The Goal of the challenge**
 
