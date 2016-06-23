@@ -29,44 +29,26 @@ I grew up with Hip Hop. It connected me with a culture that seemed very alien, h
 Here are some samples of some of my favorites over the decades starting from my youth to the present.
 
 80s <a href="https://www.youtube.com/embed/2TN-kDEKxF0">Eric B. & Rakim - I Ain't No Joke</a>
+90s <a href="https://youtu.be/_JZom_gVfuw">The Notorious B.I.G. - "Juicy"</a>
+00s <a href="https://youtu.be/UVtpXvzzXiA">Talib Kweli - Get By</a>
+10s <a href="https://youtu.be/R3ib9gCw1F4">Open Mike Eagle - Ziggy Starfish</a>
+
+It has always been one of my dreams to be a rapper. Unfortunately I spend way too much time on Twitter. I don’t have nearly the amount of time and energy necessary to write rhymes and practice my flow.
 
 **The Goal of the challenge**
 
-The goal of this challenge is to implement a Sudoku solver.
+The goal of this challenge is to create a tweet to rap converter. It will take a twitter user as input and return rap versions of the tweets in their timeline.
 
 **Requirements of the challenge**
 
-Your program should read a puzzle of this form from standard input:
+For example, let’s take Brad Fitz tweet:
 
-```
-1 _ 3 _ _ 6 _ 8 _
-_ 5 _ _ 8 _ 1 2 _
-7 _ 9 1 _ 3 _ 5 6
-_ 3 _ _ 6 7 _ 9 _
-5 _ 7 8 _ _ _ 3 _
-8 _ 1 _ 3 _ 5 _ 7
-_ 4 _ _ 7 8 _ 1 _
-6 _ 8 _ _ 2 _ 4 _
-_ 1 2 _ 4 5 _ 7 8
-```
+> I've never used Plan 9, but I watch it install occasionally.
+> And today I learned that "myriad" can mean 4. <a href="pic.twitter.com/sIkvgEBMEF">pic.twitter.com/sIkvgEBMEF</a>
+>
+> — Brad Fitzpatrick (@bradfitz) <a href="https://twitter.com/bradfitz/status/729875418837196800">May 10, 2016</a>
 
-And it should write the solution to standard output:
 
-```
-1 2 3 4 5 6 7 8 9
-4 5 6 7 8 9 1 2 3
-7 8 9 1 2 3 4 5 6
-2 3 4 5 6 7 8 9 1
-5 6 7 8 9 1 2 3 4
-8 9 1 2 3 4 5 6 7
-3 4 5 6 7 8 9 1 2
-6 7 8 9 1 2 3 4 5
-9 1 2 3 4 5 6 7 8
-```
-
-It should reject malformed or invalid inputs and recognize and report puzzles that cannot be solved.
-
-(Incidentally, the puzzle above makes a nice test case, because the solution is easy to validate by sight.)
 
 **Bonus features**:
 
