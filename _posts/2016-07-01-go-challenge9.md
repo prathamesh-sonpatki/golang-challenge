@@ -53,11 +53,7 @@ For example, let’s take Brad Fitz tweet:
 
 One possible output could be...
 
-Leave you, I never mean to
-
-I watch it occasionally  
-
-Today I learned what I’m about to do
+Leave you, I never mean to<br />I watch it occasionally<br />Today I learned what I’m about to do
 
 **Bonus features**:
 
