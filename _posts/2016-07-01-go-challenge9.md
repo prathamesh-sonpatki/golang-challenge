@@ -55,19 +55,31 @@ One possible output could be...
 
 Leave you, I never mean to<br />I watch it occasionally<br />Today I learned what I’m about to do
 
+Or from Mr. Cheney:
+
+> Companies that reject remote working are implicitly putting their own internal communication problems above hiring the best candidate.
+>
+> — Dαve Cheney (@davecheney) <a href="https://twitter.com/davecheney/status/599404180483284993">May 16, 2015</a>
+
+Could be...
+
+Workin’ with the work, plus you know I keep the strap!<br />Problem is communication just be between me and myself<br />back to the snap
+
+**Features**:
+
+* Tweets are 140 characters or less
+* two lines need to rhyme
+* it feels as much as possible like the original tweet
+
+**Hint**
+
+* Take a look at the Soundex and Metaphone algorithms
+
 **Bonus features**:
 
-* Print a rating of the puzzle's difficulty (easy, medium, hard). This rating should roughly coincide with the ratings of shown by sites like [Web Sudoku](http://www.websudoku.com/).
-* Implement a puzzle generator that produces a puzzle of the given difficulty rating.
-* Maximize the efficiency of your program. ([Write a benchmark](http://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go).)
-* Write test cases, and use the [cover tool](https://blog.golang.org/cover) to make sure your tests are thorough.
-(I found a bug in both my implementation and a test case when I checked the coverage.)
-* Use a non-obvious technique, like Knuth's "Dancing Links" or something of your own invention.
-
-**Hints**
-
-* For an elegant and efficient representation of the puzzle, try using an array (not a slice).
-* Recursion can dramatically simplify your implementation.
+* keep a nice meter
+* complex rhyming scheme (ex. multi-sylable rhymes)
+* classic hip hop lyrics mixed in
 
 ---
 
@@ -81,7 +93,7 @@ By participating in this challenge, you agree to be bound by the Challenge Rules
 * Odds of winning depend on the number and quality of entries received. 
 * All taxes, including income taxes, are the sole responsibility of the winners. 
 * No prize substitution is permitted.
-* Create a zip of your Go source code and test cases and send the zip file to **golangchallenge [at] gmail.com before 24th of November 2015 (6 am IST)**. Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2015&mo=11&d=24&h=6&mn=0) to find the equivalent time in your city/country. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating or Participating and exploring further or Just for Fun or Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
+* Create a zip of your Go source code and test cases and send the zip file to **golangchallenge [at] gmail.com before 24th of July 2016 (6 am IST)**. Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2016&mo=7&d=24&h=6&mn=0) to find the equivalent time in your city/country. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating or Participating and exploring further or Just for Fun or Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
 * We shall be publishing on this blog, a list of participant names. If you don't want your name to appear kindly mention the same in your email. 
 * You are allowed to re-submit your code if you feel it is necessary.
 * After the challenge is over, all submissions will be made available [online on GitHub](https://github.com/golangchallenge/GCSolutions) under the [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause) or the [GNU General Public License, version 3 - GPL-3.0](http://opensource.org/licenses/GPL-3.0) unless a participant has indicated that his/her solution should not be made public before the challenge ends.
@@ -100,7 +112,7 @@ If you have any questions about this challenge, please join the [golang-challeng
 
 #### Best Solution
 
-The author of the Go Challenge will decide the best five solutions. The author shall have the sole authority and discretion to select the award recipients. 
+The author of the Go Challenge will decide the best two solutions. The author shall have the sole authority and discretion to select the award recipients. 
 
 #### Notification
 
