@@ -10,11 +10,11 @@ published: false
 #### Aaron Cruz: Author of the 9th Go Challenge
 
 <img align="right" src="/images/aaron-cruz.jpg" height="200" width="200" alt="Aaron Cruz" title="Aaron Cruz" style="border:5px solid black" />
-The 9th Go Challenge author, Aaron Cruz, lives in the suburbs of Vienna, Austria but is a native of the suburbs of Seattle. In his former life he was a shepherd, a cheesemaker and a sous chef. Now he is freelancing, building native iOS and Android apps and their respective API's. In his spare time, he organizes a range of user groups in Vienna. If you get him started talking about food, he may never stop. He spoke at GopherConIndia 2015 and 2016.
+The 9th Go Challenge author, Aaron Cruz, is a food lover who speaks about Go and other programming languages at conferences around the world. For his real job, he helps marketplaces start making revenue faster by integrating with Stripe Connect to simplify buyer/seller (rider/driver, freelancer/client) payments.
 
 Aaron has this to say about the challenge:
 
-> ""
+> "I am interested in a pragmatic approach and I want the entrant to have fun. It doesn’t need to be exact, just as accurate as you can get. Cut corners and break rules if you need to :)"
 
 --- 
 
