@@ -9,7 +9,7 @@ published: false
 
 #### Aaron Cruz: Author of the 9th Go Challenge
 
-<img align="right" src="/images/aaron-cruz.jpg" height="200" width="200" alt="Aaron Cruz" title="Aaron Cruz" style="border:5px solid black" />
+<img align="right" src="/images/aaron-cruz.png" height="200" width="200" alt="Aaron Cruz" title="Aaron Cruz" style="border:5px solid black" />
 The 9th Go Challenge author, Aaron Cruz, is a food lover who speaks about Go and other programming languages at conferences around the world. For his real job, he helps marketplaces start making revenue faster by integrating with Stripe Connect to simplify buyer/seller (rider/driver, freelancer/client) payments.
 
 Aaron has this to say about the challenge:
