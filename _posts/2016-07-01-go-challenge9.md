@@ -2,7 +2,6 @@
 layout: post
 title: Go Challenge - 9
 tags: [go challenge, golang]
-published: false
 ---
 
 #### The July 2016 Go Challenge for developers (newbies included)
