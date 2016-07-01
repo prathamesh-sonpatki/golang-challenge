@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go Challenge - 9
+title: Go Challenge - 10
 tags: [go challenge, golang]
 ---
 
@@ -15,13 +15,7 @@ Aaron has this to say about the challenge:
 
 > "I am interested in a pragmatic approach and I want the entrant to have fun. It doesn’t need to be exact, just as accurate as you can get. Cut corners and break rules if you need to :)"
 
---- 
-
-#### The Go Challenge 9
-
-##### Nothin' But a Go Thang
-
-##### Preamble
+---
 
 I grew up with Hip Hop. It connected me with a culture that seemed very alien, having grown up in the suburb of a suburb in Northwestern USA. Hip Hop changed dramatically over the years but one thing that stayed constant was story telling.
 
@@ -89,64 +83,11 @@ By participating in this challenge, you agree to be bound by the Challenge Rules
 * The Challenge is open to individuals.
 * Evaluators cannot enter the challenge except under the "Just for Fun" category.
 * Each entrant shall indemnify, defend, and hold JoshSoftware Pvt. Ltd. (who has sponsored the domain and is the organizer of these challenges) harmless from any third party claims arising from or related to that entrant's participation in the Challenge. In no event shall JoshSoftware Pvt. Ltd. be liable to an entrant for acts or omissions arising out of or related to the Challenge or that entrant's participation in the Challenge.
-* Odds of winning depend on the number and quality of entries received. 
-* All taxes, including income taxes, are the sole responsibility of the winners. 
-* No prize substitution is permitted.
-* Create a zip of your Go source code and test cases and send the zip file to **golangchallenge [at] gmail.com before 24th of July 2016 (6 am IST)**. Use [this link](http://www.worldtimeserver.com/convert_time_in_IN.aspx?y=2016&mo=7&d=24&h=6&mn=0) to find the equivalent time in your city/country. No new solutions will be accepted after that. In the email mention **your full name, country of residence, twitter or GitHub id (if any) and participating under which category - Just participating or Participating and exploring further or Just for Fun or Anonymous entry**. We are accepting anonymous submissions and will evaluate them too but then these participants are not eligible for the prizes. 
-* We shall be publishing on this blog, a list of participant names. If you don't want your name to appear kindly mention the same in your email. 
-* You are allowed to re-submit your code if you feel it is necessary.
-* After the challenge is over, all submissions will be made available [online on GitHub](https://github.com/golangchallenge/GCSolutions) under the [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause) or the [GNU General Public License, version 3 - GPL-3.0](http://opensource.org/licenses/GPL-3.0) unless a participant has indicated that his/her solution should not be made public before the challenge ends.
-
-#### How will the challenge be evaluated?
-
-Entries will be evaluated by the challenge author and a team of evaluators.
-
-#### Questions?
-
-If you have any questions about this challenge, please join the [golang-challenge channel on slack](http://t.co/n6EesY9Mmv) and ask your questions. This is a room for people who are going to participate in the Go Challenge. You can also send us an email at golangchallenge [at] gmail.com
-
-<!--
-#### Evaluators
-
-[Nathan Youngman](https://twitter.com/nathany) had set the guidelines for evaluation for the first Go Challenge. Subsequently [Dominik Honnef](https://twitter.com/dominikhonnef) modified the guidelines based on his experience as an evaluator for the first challenge. [Austin Riendeau](https://github.com/apriendeau), [Cory LaNou](https://twitter.com/corylanou), [Edd Robinson](https://github.com/e-dard), [Gautam Dey](https://github.com/gdey), [Jyotiska NK](https://twitter.com/jyotiska_nk), [Kevin Gillette](https://twitter.com/kevingillette) and [Pravin Mishra](https://twitter.com/pravinmishra88) have agreed to go through all the submitted solutions of a challenge. They will comment and rank these solutions.
--->
+* Odds of winning depend on the number and quality of entries received.
 
 #### Best Solution
 
-The author of the Go Challenge will decide the best two solutions. The author shall have the sole authority and discretion to select the award recipients. 
-
-#### Notification
-
-The winning entries will be announced here on this blog. The winners will be sent their prizes by email/postal mail.
-
-#### Prizes
-
-The author of the challenge will select 2 winners and prizes will be awarded to them.
-
-Here are some great prizes provided by our sponsors for the event.
-
-_Winner 1_:
-
-* [Apcera](https://www.apcera.com/) - [Go Gopher Messenger Bag](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
-* [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
-* [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
-
-_Winner 2_:
-
-* [Anand D N](https://twitter.com/Wanderer140) - An eBook: [Mastering Go Web Services](http://shop.oreilly.com/product/9781783981304.do)
-* [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
-* [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
-* [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
-
-#### Challenge Solutions
-
-All the solutions submitted by the participants will be available **[here](https://github.com/golangchallenge/GCSolutions)** after the challenge ends.
-
-#### Sponsors
-
-This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [Cube Root Software](http://cuberoot.in/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [Packt Publishing](https://www.packtpub.com/) and [Qwinix Technologies](http://www.qwinixtech.com/).
-
-#### Credit
+The author of the Go Challenge will decide the best two solutions. The author shall have the sole authority and discretion to select the award recipients.
 
 * The Gopher character is based on the Go mascot designed by Renée French and copyrighted under the Creative Commons Attribution 3.0 license.
 * [GitHub](https://github.com/) for the yearly sponsorship of a [GitHub Bronze Organisation plan](https://github.com/pricing) for the Go Challenge.
